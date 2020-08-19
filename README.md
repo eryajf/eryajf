@@ -12,4 +12,6 @@
 - 2，人的痛苦很大部分来源于“迷”（愚痴），而真心谛听的往往阅经猛醒，以致破迷开悟，离苦得乐。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
 - 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都“恭而有礼”，也希望借此能够结交更多的朋友。
 
+### 编程语言
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf)](https://github.com/anuraghazra/github-readme-stats)
