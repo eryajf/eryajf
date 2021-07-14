@@ -15,7 +15,7 @@
 ### 编程语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&theme=buefy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&layout=buefy)
 
 ### 提交历史
 
