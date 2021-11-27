@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/eryajf/eryajf/master/wave.gif" width="30px">
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢是一种跳出去回望这个群体的样子。常常别有一番滋味。究竟有多少滋味，兴许以后会在某个栏目下述说出来。
 
@@ -16,7 +16,8 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf" alt="visitor badge"/> 
 
-### 编程语言💻
+### Stats💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=eryajf&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/eryajf/eryajf)
+[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/eryajf/eryajf)
+[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/eryajf/eryajf)
