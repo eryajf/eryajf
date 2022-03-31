@@ -22,7 +22,7 @@
 [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/eryajf/eryajf)
 [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/eryajf/eryajf)
 
-![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
-
-
 ![snake](./assets/github-contribution-grid-snake.svg)
+
+
+![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
