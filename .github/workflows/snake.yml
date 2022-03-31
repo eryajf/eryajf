@@ -26,5 +26,5 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
+          branch: master
           message: "Generate Contribution Snake"
