@@ -23,3 +23,6 @@
 [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/eryajf/eryajf)
 
 ![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
+
+
+![snake](./assets/github-contribution-grid-snake.svg)
