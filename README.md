@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/eryajf/eryajf/master/wave.gif" width="30px">
+### Hi there
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢是一种跳出去回望这个群体的样子。常常别有一番滋味。究竟有多少滋味，兴许以后会在某个栏目下述说出来。
 
