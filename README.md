@@ -30,3 +30,19 @@
 ![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
 
 </div>
+
+
+<details>
+<summary>更多仓库 ...</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true)](https://github.com/eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true)](https://github.com/eryajf)
+
+</details>
+
+
