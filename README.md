@@ -66,6 +66,8 @@
 - [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/)
 - [docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/)
 - [学习周刊-总第57期-2022年第22周](https://wiki.eryajf.net/pages/af0834/)
+- [学习周刊-总第56期-2022年第21周](https://wiki.eryajf.net/pages/77b80b/)
+- [GitHub中开源项目维护流程手册](https://wiki.eryajf.net/pages/53399c/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
