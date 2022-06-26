@@ -6,9 +6,7 @@
 
 </div>
 
-<img align='right' src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220626_200153.gif" width="330" />
-
-
+<img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="530" height="390" />
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢是一种跳出去回望这个群体的样子。常常别有一番滋味。究竟有多少滋味，兴许以后会在某个栏目下述说出来。
 
