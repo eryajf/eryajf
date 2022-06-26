@@ -1,4 +1,14 @@
-### Hi there
+### 👋 Hi there
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
+
+</div>
+
+<img align='right' src="https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220626_200153.gif" width="330" />
+
+
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢是一种跳出去回望这个群体的样子。常常别有一番滋味。究竟有多少滋味，兴许以后会在某个栏目下述说出来。
 
@@ -12,18 +22,19 @@
 - 2，人的痛苦很大部分来源于“迷”（愚痴），而真心谛听的往往阅经猛醒，以致破迷开悟，离苦得乐。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
 - 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都“恭而有礼”，也希望借此能够结交更多的朋友。
 
-### 欢迎来访👏🏻
+### 🤗 欢迎来访
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf" alt="visitor badge"/> 
 
-### Stats💻
+![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)![](https://badges.pufler.dev/years/eryajf)![](https://badges.pufler.dev/repos/eryajf)![](https://badges.pufler.dev/commits/monthly/eryajf)
+
+### 💻 Stats
 
 <div align="center">
 
 
 ![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
-![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)  
+![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)
 
 ![snake](./assets/github-contribution-grid-snake.svg)
 
@@ -31,9 +42,10 @@
 
 </div>
 
+### 🏊 更多仓库
 
 <details>
-<summary>更多仓库 ...</summary>
+<summary>展开 ...</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true)](https://github.com/eryajf/ldapctl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true)](https://github.com/eryajf/rpmbuild)
@@ -44,3 +56,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true)](https://github.com/eryajf/magic-of-kubernetes-scripts)
 
 </details>
+
+### 📝 博客最近更新
+
+<img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
