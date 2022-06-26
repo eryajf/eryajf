@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/eryajf/eryajf/master/wave.gif" width="30px">
+### Hi there
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢是一种跳出去回望这个群体的样子。常常别有一番滋味。究竟有多少滋味，兴许以后会在某个栏目下述说出来。
 
@@ -18,11 +18,29 @@
 
 ### Stats💻
 
-[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/eryajf/eryajf)
-[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/eryajf/eryajf)
-[![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/eryajf/eryajf) [![](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/eryajf/eryajf)
+<div align="center">
+
+
+![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
+![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)  
 
 ![snake](./assets/github-contribution-grid-snake.svg)
 
-
 ![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
+
+</div>
+
+
+<details>
+<summary>更多仓库 ...</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true)](https://github.com/eryajf/ldapctl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true)](https://github.com/eryajf/rpmbuild)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true)](https://github.com/eryajf/shellabout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true)](https://github.com/eryajf/docker_learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true)](https://github.com/eryajf/xirang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true)](https://github.com/eryajf/care-screenshot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true)](https://github.com/eryajf/magic-of-kubernetes-scripts)
+
+</details>
