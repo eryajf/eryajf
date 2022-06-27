@@ -50,13 +50,14 @@
 <details>
 <summary>点击展开 ...</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true)](https://github.com/eryajf/ldapctl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true)](https://github.com/eryajf/rpmbuild)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true)](https://github.com/eryajf/shellabout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true)](https://github.com/eryajf/docker_learn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true)](https://github.com/eryajf/xirang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true)](https://github.com/eryajf/care-screenshot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true)](https://github.com/eryajf/magic-of-kubernetes-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/eryajf/ldapctl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true&&theme=cobalt)](https://github.com/eryajf/rpmbuild)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true&&theme=cobalt)](https://github.com/eryajf/shellabout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true&&theme=cobalt)](https://github.com/eryajf/docker_learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true&&theme=cobalt)](https://github.com/eryajf/xirang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true&&theme=cobalt)](https://github.com/eryajf/care-screenshot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-kubernetes-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=read-list&show_owner=true&&theme=cobalt)](https://github.com/eryajf/read-list)
 
 </details>
 
@@ -65,14 +66,17 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/)
-- [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/)
-- [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/)
-- [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/)
-- [docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/)
-- [学习周刊-总第57期-2022年第22周](https://wiki.eryajf.net/pages/af0834/)
-- [学习周刊-总第56期-2022年第21周](https://wiki.eryajf.net/pages/77b80b/)
-- [GitHub中开源项目维护流程手册](https://wiki.eryajf.net/pages/53399c/)
+- 🐻 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) 
+
+- 🎃 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) 
+
+- 🚀 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) 
+
+- 🌋 [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/) 
+
+- 🌁 [docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/) 
+
+- 😺 [学习周刊-总第57期-2022年第22周](https://wiki.eryajf.net/pages/af0834/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
