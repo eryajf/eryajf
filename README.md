@@ -57,6 +57,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true&&theme=cobalt)](https://github.com/eryajf/xirang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true&&theme=cobalt)](https://github.com/eryajf/care-screenshot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-kubernetes-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=read-list&show_owner=true&&theme=cobalt)](https://github.com/eryajf/read-list)
 
 </details>
 
