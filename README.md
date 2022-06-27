@@ -50,13 +50,13 @@
 <details>
 <summary>点击展开 ...</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true)](https://github.com/eryajf/ldapctl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true)](https://github.com/eryajf/rpmbuild)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true)](https://github.com/eryajf/shellabout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true)](https://github.com/eryajf/docker_learn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true)](https://github.com/eryajf/xirang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true)](https://github.com/eryajf/care-screenshot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true)](https://github.com/eryajf/magic-of-kubernetes-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/eryajf/ldapctl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true&&theme=cobalt)](https://github.com/eryajf/rpmbuild)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true&&theme=cobalt)](https://github.com/eryajf/shellabout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true&&theme=cobalt)](https://github.com/eryajf/docker_learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true&&theme=cobalt)](https://github.com/eryajf/xirang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true&&theme=cobalt)](https://github.com/eryajf/care-screenshot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-kubernetes-scripts)
 
 </details>
 
