@@ -23,7 +23,7 @@
 ### 🤗 欢迎来访
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)![](https://badges.pufler.dev/years/eryajf)![](https://badges.pufler.dev/repos/eryajf)![](https://badges.pufler.dev/commits/monthly/eryajf)[![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
+![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)![](https://badges.pufler.dev/years/eryajf)![](https://badges.pufler.dev/repos/eryajf)![](https://badges.pufler.dev/commits/monthly/eryajf)![](https://img.shields.io/github/followers/eryajf?label=Followers)[![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
 
 ### 🧰 语言工具
 
