@@ -67,17 +67,17 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) 
+- 🐻 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) 
 
-- 🎃 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) 
+- 🎃 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) 
 
-- 🚀 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) 
+- 🚀 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) 
 
-- 🌋 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) 
+- 🌋 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) 
 
-- 🌁 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) 
+- 🌁 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) 
 
-- 😺 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) 
+- 😺 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
