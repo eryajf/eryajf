@@ -1,5 +1,13 @@
 name: follower notifier
 on:
+  push:
+    branches:
+      - master
+  fork:
+  watch:
+    types:
+      - started
+  workflow_dispatch:
   # notify me daily
   schedule:
     - cron: '0 3 * * *' # in UTC time
