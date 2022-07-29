@@ -78,17 +78,17 @@ width="800"  height="3">
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) 
+- 🐻 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) 
 
-- 🎃 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) 
+- 🎃 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) 
 
-- 🚀 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) 
+- 🚀 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) 
 
-- 🌋 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) 
+- 🌋 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) 
 
-- 🌁 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) 
+- 🌁 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) 
 
-- 😺 [openLDAP入门系列笔记第二篇--简单认识objectCLass以及常见应用](https://wiki.eryajf.net/pages/ea10fa/) 
+- 😺 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
