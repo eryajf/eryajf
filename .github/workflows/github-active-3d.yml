@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: 生成GitHub活动3D版
 
 on:
   schedule: # 03:00 JST == 18:00 UTC

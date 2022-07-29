@@ -1,0 +1,33 @@
+name: 生成我的 star 列表
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: 0 18 * * *
+  workflow_dispatch:
+
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - run: pip install starred
+      - name: Update star list
+        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.ACCESS_TOKEN }} > AWESOME-STARS.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "eryajf@163.com"
+          git config --local user.name "eryajf"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}

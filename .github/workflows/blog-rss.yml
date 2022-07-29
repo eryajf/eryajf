@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: 生成博客最近更新文章列表
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
