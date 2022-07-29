@@ -80,7 +80,9 @@ width="800"  height="3">
 
 </details>
 
-### 🎡 我的关注
+### 🎡 关注我的大佬
+
+> 😘 Thank you follow me!
 
 <details>
 <summary>点击展开 ...</summary>
