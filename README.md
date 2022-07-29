@@ -82,7 +82,7 @@ width="800"  height="3">
 
 ### 📝 博客最近更新
 
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+<img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
 - 🐻 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/)
