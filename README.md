@@ -28,7 +28,14 @@ width="800"  height="3">
 ### 🤗 欢迎来访
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)![](https://badges.pufler.dev/years/eryajf)![](https://badges.pufler.dev/repos/eryajf)![](https://badges.pufler.dev/commits/monthly/eryajf)![](https://img.shields.io/github/followers/eryajf?label=Followers)[![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
+![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)
+[![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
+[![Auth](https://img.shields.io/badge/Auth-eryajf-f9b772?logo=GitHub)](https://github.com/eryajf)
+[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github.com/eryajf?tab=followers)
+[![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
+[![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://tva4.sinaimg.cn/large/008k1Yt0ly1h4nmsb1pgzj32n00yo154.jpg)
+[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](AWESOME-STARS.md)
+
 
 ### 🧰 语言工具
 
@@ -72,10 +79,6 @@ width="800"  height="3">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-github-profile-readme-chinese&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 
 </details>
-
-### :star2: [我的star列表](https://github.com/eryajf?tab=stars)
-
-[🧐 点我查看](AWESOME-STARS.md)
 
 ### 📝 博客最近更新
 
