@@ -77,8 +77,8 @@ width="800"  height="3">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=go-ldap-admin-doc&show_owner=true&&theme=cobalt)](https://github.com/eryajf/go-ldap-admin-doc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=vdoing-template&show_owner=true&&theme=cobalt)](https://github.com/eryajf/vdoing-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-github-profile-readme-chinese&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=Obsidian-Plugin-Weekly&show_owner=true&&theme=cobalt)](https://github.com/eryajf/Obsidian-Plugin-Weekly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-stars-eryajf&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-stars-eryajf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=Obsidian-Plugin-Weekly&show_owner=true&&theme=cobalt)](https://github.com/eryajf/Obsidian-Plugin-Weekly)
 
 </details>
 
