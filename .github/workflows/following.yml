@@ -3,7 +3,7 @@ name: Get Top Followers
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 20 * * *'
 jobs:
