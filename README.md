@@ -152,18 +152,18 @@ width="800"  height="3">
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/rxliuli">
-            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
-        </a>
-        <br />
-        <a href="https://github.com/rxliuli">rxliuli</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
         <br />
         <a href="https://github.com/awsassets">awsassets</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rxliuli">
+            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
+        </a>
+        <br />
+        <a href="https://github.com/rxliuli">rxliuli</a>
     </td>
     <td align="center">
         <a href="https://github.com/royswale">
@@ -180,12 +180,21 @@ width="800"  height="3">
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+        </a>
+        <br />
+        <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
         </a>
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/georgezouq">
             <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
@@ -193,8 +202,6 @@ width="800"  height="3">
         <br />
         <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
@@ -236,13 +243,6 @@ width="800"  height="3">
         </a>
         <br />
         <a href="https://github.com/vortesnail">chen xin</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SunSeekerX">
-            <img src="https://avatars2.githubusercontent.com/u/48562733" width="100px;" alt="SunSeekerX"/>
-        </a>
-        <br />
-        <a href="https://github.com/SunSeekerX">SunSeekerX</a>
     </td>
   </tr>
 </table>
