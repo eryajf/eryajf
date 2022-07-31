@@ -272,7 +272,7 @@ width="800"  height="3">
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
 
-### :basecampy: GitHub最新动态
+### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/lizj3624/lizj3624/issues/1) in [lizj3624/lizj3624](https://github.com/lizj3624/lizj3624)
