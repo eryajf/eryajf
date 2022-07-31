@@ -196,6 +196,13 @@ width="800"  height="3">
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/sun0225SUN">
+            <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
+        </a>
+        <br />
+        <a href="https://github.com/sun0225SUN">小孙同学</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xiezipei">
             <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
         </a>
@@ -236,13 +243,6 @@ width="800"  height="3">
         </a>
         <br />
         <a href="https://github.com/SunSeekerX">SunSeekerX</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/windorz9">
-            <img src="https://avatars2.githubusercontent.com/u/21336297" width="100px;" alt="windorz9"/>
-        </a>
-        <br />
-        <a href="https://github.com/windorz9">windorz9</a>
     </td>
   </tr>
 </table>
