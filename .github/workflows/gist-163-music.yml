@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: -|
-          git clone https://github.com/Leecason/netease-music-box.git && cd netease-music-box && yarn install && mv index.js action.yml sample.env ../
+          git clone https://github.com/Leecason/netease-music-box.git && cd netease-music-box && yarn install && mv index.js action.yml sample.env node_modules ../
       - name: Update gist
         uses: ./
         env:
