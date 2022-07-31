@@ -1,5 +1,5 @@
 
-name: Get Top Followers
+name: 获取活跃的follower
 on:
   push:
     branches:

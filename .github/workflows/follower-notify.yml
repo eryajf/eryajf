@@ -1,4 +1,4 @@
-name: follower notifier
+name: 新增follower通知
 on:
   push:
     branches:

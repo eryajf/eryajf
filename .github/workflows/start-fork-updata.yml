@@ -1,4 +1,4 @@
-name: This repo has x stars y forks
+name: 这个仓库有 x 个 star y 个 fork
 
 on:
   push:
