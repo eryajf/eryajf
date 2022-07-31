@@ -5,7 +5,7 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
   push:
-        branches: master
+    branches: master
 
 jobs:
   build:
