@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GH_USERNAME: eryajf
-          GIST_ID: 5065225c0ddb5f60ba5d9c5339863336
+          GIST_ID: cde62efb6d6fa89904441d3aefdd8738
