@@ -26,4 +26,4 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIST_ID: 8d7784387dec506f58e3421f28024105
           UID: '237149104'
-        run: cd bilibili-box && deno run --allow-net --allow-env index.ts
+        run: git clone https://github.com/KeJunMao/bilibili-box.git && cd bilibili-box && deno run --allow-net --allow-env index.ts
