@@ -257,17 +257,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
+- 🐻 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
 
-- 🎃 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
+- 🎃 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/)
 
-- 🚀 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) 
+- 🚀 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/)
 
-- 🌋 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) 
+- 🌋 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/)
 
-- 🌁 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) 
+- 🌁 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/)
 
-- 😺 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) 
+- 😺 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -282,3 +282,8 @@ width="800"  height="3">
 5. 🎉 Merged PR [#26](https://github.com/eryajf/learn-github/pull/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 6. 🗣 Commented on [#26](https://github.com/eryajf/learn-github/issues/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
+
+### ☄️ 其他动态
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
