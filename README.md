@@ -275,10 +275,10 @@ width="800"  height="3">
 ### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/19) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#18](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/18) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Opened issue [#3](https://github.com/qiaocco/qiaocco/issues/3) in [qiaocco/qiaocco](https://github.com/qiaocco/qiaocco)
-4. ❗️ Opened issue [#1](https://github.com/04zhujunjie/04zhujunjie/issues/1) in [04zhujunjie/04zhujunjie](https://github.com/04zhujunjie/04zhujunjie)
-5. ❗️ Opened issue [#1](https://github.com/Masayuki-JP/Masayuki-JP/issues/1) in [Masayuki-JP/Masayuki-JP](https://github.com/Masayuki-JP/Masayuki-JP)
-6. ❗️ Opened issue [#1](https://github.com/zhouzongyan/zhouzongyan/issues/1) in [zhouzongyan/zhouzongyan](https://github.com/zhouzongyan/zhouzongyan)
+1. ❗️ Opened issue [#1](https://github.com/cage1016/cage1016/issues/1) in [cage1016/cage1016](https://github.com/cage1016/cage1016)
+2. ❗️ Opened issue [#1](https://github.com/simman/simman/issues/1) in [simman/simman](https://github.com/simman/simman)
+3. ❗️ Opened issue [#1](https://github.com/KikyoShaw/KikyoShaw/issues/1) in [KikyoShaw/KikyoShaw](https://github.com/KikyoShaw/KikyoShaw)
+4. 🎉 Merged PR [#23](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/23) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. 🗣 Commented on [#1](https://github.com/SteamedFish/SteamedFish/issues/1) in [SteamedFish/SteamedFish](https://github.com/SteamedFish/SteamedFish)
+6. ❗️ Opened issue [#1](https://github.com/lhbyllcl2/lhbyllcl2/issues/1) in [lhbyllcl2/lhbyllcl2](https://github.com/lhbyllcl2/lhbyllcl2)
 <!--END_SECTION:activity-->
