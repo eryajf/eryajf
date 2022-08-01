@@ -275,10 +275,10 @@ width="800"  height="3">
 ### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/asjdf/asjdf/issues/1) in [asjdf/asjdf](https://github.com/asjdf/asjdf)
-2. ❗️ Opened issue [#1](https://github.com/yorkezhong/yorkezhong/issues/1) in [yorkezhong/yorkezhong](https://github.com/yorkezhong/yorkezhong)
-3. ❗️ Opened issue [#1](https://github.com/Xxianglei/Xxianglei/issues/1) in [Xxianglei/Xxianglei](https://github.com/Xxianglei/Xxianglei)
-4. ❗️ Opened issue [#1](https://github.com/Ghostwritten/Ghostwritten/issues/1) in [Ghostwritten/Ghostwritten](https://github.com/Ghostwritten/Ghostwritten)
-5. ❗️ Opened issue [#1](https://github.com/yangchuansheng/yangchuansheng/issues/1) in [yangchuansheng/yangchuansheng](https://github.com/yangchuansheng/yangchuansheng)
-6. ❗️ Opened issue [#1](https://github.com/wanqqq29/wanqqq29/issues/1) in [wanqqq29/wanqqq29](https://github.com/wanqqq29/wanqqq29)
+1. 🎉 Merged PR [#19](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/19) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🎉 Merged PR [#18](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/18) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. ❗️ Opened issue [#3](https://github.com/qiaocco/qiaocco/issues/3) in [qiaocco/qiaocco](https://github.com/qiaocco/qiaocco)
+4. ❗️ Opened issue [#1](https://github.com/04zhujunjie/04zhujunjie/issues/1) in [04zhujunjie/04zhujunjie](https://github.com/04zhujunjie/04zhujunjie)
+5. ❗️ Opened issue [#1](https://github.com/Masayuki-JP/Masayuki-JP/issues/1) in [Masayuki-JP/Masayuki-JP](https://github.com/Masayuki-JP/Masayuki-JP)
+6. ❗️ Opened issue [#1](https://github.com/zhouzongyan/zhouzongyan/issues/1) in [zhouzongyan/zhouzongyan](https://github.com/zhouzongyan/zhouzongyan)
 <!--END_SECTION:activity-->
