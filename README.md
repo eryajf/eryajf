@@ -275,10 +275,10 @@ width="800"  height="3">
 ### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/simonecorsi/mawesome/issues/161) in [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
-2. 🎉 Merged PR [#24](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/24) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Opened issue [#1](https://github.com/cage1016/cage1016/issues/1) in [cage1016/cage1016](https://github.com/cage1016/cage1016)
-4. ❗️ Opened issue [#1](https://github.com/simman/simman/issues/1) in [simman/simman](https://github.com/simman/simman)
-5. ❗️ Opened issue [#1](https://github.com/KikyoShaw/KikyoShaw/issues/1) in [KikyoShaw/KikyoShaw](https://github.com/KikyoShaw/KikyoShaw)
-6. 🎉 Merged PR [#23](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/23) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. 🎉 Merged PR [#22](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/22) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🗣 Commented on [#161](https://github.com/simonecorsi/mawesome/issues/161) in [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+3. 🎉 Merged PR [#24](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/24) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Opened issue [#1](https://github.com/cage1016/cage1016/issues/1) in [cage1016/cage1016](https://github.com/cage1016/cage1016)
+5. ❗️ Opened issue [#1](https://github.com/simman/simman/issues/1) in [simman/simman](https://github.com/simman/simman)
+6. ❗️ Opened issue [#1](https://github.com/KikyoShaw/KikyoShaw/issues/1) in [KikyoShaw/KikyoShaw](https://github.com/KikyoShaw/KikyoShaw)
 <!--END_SECTION:activity-->
