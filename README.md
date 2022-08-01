@@ -217,6 +217,13 @@ width="800"  height="3">
         <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
+        <a href="https://github.com/yongxinz">
+            <img src="https://avatars2.githubusercontent.com/u/13905325" width="100px;" alt="yongxinz"/>
+        </a>
+        <br />
+        <a href="https://github.com/yongxinz">yongxinz</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
@@ -236,13 +243,6 @@ width="800"  height="3">
         </a>
         <br />
         <a href="https://github.com/wuchunfu">ChunFu Wu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/vortesnail">
-            <img src="https://avatars2.githubusercontent.com/u/18679842" width="100px;" alt="vortesnail"/>
-        </a>
-        <br />
-        <a href="https://github.com/vortesnail">chen xin</a>
     </td>
   </tr>
 </table>
