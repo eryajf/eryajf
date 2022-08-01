@@ -217,18 +217,18 @@ width="800"  height="3">
         <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
-        <a href="https://github.com/yongxinz">
-            <img src="https://avatars2.githubusercontent.com/u/13905325" width="100px;" alt="yongxinz"/>
-        </a>
-        <br />
-        <a href="https://github.com/yongxinz">yongxinz</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yongxinz">
+            <img src="https://avatars2.githubusercontent.com/u/13905325" width="100px;" alt="yongxinz"/>
+        </a>
+        <br />
+        <a href="https://github.com/yongxinz">yongxinz</a>
     </td>
     <td align="center">
         <a href="https://github.com/qiutian00">
@@ -286,4 +286,49 @@ width="800"  height="3">
 ### ☄️ 其他动态
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+🌆 Daytime    332 commits    ███████████░░░░░░░░░░░░░░   46.11% 
+🌃 Evening    210 commits    ███████░░░░░░░░░░░░░░░░░░   29.17% 
+🌙 Night      38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       210 commits    ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Tuesday      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
+Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Thursday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
+Saturday     79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Sunday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.25% 
+Markdown                 3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.68% 
+HTML                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Vue.js                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+
+🔥 Editors: 
+VS Code                  10 hrs 9 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      10 hrs 9 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 01/08/2022 16:33:46 UTC
 <!--END_SECTION:waka-->
