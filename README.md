@@ -152,18 +152,18 @@ width="800"  height="3">
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/rxliuli">
-            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
-        </a>
-        <br />
-        <a href="https://github.com/rxliuli">rxliuli</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
         <br />
         <a href="https://github.com/awsassets">awsassets</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rxliuli">
+            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
+        </a>
+        <br />
+        <a href="https://github.com/rxliuli">rxliuli</a>
     </td>
     <td align="center">
         <a href="https://github.com/royswale">
@@ -180,12 +180,21 @@ width="800"  height="3">
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+        </a>
+        <br />
+        <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
         </a>
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/georgezouq">
             <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
@@ -193,8 +202,6 @@ width="800"  height="3">
         <br />
         <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
@@ -237,13 +244,6 @@ width="800"  height="3">
         <br />
         <a href="https://github.com/vortesnail">chen xin</a>
     </td>
-    <td align="center">
-        <a href="https://github.com/SunSeekerX">
-            <img src="https://avatars2.githubusercontent.com/u/48562733" width="100px;" alt="SunSeekerX"/>
-        </a>
-        <br />
-        <a href="https://github.com/SunSeekerX">SunSeekerX</a>
-    </td>
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
@@ -275,10 +275,10 @@ width="800"  height="3">
 ### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/li-xiao-shuang/li-xiao-shuang/issues/1) in [li-xiao-shuang/li-xiao-shuang](https://github.com/li-xiao-shuang/li-xiao-shuang)
-2. ❗️ Opened issue [#1](https://github.com/JarryShaw/JarryShaw/issues/1) in [JarryShaw/JarryShaw](https://github.com/JarryShaw/JarryShaw)
-3. ❗️ Opened issue [#1](https://github.com/erdengk/erdengk/issues/1) in [erdengk/erdengk](https://github.com/erdengk/erdengk)
-4. ❗️ Opened issue [#1](https://github.com/reaink/reaink/issues/1) in [reaink/reaink](https://github.com/reaink/reaink)
-5. ❗️ Opened issue [#1](https://github.com/danerlt/danerlt/issues/1) in [danerlt/danerlt](https://github.com/danerlt/danerlt)
-6. ❗️ Opened issue [#1](https://github.com/17661977890/17661977890/issues/1) in [17661977890/17661977890](https://github.com/17661977890/17661977890)
+1. 🎉 Merged PR [#22](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/22) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🗣 Commented on [#161](https://github.com/simonecorsi/mawesome/issues/161) in [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+3. 🎉 Merged PR [#24](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/24) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Opened issue [#1](https://github.com/cage1016/cage1016/issues/1) in [cage1016/cage1016](https://github.com/cage1016/cage1016)
+5. ❗️ Opened issue [#1](https://github.com/simman/simman/issues/1) in [simman/simman](https://github.com/simman/simman)
+6. ❗️ Opened issue [#1](https://github.com/KikyoShaw/KikyoShaw/issues/1) in [KikyoShaw/KikyoShaw](https://github.com/KikyoShaw/KikyoShaw)
 <!--END_SECTION:activity-->
