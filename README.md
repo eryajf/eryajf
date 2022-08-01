@@ -290,22 +290,6 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-762-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 3,900 Contributions in the Year 2022
- > 
-> 📦 611.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 108 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -344,36 +328,13 @@ JSON                     31 mins             █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  10 hrs 9 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Vue-learn-code           2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-eryajf                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-learn-github             1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-awesome-github-profile-re1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-vue_test                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
-
 💻 Operating System: 
 Mac                      10 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Shell** 
 
-```text
-Shell                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-Go                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-Dockerfile               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/eryajf/eryajf/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/08/2022 16:42:49 UTC
+ Last Updated on 01/08/2022 16:51:42 UTC
 <!--END_SECTION:waka-->
 
 </td>
