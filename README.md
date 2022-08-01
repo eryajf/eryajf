@@ -275,10 +275,10 @@ width="800"  height="3">
 ### :basecampy: GitHub最近动态
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/liugezhou/liugezhou/issues/1) in [liugezhou/liugezhou](https://github.com/liugezhou/liugezhou)
-2. ❗️ Opened issue [#4](https://github.com/8luebottle/8luebottle/issues/4) in [8luebottle/8luebottle](https://github.com/8luebottle/8luebottle)
-3. 🎉 Merged PR [#22](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/22) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. 🗣 Commented on [#161](https://github.com/simonecorsi/mawesome/issues/161) in [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
-5. 🎉 Merged PR [#24](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/24) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. ❗️ Opened issue [#1](https://github.com/cage1016/cage1016/issues/1) in [cage1016/cage1016](https://github.com/cage1016/cage1016)
+1. 🎉 Merged PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🗣 Commented on [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 💪 Opened PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Opened issue [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+5. 🎉 Merged PR [#26](https://github.com/eryajf/learn-github/pull/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. 🗣 Commented on [#26](https://github.com/eryajf/learn-github/issues/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
