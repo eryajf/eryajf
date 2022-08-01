@@ -217,18 +217,18 @@ width="800"  height="3">
         <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
-        <a href="https://github.com/yongxinz">
-            <img src="https://avatars2.githubusercontent.com/u/13905325" width="100px;" alt="yongxinz"/>
-        </a>
-        <br />
-        <a href="https://github.com/yongxinz">yongxinz</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yongxinz">
+            <img src="https://avatars2.githubusercontent.com/u/13905325" width="100px;" alt="yongxinz"/>
+        </a>
+        <br />
+        <a href="https://github.com/yongxinz">yongxinz</a>
     </td>
     <td align="center">
         <a href="https://github.com/qiutian00">
