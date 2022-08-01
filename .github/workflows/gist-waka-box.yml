@@ -18,3 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIST_ID: 82454e5ea267aa4717f2684dbb09d6b7
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: hmarr/debug-action@v2
