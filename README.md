@@ -257,17 +257,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
+- 🐻 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
 
-- 🎃 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/)
+- 🎃 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
 
-- 🚀 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/)
+- 🚀 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
 
-- 🌋 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/)
+- 🌋 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
 
-- 🌁 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/)
+- 🌁 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) 
 
-- 😺 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/)
+- 😺 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -279,51 +279,51 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44%
-🌆 Daytime    331 commits    ███████████░░░░░░░░░░░░░░   45.97%
-🌃 Evening    210 commits    ███████░░░░░░░░░░░░░░░░░░   29.17%
-🌙 Night      39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
+🌞 Morning    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+🌆 Daytime    330 commits    ███████████░░░░░░░░░░░░░░   45.83% 
+🌃 Evening    210 commits    ███████░░░░░░░░░░░░░░░░░░   29.17% 
+🌙 Night      40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
-📅 **I'm Most Productive on Monday**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       210 commits    ███████░░░░░░░░░░░░░░░░░░   29.17%
-Tuesday      70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
-Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61%
-Thursday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
-Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06%
-Saturday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.83%
+Monday       206 commits    ███████░░░░░░░░░░░░░░░░░░   28.61% 
+Tuesday      75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Thursday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
+Saturday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
 Sunday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-YAML                     3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.25%
-Markdown                 3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.68%
-HTML                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36%
-Vue.js                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+💬 Programming Languages: 
+YAML                     3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.25% 
+Markdown                 3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.68% 
+HTML                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Vue.js                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
 JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
 
-🔥 Editors:
+🔥 Editors: 
 VS Code                  10 hrs 9 mins       █████████████████████████   100.0%
 
-💻 Operating System:
+💻 Operating System: 
 Mac                      10 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/08/2022 16:51:42 UTC
+ Last Updated on 01/08/2022 18:23:08 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -339,12 +339,12 @@ Mac                      10 hrs 9 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🗣 Commented on [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 💪 Opened PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. ❗️ Opened issue [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
-5. 🎉 Merged PR [#26](https://github.com/eryajf/learn-github/pull/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. 🗣 Commented on [#26](https://github.com/eryajf/learn-github/issues/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. ❗️ Opened issue [#1](https://github.com/Fanduzi/Fanduzi/issues/1) in [Fanduzi/Fanduzi](https://github.com/Fanduzi/Fanduzi)
+2. 🎉 Merged PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. 💪 Opened PR [#25](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/25) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. ❗️ Opened issue [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+6. 🎉 Merged PR [#26](https://github.com/eryajf/learn-github/pull/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
