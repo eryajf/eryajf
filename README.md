@@ -202,12 +202,12 @@ Mac                      10 hrs 9 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/eryajf/HowToStartOpenSource/issues/27) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-2. 🎉 Merged PR [#29](https://github.com/eryajf/learn-github/pull/29) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. 🎉 Merged PR [#28](https://github.com/eryajf/learn-github/pull/28) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. 🎉 Merged PR [#27](https://github.com/eryajf/learn-github/pull/27) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❌ Closed PR [#29](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/29) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. ❌ Closed PR [#28](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/28) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. 🗣 Commented on [#8](https://github.com/lhlyu/lhlyu/issues/8) in [lhlyu/lhlyu](https://github.com/lhlyu/lhlyu)
+2. ❗️ Opened issue [#27](https://github.com/eryajf/HowToStartOpenSource/issues/27) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+3. 🎉 Merged PR [#29](https://github.com/eryajf/learn-github/pull/29) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. 🎉 Merged PR [#28](https://github.com/eryajf/learn-github/pull/28) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🎉 Merged PR [#27](https://github.com/eryajf/learn-github/pull/27) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. ❌ Closed PR [#29](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/29) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
