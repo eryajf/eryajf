@@ -354,12 +354,12 @@ Mac                      10 hrs 9 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/LovesAsuna/LovesAsuna/issues/1) in [LovesAsuna/LovesAsuna](https://github.com/LovesAsuna/LovesAsuna)
-2. ❗️ Opened issue [#8](https://github.com/lhlyu/lhlyu/issues/8) in [lhlyu/lhlyu](https://github.com/lhlyu/lhlyu)
-3. 🎉 Merged PR [#26](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/26) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. 🗣 Commented on [#1](https://github.com/JarryShaw/JarryShaw/issues/1) in [JarryShaw/JarryShaw](https://github.com/JarryShaw/JarryShaw)
-5. ❗️ Opened issue [#1](https://github.com/Fanduzi/Fanduzi/issues/1) in [Fanduzi/Fanduzi](https://github.com/Fanduzi/Fanduzi)
-6. 🎉 Merged PR [#26](https://github.com/eryajf/learn-github/pull/26) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. ❗️ Opened issue [#27](https://github.com/eryajf/HowToStartOpenSource/issues/27) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+2. 🎉 Merged PR [#29](https://github.com/eryajf/learn-github/pull/29) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. 🎉 Merged PR [#28](https://github.com/eryajf/learn-github/pull/28) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. 🎉 Merged PR [#27](https://github.com/eryajf/learn-github/pull/27) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. ❌ Closed PR [#29](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/29) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. ❌ Closed PR [#28](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/28) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
