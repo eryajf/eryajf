@@ -202,12 +202,12 @@ Mac                      10 hrs 9 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/31) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#30](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/30) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🗣 Commented on [#8](https://github.com/lhlyu/lhlyu/issues/8) in [lhlyu/lhlyu](https://github.com/lhlyu/lhlyu)
-4. ❗️ Opened issue [#27](https://github.com/eryajf/HowToStartOpenSource/issues/27) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. 🎉 Merged PR [#29](https://github.com/eryajf/learn-github/pull/29) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. 🎉 Merged PR [#28](https://github.com/eryajf/learn-github/pull/28) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
+2. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+3. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
+4. 🎉 Merged PR [#31](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/31) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. 🎉 Merged PR [#30](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/30) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. 🗣 Commented on [#8](https://github.com/lhlyu/lhlyu/issues/8) in [lhlyu/lhlyu](https://github.com/lhlyu/lhlyu)
 <!--END_SECTION:activity-->
 
 </td>
