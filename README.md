@@ -203,11 +203,11 @@ Mac                      15 hrs 48 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#32](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/32) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
-4. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+2. 🎉 Merged PR [#33](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/33) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#32](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/32) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 5. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
-6. 🎉 Merged PR [#31](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/31) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
 <!--END_SECTION:activity-->
 
 </td>
