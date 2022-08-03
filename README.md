@@ -354,12 +354,12 @@ Mac                      10 hrs 9 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
-2. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+1. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🎉 Merged PR [#32](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/32) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 3. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
-4. 🎉 Merged PR [#31](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/31) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. 🎉 Merged PR [#30](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/30) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. 🗣 Commented on [#8](https://github.com/lhlyu/lhlyu/issues/8) in [lhlyu/lhlyu](https://github.com/lhlyu/lhlyu)
+4. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
+5. 🗣 Commented on [#2](https://github.com/eryajf/awesome-stars-eryajf/issues/2) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
+6. 🎉 Merged PR [#31](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/31) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
