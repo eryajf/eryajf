@@ -202,12 +202,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/eryajf/vdoing-template/issues/8) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-2. ❗️ Opened issue [#2550](https://github.com/ruanyf/weekly/issues/2550) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-3. 🗣 Commented on [#79](https://github.com/leaves615/KeyboardHolder/issues/79) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-4. 🗣 Commented on [#79](https://github.com/leaves615/KeyboardHolder/issues/79) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-5. 🗣 Commented on [#79](https://github.com/leaves615/KeyboardHolder/issues/79) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-6. 🎉 Merged PR [#37](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/37) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. ❗️ Opened issue [#1](https://github.com/payiz-asj/payiz-asj/issues/1) in [payiz-asj/payiz-asj](https://github.com/payiz-asj/payiz-asj)
+2. ❗️ Opened issue [#1](https://github.com/xlc520/xlc520/issues/1) in [xlc520/xlc520](https://github.com/xlc520/xlc520)
+3. ❗️ Opened issue [#1](https://github.com/0xfatal/0xfatal/issues/1) in [0xfatal/0xfatal](https://github.com/0xfatal/0xfatal)
+4. ❗️ Opened issue [#1](https://github.com/sigai/sigai/issues/1) in [sigai/sigai](https://github.com/sigai/sigai)
+5. ❗️ Opened issue [#8](https://github.com/eryajf/vdoing-template/issues/8) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
+6. ❗️ Opened issue [#2550](https://github.com/ruanyf/weekly/issues/2550) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 <!--END_SECTION:activity-->
 
 </td>
