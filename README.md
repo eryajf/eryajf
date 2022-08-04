@@ -202,12 +202,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#1](https://github.com/JackTheMico/JackTheMico/issues/1) in [JackTheMico/JackTheMico](https://github.com/JackTheMico/JackTheMico)
 2. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Opened issue [#1](https://github.com/itgoyo/itgoyo/issues/1) in [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
-4. ❗️ Opened issue [#1](https://github.com/YMC-GitHub/ymc-github/issues/1) in [YMC-GitHub/ymc-github](https://github.com/YMC-GitHub/ymc-github)
-5. ❗️ Opened issue [#1](https://github.com/payiz-asj/payiz-asj/issues/1) in [payiz-asj/payiz-asj](https://github.com/payiz-asj/payiz-asj)
-6. ❗️ Opened issue [#1](https://github.com/xlc520/xlc520/issues/1) in [xlc520/xlc520](https://github.com/xlc520/xlc520)
+3. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. ❗️ Opened issue [#1](https://github.com/itgoyo/itgoyo/issues/1) in [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
+5. ❗️ Opened issue [#1](https://github.com/YMC-GitHub/ymc-github/issues/1) in [YMC-GitHub/ymc-github](https://github.com/YMC-GitHub/ymc-github)
+6. ❗️ Opened issue [#1](https://github.com/payiz-asj/payiz-asj/issues/1) in [payiz-asj/payiz-asj](https://github.com/payiz-asj/payiz-asj)
 <!--END_SECTION:activity-->
 
 </td>
