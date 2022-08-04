@@ -354,12 +354,12 @@ Mac                      15 hrs 48 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/eryajf/learn-github/pull/35) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-2. 🎉 Merged PR [#34](https://github.com/eryajf/learn-github/pull/34) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. 🎉 Merged PR [#33](https://github.com/eryajf/learn-github/pull/33) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. 🎉 Merged PR [#32](https://github.com/eryajf/learn-github/pull/32) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. 🎉 Merged PR [#31](https://github.com/eryajf/learn-github/pull/31) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. 🎉 Merged PR [#30](https://github.com/eryajf/learn-github/pull/30) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. ❗️ Closed issue [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🎉 Merged PR [#102](https://github.com/eryajf/go-ldap-admin/pull/102) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 💪 Opened PR [#102](https://github.com/eryajf/go-ldap-admin/pull/102) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#35](https://github.com/eryajf/learn-github/pull/35) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🎉 Merged PR [#34](https://github.com/eryajf/learn-github/pull/34) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. 🎉 Merged PR [#33](https://github.com/eryajf/learn-github/pull/33) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
