@@ -202,12 +202,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/payiz-asj/payiz-asj/issues/1) in [payiz-asj/payiz-asj](https://github.com/payiz-asj/payiz-asj)
-2. ❗️ Opened issue [#1](https://github.com/xlc520/xlc520/issues/1) in [xlc520/xlc520](https://github.com/xlc520/xlc520)
-3. ❗️ Opened issue [#1](https://github.com/0xfatal/0xfatal/issues/1) in [0xfatal/0xfatal](https://github.com/0xfatal/0xfatal)
-4. ❗️ Opened issue [#1](https://github.com/sigai/sigai/issues/1) in [sigai/sigai](https://github.com/sigai/sigai)
-5. ❗️ Opened issue [#8](https://github.com/eryajf/vdoing-template/issues/8) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-6. ❗️ Opened issue [#2550](https://github.com/ruanyf/weekly/issues/2550) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Opened issue [#1](https://github.com/itgoyo/itgoyo/issues/1) in [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
+4. ❗️ Opened issue [#1](https://github.com/YMC-GitHub/ymc-github/issues/1) in [YMC-GitHub/ymc-github](https://github.com/YMC-GitHub/ymc-github)
+5. ❗️ Opened issue [#1](https://github.com/payiz-asj/payiz-asj/issues/1) in [payiz-asj/payiz-asj](https://github.com/payiz-asj/payiz-asj)
+6. ❗️ Opened issue [#1](https://github.com/xlc520/xlc520/issues/1) in [xlc520/xlc520](https://github.com/xlc520/xlc520)
 <!--END_SECTION:activity-->
 
 </td>
