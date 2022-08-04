@@ -202,12 +202,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/35) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#34](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/34) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Closed issue [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#102](https://github.com/eryajf/go-ldap-admin/pull/102) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 💪 Opened PR [#102](https://github.com/eryajf/go-ldap-admin/pull/102) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#35](https://github.com/eryajf/learn-github/pull/35) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. 🎉 Merged PR [#36](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/36) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🎉 Merged PR [#103](https://github.com/eryajf/go-ldap-admin/pull/103) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 💪 Opened PR [#103](https://github.com/eryajf/go-ldap-admin/pull/103) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#79](https://github.com/leaves615/KeyboardHolder/issues/79) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+6. 🎉 Merged PR [#35](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/35) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
