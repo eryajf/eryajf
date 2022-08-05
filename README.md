@@ -354,12 +354,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Opened issue [#1](https://github.com/StellarisW/StellarisW/issues/1) in [StellarisW/StellarisW](https://github.com/StellarisW/StellarisW)
-4. 🗣 Commented on [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. ❗️ Closed issue [#104](https://github.com/eryajf/go-ldap-admin/issues/104) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. ❗️ Opened issue [#1](https://github.com/JackTheMico/JackTheMico/issues/1) in [JackTheMico/JackTheMico](https://github.com/JackTheMico/JackTheMico)
+1. ❗️ Opened issue [#795](https://github.com/eryajf/eryajf.github.io/issues/795) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Closed issue [#17](https://github.com/eryajf/learning-weekly/issues/17) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+3. ❗️ Closed issue [#16](https://github.com/eryajf/learning-weekly/issues/16) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+4. ❗️ Closed issue [#15](https://github.com/eryajf/learning-weekly/issues/15) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+5. ❗️ Closed issue [#14](https://github.com/eryajf/learning-weekly/issues/14) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+6. 🗣 Commented on [#1](https://github.com/eryajf/awesome-stars-eryajf/issues/1) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
 <!--END_SECTION:activity-->
 
 </td>
