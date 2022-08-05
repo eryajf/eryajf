@@ -354,12 +354,12 @@ Mac                      16 hrs 5 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#795](https://github.com/eryajf/eryajf.github.io/issues/795) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Closed issue [#17](https://github.com/eryajf/learning-weekly/issues/17) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-3. ❗️ Closed issue [#16](https://github.com/eryajf/learning-weekly/issues/16) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-4. ❗️ Closed issue [#15](https://github.com/eryajf/learning-weekly/issues/15) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-5. ❗️ Closed issue [#14](https://github.com/eryajf/learning-weekly/issues/14) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-6. 🗣 Commented on [#1](https://github.com/eryajf/awesome-stars-eryajf/issues/1) in [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf)
+1. 🎉 Merged PR [#41](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/41) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🎉 Merged PR [#40](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/40) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. ❗️ Opened issue [#795](https://github.com/eryajf/eryajf.github.io/issues/795) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#17](https://github.com/eryajf/learning-weekly/issues/17) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+5. ❗️ Closed issue [#16](https://github.com/eryajf/learning-weekly/issues/16) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+6. ❗️ Closed issue [#15](https://github.com/eryajf/learning-weekly/issues/15) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
 <!--END_SECTION:activity-->
 
 </td>
