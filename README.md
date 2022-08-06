@@ -84,6 +84,7 @@ width="800"  height="3">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-github-profile-readme-chinese&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-stars-eryajf&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-stars-eryajf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=Obsidian-Plugin-Weekly&show_owner=true&&theme=cobalt)](https://github.com/eryajf/Obsidian-Plugin-Weekly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-sysuse-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-sysuse-scripts)
 
 </details>
 
@@ -112,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
+- 🐻 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
 
-- 🎃 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
+- 🎃 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/)
 
-- 🚀 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
+- 🚀 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/)
 
-- 🌋 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
+- 🌋 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
 
-- 🌁 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
+- 🌁 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/)
 
-- 😺 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) 
+- 😺 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -139,45 +140,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    202 commits    ██████░░░░░░░░░░░░░░░░░░░   26.17% 
-🌆 Daytime    343 commits    ███████████░░░░░░░░░░░░░░   44.43% 
-🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   25.26% 
+🌞 Morning    202 commits    ██████░░░░░░░░░░░░░░░░░░░   26.17%
+🌆 Daytime    343 commits    ███████████░░░░░░░░░░░░░░   44.43%
+🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   25.26%
 🌙 Night      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Friday       166 commits    █████░░░░░░░░░░░░░░░░░░░░   21.5% 
-Saturday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
+Monday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
+Wednesday    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
+Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
+Friday       166 commits    █████░░░░░░░░░░░░░░░░░░░░   21.5%
+Saturday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56%
 Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-YAML                     6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Markdown                 5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-Go                       4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Vue.js                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+💬 Programming Languages:
+YAML                     6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93%
+Markdown                 5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99%
+Go                       4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.46%
+Vue.js                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02%
 HTML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  25 hrs 44 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      25 hrs 44 mins      █████████████████████████   100.0%
 
 ```
