@@ -355,12 +355,12 @@ Mac                      28 hrs 50 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/lycheeverse/lychee-action/issues/144) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-2. ❗️ Opened issue [#153](https://github.com/lycheeverse/lychee-action/issues/153) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-3. 🗣 Commented on [#144](https://github.com/lycheeverse/lychee-action/issues/144) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-4. 🗣 Commented on [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. ❗️ Opened issue [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Closed issue [#40](https://github.com/eryajf/learn-github/issues/40) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. ❗️ Closed issue [#38](https://github.com/eryajf/learn-github/issues/38) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. ❗️ Closed issue [#37](https://github.com/eryajf/learn-github/issues/37) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. ❗️ Closed issue [#36](https://github.com/eryajf/learn-github/issues/36) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. ❗️ Closed issue [#13](https://github.com/eryajf/learn-github/issues/13) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. ❗️ Closed issue [#11](https://github.com/eryajf/learn-github/issues/11) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
