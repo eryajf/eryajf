@@ -355,11 +355,11 @@ Mac                      25 hrs 44 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/45) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#44](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/44) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. 🗣 Commented on [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. ❗️ Opened issue [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 3. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#43](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/43) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. ❗️ Closed issue [#45](https://github.com/eryajf/go-ldap-admin/issues/45) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#45](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/45) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. 🎉 Merged PR [#44](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/44) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 6. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
