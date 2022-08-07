@@ -355,12 +355,12 @@ Mac                      28 hrs 50 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#153](https://github.com/lycheeverse/lychee-action/issues/153) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-2. 🗣 Commented on [#144](https://github.com/lycheeverse/lychee-action/issues/144) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-3. 🗣 Commented on [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. ❗️ Opened issue [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#45](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/45) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. 🗣 Commented on [#144](https://github.com/lycheeverse/lychee-action/issues/144) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+2. ❗️ Opened issue [#153](https://github.com/lycheeverse/lychee-action/issues/153) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+3. 🗣 Commented on [#144](https://github.com/lycheeverse/lychee-action/issues/144) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+4. 🗣 Commented on [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. ❗️ Opened issue [#108](https://github.com/eryajf/go-ldap-admin/issues/108) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
