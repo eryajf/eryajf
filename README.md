@@ -164,18 +164,18 @@ width="800"  height="3">
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/rxliuli">
-            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
-        </a>
-        <br />
-        <a href="https://github.com/rxliuli">rxliuli</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
         <br />
         <a href="https://github.com/awsassets">awsassets</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rxliuli">
+            <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
+        </a>
+        <br />
+        <a href="https://github.com/rxliuli">rxliuli</a>
     </td>
     <td align="center">
         <a href="https://github.com/royswale">
