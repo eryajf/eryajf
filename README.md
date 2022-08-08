@@ -355,12 +355,12 @@ Mac                      30 hrs 34 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-2. ❗️ Closed issue [#40](https://github.com/eryajf/learn-github/issues/40) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. ❗️ Closed issue [#38](https://github.com/eryajf/learn-github/issues/38) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. ❗️ Closed issue [#37](https://github.com/eryajf/learn-github/issues/37) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❗️ Closed issue [#36](https://github.com/eryajf/learn-github/issues/36) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. ❗️ Closed issue [#13](https://github.com/eryajf/learn-github/issues/13) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. ❗️ Closed issue [#25](https://github.com/eryajf/Thanks-Mirror/issues/25) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#24](https://github.com/eryajf/Thanks-Mirror/issues/24) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#23](https://github.com/eryajf/Thanks-Mirror/issues/23) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#22](https://github.com/eryajf/Thanks-Mirror/issues/22) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#21](https://github.com/eryajf/Thanks-Mirror/issues/21) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#20](https://github.com/eryajf/Thanks-Mirror/issues/20) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
