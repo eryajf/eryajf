@@ -355,12 +355,12 @@ Mac                      30 hrs 34 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/eryajf/Thanks-Mirror/issues/25) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#24](https://github.com/eryajf/Thanks-Mirror/issues/24) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#23](https://github.com/eryajf/Thanks-Mirror/issues/23) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#22](https://github.com/eryajf/Thanks-Mirror/issues/22) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#21](https://github.com/eryajf/Thanks-Mirror/issues/21) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#20](https://github.com/eryajf/Thanks-Mirror/issues/20) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Opened issue [#797](https://github.com/eryajf/eryajf.github.io/issues/797) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Opened issue [#796](https://github.com/eryajf/eryajf.github.io/issues/796) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#26](https://github.com/eryajf/Thanks-Mirror/issues/26) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#25](https://github.com/eryajf/Thanks-Mirror/issues/25) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#24](https://github.com/eryajf/Thanks-Mirror/issues/24) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
