@@ -69,23 +69,6 @@ width="800"  height="3">
 <details open>
 <summary>点击展开 ...</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/eryajf/ldapctl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=rpmbuild&show_owner=true&&theme=cobalt)](https://github.com/eryajf/rpmbuild)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=shellabout&show_owner=true&&theme=cobalt)](https://github.com/eryajf/shellabout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=docker_learn&show_owner=true&&theme=cobalt)](https://github.com/eryajf/docker_learn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=xirang&show_owner=true&&theme=cobalt)](https://github.com/eryajf/xirang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=care-screenshot&show_owner=true&&theme=cobalt)](https://github.com/eryajf/care-screenshot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-kubernetes-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-kubernetes-scripts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=read-list&show_owner=true&&theme=cobalt)](https://github.com/eryajf/read-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=go-ldap-admin-ui&show_owner=true&&theme=cobalt)](https://github.com/eryajf/go-ldap-admin-ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=thirdIM&show_owner=true&&theme=cobalt)](https://github.com/eryajf/thirdIM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=go-ldap-admin-doc&show_owner=true&&theme=cobalt)](https://github.com/eryajf/go-ldap-admin-doc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=vdoing-template&show_owner=true&&theme=cobalt)](https://github.com/eryajf/vdoing-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-github-profile-readme-chinese&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=awesome-stars-eryajf&show_owner=true&&theme=cobalt)](https://github.com/eryajf/awesome-stars-eryajf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=Obsidian-Plugin-Weekly&show_owner=true&&theme=cobalt)](https://github.com/eryajf/Obsidian-Plugin-Weekly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=magic-of-sysuse-scripts&show_owner=true&&theme=cobalt)](https://github.com/eryajf/magic-of-sysuse-scripts)
-
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
@@ -315,45 +298,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    204 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89% 
-🌆 Daytime    348 commits    ███████████░░░░░░░░░░░░░░   44.16% 
-🌃 Evening    209 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
+🌞 Morning    204 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89%
+🌆 Daytime    348 commits    ███████████░░░░░░░░░░░░░░   44.16%
+🌃 Evening    209 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52%
 🌙 Night      27 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       219 commits    ███████░░░░░░░░░░░░░░░░░░   27.79% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
-Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+Monday       219 commits    ███████░░░░░░░░░░░░░░░░░░   27.79%
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
+Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45%
+Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
+Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
+Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
 Sunday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-YAML                     7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.48% 
-Vue.js                   6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75% 
-Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-Markdown                 5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+💬 Programming Languages:
+YAML                     7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.48%
+Vue.js                   6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75%
+Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02%
+Markdown                 5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.83%
 HTML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  30 hrs 34 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      30 hrs 34 mins      █████████████████████████   100.0%
 
 ```
