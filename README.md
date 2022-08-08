@@ -265,17 +265,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
+- 🐻 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
 
-- 🎃 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/)
+- 🎃 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
 
-- 🚀 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/)
+- 🚀 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
 
-- 🌋 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
+- 🌋 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
 
-- 🌁 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/)
+- 🌁 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
 
-- 😺 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/)
+- 😺 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -295,22 +295,22 @@ width="800"  height="3">
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    198 commits    ██████░░░░░░░░░░░░░░░░░░░   25.65% 
-🌆 Daytime    347 commits    ███████████░░░░░░░░░░░░░░   44.95% 
-🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   25.26% 
-🌙 Night      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
+🌞 Morning    209 commits    ██████░░░░░░░░░░░░░░░░░░░   26.9% 
+🌆 Daytime    348 commits    ███████████░░░░░░░░░░░░░░   44.79% 
+🌃 Evening    193 commits    ██████░░░░░░░░░░░░░░░░░░░   24.84% 
+🌙 Night      27 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Friday       158 commits    █████░░░░░░░░░░░░░░░░░░░░   20.47% 
-Saturday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
+Monday       168 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+Sunday       158 commits    █████░░░░░░░░░░░░░░░░░░░░   20.33%
 
 ```
 
@@ -321,22 +321,22 @@ Sunday       106 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Markdown                 5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-Go                       4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Vue.js                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-HTML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+YAML                     7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.48% 
+Vue.js                   6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75% 
+Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02% 
+Markdown                 5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+HTML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
 
 🔥 Editors: 
-VS Code                  25 hrs 44 mins      █████████████████████████   100.0%
+VS Code                  30 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      25 hrs 44 mins      █████████████████████████   100.0%
+Mac                      30 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/08/2022 08:06:52 UTC
+ Last Updated on 08/08/2022 06:43:07 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -355,12 +355,12 @@ Mac                      25 hrs 44 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/eryajf/go-ldap-admin/issues/45) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#42](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/42) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. 🗣 Commented on [#100](https://github.com/eryajf/go-ldap-admin/issues/100) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#107](https://github.com/eryajf/go-ldap-admin/pull/107) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Opened issue [#797](https://github.com/eryajf/eryajf.github.io/issues/797) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Opened issue [#796](https://github.com/eryajf/eryajf.github.io/issues/796) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#26](https://github.com/eryajf/Thanks-Mirror/issues/26) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#25](https://github.com/eryajf/Thanks-Mirror/issues/25) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#24](https://github.com/eryajf/Thanks-Mirror/issues/24) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
