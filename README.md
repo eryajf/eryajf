@@ -355,12 +355,12 @@ Mac                      28 hrs 50 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/eryajf/learn-github/issues/40) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-2. ❗️ Closed issue [#38](https://github.com/eryajf/learn-github/issues/38) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. ❗️ Closed issue [#37](https://github.com/eryajf/learn-github/issues/37) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. ❗️ Closed issue [#36](https://github.com/eryajf/learn-github/issues/36) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❗️ Closed issue [#13](https://github.com/eryajf/learn-github/issues/13) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. ❗️ Closed issue [#11](https://github.com/eryajf/learn-github/issues/11) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+2. ❗️ Closed issue [#40](https://github.com/eryajf/learn-github/issues/40) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. ❗️ Closed issue [#38](https://github.com/eryajf/learn-github/issues/38) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. ❗️ Closed issue [#37](https://github.com/eryajf/learn-github/issues/37) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. ❗️ Closed issue [#36](https://github.com/eryajf/learn-github/issues/36) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. ❗️ Closed issue [#13](https://github.com/eryajf/learn-github/issues/13) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
