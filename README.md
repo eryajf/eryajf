@@ -271,17 +271,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/)
+- 🐻 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
 
-- 🎃 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
+- 🎃 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
 
-- 🚀 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/)
+- 🚀 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
 
-- 🌋 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/)
+- 🌋 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
 
-- 🌁 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
+- 🌁 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
 
-- 😺 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/)
+- 😺 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -301,22 +301,22 @@ width="800"  height="3">
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    204 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89% 
-🌆 Daytime    348 commits    ███████████░░░░░░░░░░░░░░   44.16% 
-🌃 Evening    209 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-🌙 Night      27 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
+🌞 Morning    208 commits    ██████░░░░░░░░░░░░░░░░░░░   26.3% 
+🌆 Daytime    352 commits    ███████████░░░░░░░░░░░░░░   44.5% 
+🌃 Evening    198 commits    ██████░░░░░░░░░░░░░░░░░░░   25.03% 
+🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       219 commits    ███████░░░░░░░░░░░░░░░░░░   27.79% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
-Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Sunday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
+Monday       188 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
+Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
 
 ```
 
@@ -327,22 +327,22 @@ Sunday       118 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.48% 
-Vue.js                   6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75% 
-Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-Markdown                 5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-HTML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
+YAML                     7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+Vue.js                   7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+Markdown                 6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06% 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 
 🔥 Editors: 
-VS Code                  30 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      30 hrs 34 mins      █████████████████████████   100.0%
+Mac                      29 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/08/2022 14:32:16 UTC
+ Last Updated on 09/08/2022 06:08:55 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -361,12 +361,12 @@ Mac                      30 hrs 34 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-2. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Opened issue [#797](https://github.com/eryajf/eryajf.github.io/issues/797) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#796](https://github.com/eryajf/eryajf.github.io/issues/796) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Closed issue [#26](https://github.com/eryajf/Thanks-Mirror/issues/26) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#25](https://github.com/eryajf/Thanks-Mirror/issues/25) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+2. 🗣 Commented on [#87](https://github.com/leaves615/KeyboardHolder/issues/87) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+3. ❗️ Opened issue [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+4. ❗️ Closed issue [#27](https://github.com/eryajf/Thanks-Mirror/issues/27) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Opened issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
