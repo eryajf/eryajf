@@ -361,12 +361,12 @@ Mac                      29 hrs 47 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/leaves615/KeyboardHolder/issues/87) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-2. ❗️ Opened issue [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
-3. ❗️ Closed issue [#27](https://github.com/eryajf/Thanks-Mirror/issues/27) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Opened issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Opened issue [#797](https://github.com/eryajf/eryajf.github.io/issues/797) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+2. 🗣 Commented on [#87](https://github.com/leaves615/KeyboardHolder/issues/87) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+3. ❗️ Opened issue [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+4. ❗️ Closed issue [#27](https://github.com/eryajf/Thanks-Mirror/issues/27) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Opened issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
