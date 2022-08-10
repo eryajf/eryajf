@@ -209,12 +209,12 @@ Mac                      23 hrs 19 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/eryajf/Thanks-Mirror/issues/30) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#29](https://github.com/eryajf/Thanks-Mirror/issues/29) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. 🎉 Merged PR [#1](https://github.com/eryajf/tu/pull/1) in [eryajf/tu](https://github.com/eryajf/tu)
-4. ❗️ Closed issue [#28](https://github.com/eryajf/Thanks-Mirror/issues/28) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Opened issue [#1](https://github.com/kbsonlong/kbsonlong/issues/1) in [kbsonlong/kbsonlong](https://github.com/kbsonlong/kbsonlong)
-6. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+1. ❗️ Opened issue [#30](https://github.com/foamzou/melody/issues/30) in [foamzou/melody](https://github.com/foamzou/melody)
+2. ❗️ Opened issue [#29](https://github.com/foamzou/melody/issues/29) in [foamzou/melody](https://github.com/foamzou/melody)
+3. ❗️ Closed issue [#30](https://github.com/eryajf/Thanks-Mirror/issues/30) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#29](https://github.com/eryajf/Thanks-Mirror/issues/29) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. 🎉 Merged PR [#1](https://github.com/eryajf/tu/pull/1) in [eryajf/tu](https://github.com/eryajf/tu)
+6. ❗️ Closed issue [#28](https://github.com/eryajf/Thanks-Mirror/issues/28) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
