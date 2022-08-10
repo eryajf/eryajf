@@ -361,12 +361,12 @@ Mac                      29 hrs 47 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/eryajf/tu/pull/1) in [eryajf/tu](https://github.com/eryajf/tu)
-2. ❗️ Closed issue [#28](https://github.com/eryajf/Thanks-Mirror/issues/28) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Opened issue [#1](https://github.com/kbsonlong/kbsonlong/issues/1) in [kbsonlong/kbsonlong](https://github.com/kbsonlong/kbsonlong)
-4. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
-5. 🗣 Commented on [#87](https://github.com/leaves615/KeyboardHolder/issues/87) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-6. ❗️ Opened issue [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
+1. ❗️ Closed issue [#30](https://github.com/eryajf/Thanks-Mirror/issues/30) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#29](https://github.com/eryajf/Thanks-Mirror/issues/29) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. 🎉 Merged PR [#1](https://github.com/eryajf/tu/pull/1) in [eryajf/tu](https://github.com/eryajf/tu)
+4. ❗️ Closed issue [#28](https://github.com/eryajf/Thanks-Mirror/issues/28) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Opened issue [#1](https://github.com/kbsonlong/kbsonlong/issues/1) in [kbsonlong/kbsonlong](https://github.com/kbsonlong/kbsonlong)
+6. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
 <!--END_SECTION:activity-->
 
 </td>
