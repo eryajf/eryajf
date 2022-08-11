@@ -209,12 +209,12 @@ Mac                      30 hrs 16 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/eryajf/learn-github/issues/43) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-2. ❗️ Closed issue [#41](https://github.com/eryajf/learn-github/issues/41) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. ❗️ Closed issue [#42](https://github.com/eryajf/learn-github/issues/42) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
-5. ❗️ Opened issue [#30](https://github.com/foamzou/melody/issues/30) in [foamzou/melody](https://github.com/foamzou/melody)
-6. ❗️ Opened issue [#29](https://github.com/foamzou/melody/issues/29) in [foamzou/melody](https://github.com/foamzou/melody)
+1. 🎉 Merged PR [#47](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/47) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. ❗️ Closed issue [#43](https://github.com/eryajf/learn-github/issues/43) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. ❗️ Closed issue [#41](https://github.com/eryajf/learn-github/issues/41) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. ❗️ Closed issue [#42](https://github.com/eryajf/learn-github/issues/42) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+6. ❗️ Opened issue [#30](https://github.com/foamzou/melody/issues/30) in [foamzou/melody](https://github.com/foamzou/melody)
 <!--END_SECTION:activity-->
 
 </td>
