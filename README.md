@@ -361,12 +361,12 @@ Mac                      23 hrs 19 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/foamzou/melody/issues/30) in [foamzou/melody](https://github.com/foamzou/melody)
-2. ❗️ Opened issue [#29](https://github.com/foamzou/melody/issues/29) in [foamzou/melody](https://github.com/foamzou/melody)
-3. ❗️ Closed issue [#30](https://github.com/eryajf/Thanks-Mirror/issues/30) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#29](https://github.com/eryajf/Thanks-Mirror/issues/29) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🎉 Merged PR [#1](https://github.com/eryajf/tu/pull/1) in [eryajf/tu](https://github.com/eryajf/tu)
-6. ❗️ Closed issue [#28](https://github.com/eryajf/Thanks-Mirror/issues/28) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. ❗️ Closed issue [#43](https://github.com/eryajf/learn-github/issues/43) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. ❗️ Closed issue [#41](https://github.com/eryajf/learn-github/issues/41) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. ❗️ Closed issue [#42](https://github.com/eryajf/learn-github/issues/42) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+5. ❗️ Opened issue [#30](https://github.com/foamzou/melody/issues/30) in [foamzou/melody](https://github.com/foamzou/melody)
+6. ❗️ Opened issue [#29](https://github.com/foamzou/melody/issues/29) in [foamzou/melody](https://github.com/foamzou/melody)
 <!--END_SECTION:activity-->
 
 </td>
