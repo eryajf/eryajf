@@ -209,12 +209,12 @@ Mac                      30 hrs 16 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/48) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#47](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/47) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Closed issue [#43](https://github.com/eryajf/learn-github/issues/43) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. ❗️ Closed issue [#41](https://github.com/eryajf/learn-github/issues/41) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❗️ Closed issue [#42](https://github.com/eryajf/learn-github/issues/42) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. 🗣 Commented on [#154](https://github.com/lycheeverse/lychee-action/issues/154) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+1. 💪 Opened PR [#158](https://github.com/lycheeverse/lychee-action/pull/158) in [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
+2. 🎉 Merged PR [#48](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/48) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🎉 Merged PR [#47](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/47) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Closed issue [#43](https://github.com/eryajf/learn-github/issues/43) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. ❗️ Closed issue [#41](https://github.com/eryajf/learn-github/issues/41) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. ❗️ Closed issue [#42](https://github.com/eryajf/learn-github/issues/42) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
