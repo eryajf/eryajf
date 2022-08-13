@@ -209,12 +209,12 @@ Mac                      18 hrs 7 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#110](https://github.com/eryajf/go-ldap-admin/pull/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#110](https://github.com/eryajf/go-ldap-admin/issues/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Opened issue [#799](https://github.com/eryajf/eryajf.github.io/issues/799) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. 🗣 Commented on [#14](https://github.com/eryajf/HowToStartOpenSource/issues/14) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. 🎉 Merged PR [#50](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/50) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. 🎉 Merged PR [#49](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/49) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. ❗️ Opened issue [#1](https://github.com/asadahimeka/asadahimeka/issues/1) in [asadahimeka/asadahimeka](https://github.com/asadahimeka/asadahimeka)
+2. ❌ Closed PR [#110](https://github.com/eryajf/go-ldap-admin/pull/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#110](https://github.com/eryajf/go-ldap-admin/issues/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. ❗️ Opened issue [#799](https://github.com/eryajf/eryajf.github.io/issues/799) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. 🗣 Commented on [#14](https://github.com/eryajf/HowToStartOpenSource/issues/14) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. 🎉 Merged PR [#50](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/50) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
