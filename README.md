@@ -99,7 +99,7 @@ width="800"  height="3">
 
 > 😘 Thank you follow me!
 
-<details open>
+<details>
 <summary>点击展开 ...</summary>
 
 <!--ACTION_START_FLAG:github-followers-->
