@@ -249,11 +249,11 @@ width="800"  height="3">
         <a href="https://github.com/yongxinz">yongxinz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/qiutian00">
-            <img src="https://avatars2.githubusercontent.com/u/24382500" width="100px;" alt="qiutian00"/>
+        <a href="https://github.com/Phuong39">
+            <img src="https://avatars2.githubusercontent.com/u/84000895" width="100px;" alt="Phuong39"/>
         </a>
         <br />
-        <a href="https://github.com/qiutian00">qiutian00</a>
+        <a href="https://github.com/Phuong39">Phuong39</a>
     </td>
   </tr>
 </table>
@@ -271,17 +271,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
+- 🐻 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) 
 
-- 🎃 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
+- 🎃 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
 
-- 🚀 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
+- 🚀 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
 
-- 🌋 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
+- 🌋 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
 
-- 🌁 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
+- 🌁 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
 
-- 😺 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) 
+- 😺 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -301,22 +301,22 @@ width="800"  height="3">
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    208 commits    ██████░░░░░░░░░░░░░░░░░░░   26.3% 
-🌆 Daytime    352 commits    ███████████░░░░░░░░░░░░░░   44.5% 
-🌃 Evening    198 commits    ██████░░░░░░░░░░░░░░░░░░░   25.03% 
-🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+🌞 Morning    225 commits    ███████░░░░░░░░░░░░░░░░░░   28.02% 
+🌆 Daytime    350 commits    ███████████░░░░░░░░░░░░░░   43.59% 
+🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.28% 
+🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       188 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
-Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Thursday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
+Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
+Thursday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
+Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Saturday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Sunday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19%
 
 ```
 
@@ -327,22 +327,22 @@ Sunday       103 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92% 
-Vue.js                   7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77% 
-Markdown                 6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59% 
-Go                       6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06% 
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
+Vue.js                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.57% 
+Markdown                 3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   22.13% 
+YAML                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24% 
+Go                       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
 🔥 Editors: 
-VS Code                  29 hrs 47 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 38 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      29 hrs 47 mins      █████████████████████████   100.0%
+Mac                      15 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/08/2022 06:08:55 UTC
+ Last Updated on 14/08/2022 06:09:34 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -361,12 +361,12 @@ Mac                      29 hrs 47 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
-2. 🗣 Commented on [#87](https://github.com/leaves615/KeyboardHolder/issues/87) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-3. ❗️ Opened issue [#2](https://github.com/fawdlstty/fawdlstty/issues/2) in [fawdlstty/fawdlstty](https://github.com/fawdlstty/fawdlstty)
-4. ❗️ Closed issue [#27](https://github.com/eryajf/Thanks-Mirror/issues/27) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Opened issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-6. ❗️ Opened issue [#798](https://github.com/eryajf/eryajf.github.io/issues/798) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#9](https://github.com/eryajf/vdoing-template/issues/9) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
+2. ❗️ Opened issue [#2566](https://github.com/ruanyf/weekly/issues/2566) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+3. 🎉 Merged PR [#1](https://github.com/eryajf/go-ldap-admin-doc/pull/1) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
+4. ❗️ Opened issue [#1](https://github.com/asadahimeka/asadahimeka/issues/1) in [asadahimeka/asadahimeka](https://github.com/asadahimeka/asadahimeka)
+5. ❌ Closed PR [#110](https://github.com/eryajf/go-ldap-admin/pull/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#110](https://github.com/eryajf/go-ldap-admin/issues/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
