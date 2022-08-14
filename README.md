@@ -374,4 +374,3 @@ Mac                      15 hrs 38 mins      ███████████�
 </table>
 <!--ACTION_END_FLAG:github-followers-->
 
-</details>
