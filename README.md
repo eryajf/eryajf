@@ -86,6 +86,7 @@ width="800"  height="3">
 | [go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
 | [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
 | [go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-doc?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-doc?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap-admin项目官方文档  |
+| [read-list](https://github.com/eryajf/read-list) | ![](https://img.shields.io/github/stars/eryajf/read-list?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/read-list?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优质内容订阅，阅读方为根本  |
 | [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | ![](https://img.shields.io/github/stars/eryajf/HowToStartOpenSource?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/HowToStartOpenSource?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | GitHub开源项目维护指南  |
 | [vdoing-template](https://github.com/eryajf/vdoing-template) | ![](https://img.shields.io/github/stars/eryajf/vdoing-template?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/vdoing-template?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  vdoing博客主题模板   |
 | [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | ![](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-github-profile-readme-chinese?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦩 优秀的中文区个人主页搜集  |
@@ -271,17 +272,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) 
+- 🐻 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/)
 
-- 🎃 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
+- 🎃 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/)
 
-- 🚀 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
+- 🚀 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
 
-- 🌋 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
+- 🌋 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/)
 
-- 🌁 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
+- 🌁 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/)
 
-- 😺 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
+- 😺 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -298,45 +299,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    225 commits    ███████░░░░░░░░░░░░░░░░░░   28.02% 
-🌆 Daytime    350 commits    ███████████░░░░░░░░░░░░░░   43.59% 
-🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.28% 
+🌞 Morning    225 commits    ███████░░░░░░░░░░░░░░░░░░   28.02%
+🌆 Daytime    350 commits    ███████████░░░░░░░░░░░░░░   43.59%
+🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.28%
 🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Thursday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-Saturday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56%
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
+Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57%
+Thursday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21%
+Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2%
+Saturday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06%
 Sunday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Vue.js                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.57% 
-Markdown                 3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-YAML                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24% 
-Go                       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+💬 Programming Languages:
+Vue.js                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.57%
+Markdown                 3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   22.13%
+YAML                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24%
+Go                       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.08%
 JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  15 hrs 38 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      15 hrs 38 mins      █████████████████████████   100.0%
 
 ```
