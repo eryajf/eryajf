@@ -192,12 +192,12 @@ Mac                      15 hrs 38 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/eryajf/vdoing-template/issues/9) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-2. ❗️ Opened issue [#2566](https://github.com/ruanyf/weekly/issues/2566) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-3. 🎉 Merged PR [#1](https://github.com/eryajf/go-ldap-admin-doc/pull/1) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
-4. ❗️ Opened issue [#1](https://github.com/asadahimeka/asadahimeka/issues/1) in [asadahimeka/asadahimeka](https://github.com/asadahimeka/asadahimeka)
-5. ❌ Closed PR [#110](https://github.com/eryajf/go-ldap-admin/pull/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#110](https://github.com/eryajf/go-ldap-admin/issues/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#1](https://github.com/liangjingkanji/liangjingkanji/issues/1) in [liangjingkanji/liangjingkanji](https://github.com/liangjingkanji/liangjingkanji)
+2. 🗣 Commented on [#9](https://github.com/eryajf/vdoing-template/issues/9) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
+3. ❗️ Opened issue [#2566](https://github.com/ruanyf/weekly/issues/2566) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+4. 🎉 Merged PR [#1](https://github.com/eryajf/go-ldap-admin-doc/pull/1) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
+5. ❗️ Opened issue [#1](https://github.com/asadahimeka/asadahimeka/issues/1) in [asadahimeka/asadahimeka](https://github.com/asadahimeka/asadahimeka)
+6. ❌ Closed PR [#110](https://github.com/eryajf/go-ldap-admin/pull/110) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
