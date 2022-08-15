@@ -192,12 +192,12 @@ Mac                      11 hrs 14 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/52) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🗣 Commented on [#1](https://github.com/liangjingkanji/liangjingkanji/issues/1) in [liangjingkanji/liangjingkanji](https://github.com/liangjingkanji/liangjingkanji)
-3. 🎉 Merged PR [#51](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/51) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. ❗️ Opened issue [#1](https://github.com/liangjingkanji/liangjingkanji/issues/1) in [liangjingkanji/liangjingkanji](https://github.com/liangjingkanji/liangjingkanji)
-5. 🗣 Commented on [#9](https://github.com/eryajf/vdoing-template/issues/9) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-6. ❗️ Opened issue [#2566](https://github.com/ruanyf/weekly/issues/2566) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. 🗣 Commented on [#6](https://github.com/howie6879/weekly/issues/6) in [howie6879/weekly](https://github.com/howie6879/weekly)
+2. 🎉 Merged PR [#52](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/52) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#1](https://github.com/liangjingkanji/liangjingkanji/issues/1) in [liangjingkanji/liangjingkanji](https://github.com/liangjingkanji/liangjingkanji)
+4. 🎉 Merged PR [#51](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/51) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. ❗️ Opened issue [#1](https://github.com/liangjingkanji/liangjingkanji/issues/1) in [liangjingkanji/liangjingkanji](https://github.com/liangjingkanji/liangjingkanji)
+6. 🗣 Commented on [#9](https://github.com/eryajf/vdoing-template/issues/9) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
 <!--END_SECTION:activity-->
 
 </td>
