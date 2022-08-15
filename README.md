@@ -336,18 +336,18 @@ Mac                      11 hrs 14 mins      ███████████�
         <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
     <td align="center">
-        <a href="https://github.com/sun0225SUN">
-            <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
-        </a>
-        <br />
-        <a href="https://github.com/sun0225SUN">小孙同学</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xiezipei">
             <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
         </a>
         <br />
         <a href="https://github.com/xiezipei">xiezipei</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sun0225SUN">
+            <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
+        </a>
+        <br />
+        <a href="https://github.com/sun0225SUN">小孙同学</a>
     </td>
     <td align="center">
         <a href="https://github.com/kxxt">
