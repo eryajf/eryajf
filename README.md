@@ -192,12 +192,12 @@ Mac                      11 hrs 14 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/54) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#53](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/53) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🗣 Commented on [#6](https://github.com/howie6879/weekly/issues/6) in [howie6879/weekly](https://github.com/howie6879/weekly)
-4. 🗣 Commented on [#6](https://github.com/howie6879/weekly/issues/6) in [howie6879/weekly](https://github.com/howie6879/weekly)
-5. 🗣 Commented on [#6](https://github.com/howie6879/weekly/issues/6) in [howie6879/weekly](https://github.com/howie6879/weekly)
-6. ❗️ Opened issue [#1](https://github.com/pseudoyu/pseudoyu/issues/1) in [pseudoyu/pseudoyu](https://github.com/pseudoyu/pseudoyu)
+1. ❗️ Closed issue [#34](https://github.com/eryajf/Thanks-Mirror/issues/34) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#33](https://github.com/eryajf/Thanks-Mirror/issues/33) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#32](https://github.com/eryajf/Thanks-Mirror/issues/32) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#31](https://github.com/eryajf/Thanks-Mirror/issues/31) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. 🎉 Merged PR [#54](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/54) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. 🎉 Merged PR [#53](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/53) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
