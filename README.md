@@ -192,12 +192,12 @@ Mac                      11 hrs 14 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/eryajf/Thanks-Mirror/issues/34) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#33](https://github.com/eryajf/Thanks-Mirror/issues/33) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#32](https://github.com/eryajf/Thanks-Mirror/issues/32) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#31](https://github.com/eryajf/Thanks-Mirror/issues/31) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🎉 Merged PR [#54](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/54) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. 🎉 Merged PR [#53](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/53) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. ❗️ Opened issue [#33](https://github.com/saveweb/review-2021/issues/33) in [saveweb/review-2021](https://github.com/saveweb/review-2021)
+2. ❗️ Closed issue [#34](https://github.com/eryajf/Thanks-Mirror/issues/34) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#33](https://github.com/eryajf/Thanks-Mirror/issues/33) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#32](https://github.com/eryajf/Thanks-Mirror/issues/32) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#31](https://github.com/eryajf/Thanks-Mirror/issues/31) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🎉 Merged PR [#54](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/54) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
