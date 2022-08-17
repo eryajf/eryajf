@@ -193,11 +193,11 @@ Mac                      5 hrs 52 mins       ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#111](https://github.com/eryajf/go-ldap-admin/issues/111) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. ❗️ Closed issue [#36](https://github.com/eryajf/Thanks-Mirror/issues/36) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#35](https://github.com/eryajf/Thanks-Mirror/issues/35) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Opened issue [#33](https://github.com/saveweb/review-2021/issues/33) in [saveweb/review-2021](https://github.com/saveweb/review-2021)
-5. ❗️ Closed issue [#34](https://github.com/eryajf/Thanks-Mirror/issues/34) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#33](https://github.com/eryajf/Thanks-Mirror/issues/33) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. 🗣 Commented on [#111](https://github.com/eryajf/go-ldap-admin/issues/111) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Closed issue [#36](https://github.com/eryajf/Thanks-Mirror/issues/36) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#35](https://github.com/eryajf/Thanks-Mirror/issues/35) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Opened issue [#33](https://github.com/saveweb/review-2021/issues/33) in [saveweb/review-2021](https://github.com/saveweb/review-2021)
+6. ❗️ Closed issue [#34](https://github.com/eryajf/Thanks-Mirror/issues/34) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
