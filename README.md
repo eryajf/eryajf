@@ -192,12 +192,12 @@ Mac                      9 hrs 5 mins        ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/eryajf/Thanks-Mirror/issues/38) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#37](https://github.com/eryajf/Thanks-Mirror/issues/37) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Opened issue [#840](https://github.com/eryajf/eryajf.github.io/issues/840) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#839](https://github.com/eryajf/eryajf.github.io/issues/839) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Opened issue [#838](https://github.com/eryajf/eryajf.github.io/issues/838) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Opened issue [#837](https://github.com/eryajf/eryajf.github.io/issues/837) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#33](https://github.com/saveweb/review-2021/issues/33) in [saveweb/review-2021](https://github.com/saveweb/review-2021)
+2. ❗️ Closed issue [#38](https://github.com/eryajf/Thanks-Mirror/issues/38) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#37](https://github.com/eryajf/Thanks-Mirror/issues/37) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Opened issue [#840](https://github.com/eryajf/eryajf.github.io/issues/840) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Opened issue [#839](https://github.com/eryajf/eryajf.github.io/issues/839) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Opened issue [#838](https://github.com/eryajf/eryajf.github.io/issues/838) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
