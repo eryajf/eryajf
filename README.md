@@ -86,6 +86,7 @@ width="800"  height="3">
 | [go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
 | [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
 | [go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-doc?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-doc?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap-admin项目官方文档  |
+| [third-tools](https://github.com/eryajf/third-tools) | ![](https://img.shields.io/github/stars/eryajf/third-tools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/third-tools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 Go三方工具简单入门使用合集  |
 | [read-list](https://github.com/eryajf/read-list) | ![](https://img.shields.io/github/stars/eryajf/read-list?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/read-list?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优质内容订阅，阅读方为根本  |
 | [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | ![](https://img.shields.io/github/stars/eryajf/HowToStartOpenSource?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/HowToStartOpenSource?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | GitHub开源项目维护指南  |
 | [vdoing-template](https://github.com/eryajf/vdoing-template) | ![](https://img.shields.io/github/stars/eryajf/vdoing-template?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/vdoing-template?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  vdoing博客主题模板   |
@@ -102,17 +103,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) 
+- 🐻 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/)
 
-- 🎃 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
+- 🎃 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/)
 
-- 🚀 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
+- 🚀 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
 
-- 🌋 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/) 
+- 🌋 [利用GitHub Actions自动对仓库内图片进行无损压缩](https://wiki.eryajf.net/pages/dbee9e/)
 
-- 🌁 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/) 
+- 🌁 [vscode开发前端项目时如何tab补全自定义HTML标签](https://wiki.eryajf.net/pages/62b2b7/)
 
-- 😺 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) 
+- 😺 [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -129,45 +130,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    219 commits    ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-🌆 Daytime    362 commits    ███████████░░░░░░░░░░░░░░   44.04% 
-🌃 Evening    197 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
+🌞 Morning    219 commits    ██████░░░░░░░░░░░░░░░░░░░   26.64%
+🌆 Daytime    362 commits    ███████████░░░░░░░░░░░░░░   44.04%
+🌃 Evening    197 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97%
 🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-Wednesday    183 commits    █████░░░░░░░░░░░░░░░░░░░░   22.26% 
-Thursday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Saturday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
+Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
+Wednesday    183 commits    █████░░░░░░░░░░░░░░░░░░░░   22.26%
+Thursday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48%
+Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
+Saturday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91%
 Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.26%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-HTML                     4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.64% 
-Markdown                 3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.0% 
-JavaScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   22.88% 
-Go                       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+💬 Programming Languages:
+HTML                     4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.64%
+Markdown                 3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.0%
+JavaScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   22.88%
+Go                       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 Vue.js                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  10 hrs 57 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      10 hrs 57 mins      █████████████████████████   100.0%
 
 ```
