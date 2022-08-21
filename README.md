@@ -341,13 +341,6 @@ Mac                      11 hrs 9 mins       ███████████�
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
-        <a href="https://github.com/pseudoyu">
-            <img src="https://avatars2.githubusercontent.com/u/69753389" width="100px;" alt="pseudoyu"/>
-        </a>
-        <br />
-        <a href="https://github.com/pseudoyu">Yu ZHANG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/georgezouq">
             <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
         </a>
@@ -367,6 +360,13 @@ Mac                      11 hrs 9 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/sun0225SUN">小孙同学</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pseudoyu">
+            <img src="https://avatars2.githubusercontent.com/u/69753389" width="100px;" alt="pseudoyu"/>
+        </a>
+        <br />
+        <a href="https://github.com/pseudoyu">Yu ZHANG</a>
     </td>
     <td align="center">
         <a href="https://github.com/kxxt">
