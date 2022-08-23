@@ -369,18 +369,18 @@ Mac                      10 hrs 28 mins      ███████████�
         <a href="https://github.com/pseudoyu">Yu ZHANG</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Phuong39">
             <img src="https://avatars2.githubusercontent.com/u/84000895" width="100px;" alt="Phuong39"/>
         </a>
         <br />
         <a href="https://github.com/Phuong39">Phuong39</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
   </tr>
 </table>
