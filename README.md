@@ -193,12 +193,12 @@ Mac                      7 hrs 27 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/JS-banana/JS-banana/issues/1) in [JS-banana/JS-banana](https://github.com/JS-banana/JS-banana)
-2. 🗣 Commented on [#14](https://github.com/eryajf/HowToStartOpenSource/issues/14) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. 🗣 Commented on [#116](https://github.com/eryajf/go-ldap-admin/issues/116) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#116](https://github.com/eryajf/go-ldap-admin/issues/116) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🎉 Merged PR [#115](https://github.com/eryajf/go-ldap-admin/pull/115) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#115](https://github.com/eryajf/go-ldap-admin/pull/115) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#894](https://github.com/eryajf/eryajf.github.io/issues/894) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Closed issue [#42](https://github.com/eryajf/Thanks-Mirror/issues/42) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#41](https://github.com/eryajf/Thanks-Mirror/issues/41) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#40](https://github.com/eryajf/Thanks-Mirror/issues/40) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Opened issue [#1](https://github.com/JS-banana/JS-banana/issues/1) in [JS-banana/JS-banana](https://github.com/JS-banana/JS-banana)
+6. 🗣 Commented on [#14](https://github.com/eryajf/HowToStartOpenSource/issues/14) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
 </td>
