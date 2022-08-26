@@ -78,7 +78,8 @@ width="800"  height="3">
 | [care-screenshot](https://github.com/eryajf/care-screenshot) | ![](https://img.shields.io/github/stars/eryajf/care-screenshot?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/care-screenshot?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 将你关心的网页元素截图发给机器人  |
 | [rpmbuild](https://github.com/eryajf/rpmbuild) | ![](https://img.shields.io/github/stars/eryajf/rpmbuild?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/rpmbuild?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 整理工作中常用的RPM构建spec  |
 | [learning-weekly](https://github.com/eryajf/learning-weekly) | ![](https://img.shields.io/github/stars/eryajf/learning-weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/learning-weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习周刊，开源项目,优秀博客  |
-| [xirang](https://github.com/eryajf/xirang) | ![](https://img.shields.io/github/stars/eryajf/xirang?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架  |
+| [xirang](https://github.com/eryajf/xirang) | ![](https://img.shields.io/github/stars/eryajf/xirang?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架后端  |
+| [xirang-ui](https://github.com/eryajf/xirang-ui) | ![](https://img.shields.io/github/stars/eryajf/xirang-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架前端  |
 | [eryajf.github.io](https://github.com/eryajf/eryajf.github.io) | ![](https://img.shields.io/github/stars/eryajf/eryajf.github.io?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf.github.io?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 当前博客全部源码  |
 | [Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) | ![](https://img.shields.io/github/stars/eryajf/Obsidian-Plugin-Weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Obsidian-Plugin-Weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Obsidian插件周刊  |
 | [ldapctl](https://github.com/eryajf/ldapctl) | ![](https://img.shields.io/github/stars/eryajf/ldapctl?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/ldapctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | OpenLDAP Controller  |
@@ -103,17 +104,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/) 
+- 🐻 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/)
 
-- 🎃 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/) 
+- 🎃 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/)
 
-- 🚀 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/) 
+- 🚀 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/)
 
-- 🌋 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/) 
+- 🌋 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/)
 
-- 🌁 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/) 
+- 🌁 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/)
 
-- 😺 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/) 
+- 😺 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -130,45 +131,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    244 commits    ███████░░░░░░░░░░░░░░░░░░   28.74% 
-🌆 Daytime    365 commits    ██████████░░░░░░░░░░░░░░░   42.99% 
-🌃 Evening    197 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2% 
+🌞 Morning    244 commits    ███████░░░░░░░░░░░░░░░░░░   28.74%
+🌆 Daytime    365 commits    ██████████░░░░░░░░░░░░░░░   42.99%
+🌃 Evening    197 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2%
 🌙 Night      43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
-Thursday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
-Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
+Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25%
+Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25%
+Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
+Thursday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49%
+Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61%
+Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 Sunday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Other                    4 hrs 44 mins       █████████████░░░░░░░░░░░░   52.53% 
-Go                       1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77% 
-Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+💬 Programming Languages:
+Other                    4 hrs 44 mins       █████████████░░░░░░░░░░░░   52.53%
+Go                       1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77%
+Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88%
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  9 hrs 1 min         █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      9 hrs 1 min         █████████████████████████   100.0%
 
 ```
