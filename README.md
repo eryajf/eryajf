@@ -319,18 +319,18 @@ Mac                      12 hrs 7 mins       ███████████�
         <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
-        <a href="https://github.com/starsliao">
-            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
-        </a>
-        <br />
-        <a href="https://github.com/starsliao">StarsL.cn</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
         </a>
         <br />
         <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starsliao">
+            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
+        </a>
+        <br />
+        <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
   </tr>
   <tr>
