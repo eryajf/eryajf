@@ -194,7 +194,7 @@ Mac                      12 hrs 7 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#895](https://github.com/eryajf/eryajf.github.io/issues/895) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#1](https://github.com/eryajf/care-screenshot/issues/1) in [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot)
 2. ❗️ Closed issue [#111](https://github.com/eryajf/go-ldap-admin/issues/111) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 3. ❗️ Closed issue [#114](https://github.com/eryajf/go-ldap-admin/issues/114) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 4. 🎉 Merged PR [#117](https://github.com/eryajf/go-ldap-admin/pull/117) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
