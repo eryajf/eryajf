@@ -194,9 +194,9 @@ Mac                      12 hrs 7 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/eryajf/care-screenshot/issues/1) in [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot)
-2. ❗️ Closed issue [#111](https://github.com/eryajf/go-ldap-admin/issues/111) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Closed issue [#114](https://github.com/eryajf/go-ldap-admin/issues/114) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#118](https://github.com/eryajf/go-ldap-admin/issues/118) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#118](https://github.com/eryajf/go-ldap-admin/issues/118) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#1](https://github.com/eryajf/care-screenshot/issues/1) in [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot)
 4. 🎉 Merged PR [#117](https://github.com/eryajf/go-ldap-admin/pull/117) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 5. 💪 Opened PR [#117](https://github.com/eryajf/go-ldap-admin/pull/117) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 6. ❗️ Closed issue [#116](https://github.com/eryajf/go-ldap-admin/issues/116) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
