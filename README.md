@@ -291,13 +291,6 @@ Mac                      15 hrs 18 mins      ███████████�
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/penndu">
-            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
-        </a>
-        <br />
-        <a href="https://github.com/penndu">TeacherDu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
@@ -332,14 +325,21 @@ Mac                      15 hrs 18 mins      ███████████�
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
         </a>
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/penndu">
+            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
+        </a>
+        <br />
+        <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
         <a href="https://github.com/xiezipei">
