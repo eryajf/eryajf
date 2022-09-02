@@ -93,6 +93,7 @@ width="800"  height="3">
 | [vdoing-template](https://github.com/eryajf/vdoing-template) | ![](https://img.shields.io/github/stars/eryajf/vdoing-template?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/vdoing-template?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  vdoing博客主题模板   |
 | [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | ![](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-github-profile-readme-chinese?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦩 优秀的中文区个人主页搜集  |
 | [awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) | ![](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-stars-eryajf?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤩 我的star列表，每天凌晨自动更新  |
+| [recommend-actions](https://github.com/eryajf/recommend-actions) | ![](https://img.shields.io/github/stars/eryajf/recommend-actions?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/recommend-actions?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的GitHub Actions推荐  |
 
 
 
@@ -104,17 +105,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/) 
+- 🐻 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/)
 
-- 🎃 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/) 
+- 🎃 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/)
 
-- 🚀 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/) 
+- 🚀 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/)
 
-- 🌋 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/) 
+- 🌋 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/)
 
-- 🌁 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/) 
+- 🌁 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/)
 
-- 😺 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/) 
+- 😺 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -131,45 +132,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    242 commits    ███████░░░░░░░░░░░░░░░░░░   27.5% 
-🌆 Daytime    352 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
-🌃 Evening    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.14% 
+🌞 Morning    242 commits    ███████░░░░░░░░░░░░░░░░░░   27.5%
+🌆 Daytime    352 commits    ██████████░░░░░░░░░░░░░░░   40.0%
+🌃 Evening    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.14%
 🌙 Night      56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
-Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Friday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
+Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02%
+Friday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41%
+Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
 Sunday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Groovy                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   46.87% 
-Other                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Go                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+💬 Programming Languages:
+Groovy                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   46.87%
+Other                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87%
+Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+Go                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
 JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  21 hrs 33 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      21 hrs 33 mins      █████████████████████████   100.0%
 
 ```
