@@ -195,12 +195,12 @@ Mac                      21 hrs 33 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#906](https://github.com/eryajf/eryajf.github.io/issues/906) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#903](https://github.com/eryajf/eryajf.github.io/issues/903) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. 🗣 Commented on [#119](https://github.com/eryajf/go-ldap-admin/issues/119) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. ❗️ Opened issue [#1](https://github.com/leryn1122/leryn1122/issues/1) in [leryn1122/leryn1122](https://github.com/leryn1122/leryn1122)
+1. 🎉 Merged PR [#55](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/55) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. ❗️ Opened issue [#906](https://github.com/eryajf/eryajf.github.io/issues/906) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Opened issue [#903](https://github.com/eryajf/eryajf.github.io/issues/903) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. 🗣 Commented on [#119](https://github.com/eryajf/go-ldap-admin/issues/119) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
