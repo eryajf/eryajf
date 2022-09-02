@@ -195,12 +195,12 @@ Mac                      21 hrs 33 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/56) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#55](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/55) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Opened issue [#906](https://github.com/eryajf/eryajf.github.io/issues/906) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Opened issue [#903](https://github.com/eryajf/eryajf.github.io/issues/903) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#900](https://github.com/eryajf/eryajf.github.io/issues/900) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🎉 Merged PR [#56](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/56) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🎉 Merged PR [#55](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/55) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Opened issue [#906](https://github.com/eryajf/eryajf.github.io/issues/906) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
