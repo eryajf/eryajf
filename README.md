@@ -104,17 +104,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/)
+- 🐻 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/) 
 
-- 🎃 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/)
+- 🎃 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/) 
 
-- 🚀 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/)
+- 🚀 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/) 
 
-- 🌋 [学习周刊-总第66期-2022年第31周](https://wiki.eryajf.net/pages/66c212/)
+- 🌋 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/) 
 
-- 🌁 [利用GitHub Actions自动检测项目中的问题链接](https://wiki.eryajf.net/pages/c78b38/)
+- 🌁 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/) 
 
-- 😺 [学习周刊-总第65期-2022年第30周](https://wiki.eryajf.net/pages/ac9758/)
+- 😺 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -131,51 +131,51 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    244 commits    ███████░░░░░░░░░░░░░░░░░░   28.74%
-🌆 Daytime    365 commits    ██████████░░░░░░░░░░░░░░░   42.99%
-🌃 Evening    197 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2%
-🌙 Night      43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06%
+🌞 Morning    242 commits    ███████░░░░░░░░░░░░░░░░░░   27.5% 
+🌆 Daytime    352 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
+🌃 Evening    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.14% 
+🌙 Night      56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36%
 
 ```
-📅 **I'm Most Productive on Friday**
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25%
-Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25%
-Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
-Thursday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49%
-Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61%
-Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
-Sunday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07%
+Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
+Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Friday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
+Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Sunday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-Other                    4 hrs 44 mins       █████████████░░░░░░░░░░░░   52.53%
-Go                       1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77%
-Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88%
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
+💬 Programming Languages: 
+Groovy                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   46.87% 
+Other                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Go                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
 
-🔥 Editors:
-VS Code                  9 hrs 1 min         █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  21 hrs 33 mins      █████████████████████████   100.0%
 
-💻 Operating System:
-Mac                      9 hrs 1 min         █████████████████████████   100.0%
+💻 Operating System: 
+Mac                      21 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/08/2022 06:43:49 UTC
+ Last Updated on 02/09/2022 06:47:26 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -194,12 +194,12 @@ Mac                      9 hrs 1 min         ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#895](https://github.com/eryajf/eryajf.github.io/issues/895) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Closed issue [#111](https://github.com/eryajf/go-ldap-admin/issues/111) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Closed issue [#114](https://github.com/eryajf/go-ldap-admin/issues/114) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#117](https://github.com/eryajf/go-ldap-admin/pull/117) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 💪 Opened PR [#117](https://github.com/eryajf/go-ldap-admin/pull/117) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. ❗️ Closed issue [#116](https://github.com/eryajf/go-ldap-admin/issues/116) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Opened issue [#903](https://github.com/eryajf/eryajf.github.io/issues/903) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. 🗣 Commented on [#119](https://github.com/eryajf/go-ldap-admin/issues/119) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. ❗️ Opened issue [#1](https://github.com/leryn1122/leryn1122/issues/1) in [leryn1122/leryn1122](https://github.com/leryn1122/leryn1122)
+6. 🎉 Merged PR [#20](https://github.com/eryajf/go-ldap-admin-ui/pull/20) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
 <!--END_SECTION:activity-->
 
 </td>
