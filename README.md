@@ -343,18 +343,18 @@ Mac                      21 hrs 33 mins      ███████████�
         <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xiezipei">
-            <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
-        </a>
-        <br />
-        <a href="https://github.com/xiezipei">xiezipei</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/rxliuli">
             <img src="https://avatars2.githubusercontent.com/u/24560368" width="100px;" alt="rxliuli"/>
         </a>
         <br />
         <a href="https://github.com/rxliuli">rxliuli</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xiezipei">
+            <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
+        </a>
+        <br />
+        <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
         <a href="https://github.com/georgezouq">
