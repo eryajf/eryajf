@@ -234,6 +234,13 @@ Mac                      21 hrs 33 mins      ███████████�
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/esin">
+            <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
+        </a>
+        <br />
+        <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/AkshatRastogi-1nC0re">
             <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
         </a>
@@ -275,6 +282,8 @@ Mac                      21 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/hoochanlon">菠萝包与蛋奶酥</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/fengjixuchui">
             <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
@@ -282,8 +291,6 @@ Mac                      21 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/fengjixuchui">fengjixuchui</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars2.githubusercontent.com/u/49087564" width="100px;" alt="teamssix"/>
@@ -326,6 +333,8 @@ Mac                      21 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
@@ -333,8 +342,6 @@ Mac                      21 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -376,13 +383,6 @@ Mac                      21 hrs 33 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pseudoyu">
-            <img src="https://avatars2.githubusercontent.com/u/69753389" width="100px;" alt="pseudoyu"/>
-        </a>
-        <br />
-        <a href="https://github.com/pseudoyu">Yu ZHANG</a>
     </td>
   </tr>
 </table>
