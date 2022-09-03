@@ -269,12 +269,21 @@ Mac                      25 hrs 33 mins      ███████████�
         <a href="https://github.com/crazylxr">lxr</a>
     </td>
     <td align="center">
+        <a href="https://github.com/cumsoft">
+            <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
+        </a>
+        <br />
+        <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sbilly">
             <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
         </a>
         <br />
         <a href="https://github.com/sbilly">sbilly</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
@@ -282,8 +291,6 @@ Mac                      25 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/hoochanlon">菠萝包与蛋奶酥</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/fengjixuchui">
             <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
@@ -326,6 +333,8 @@ Mac                      25 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
@@ -333,8 +342,6 @@ Mac                      25 hrs 33 mins      ███████████�
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -376,13 +383,6 @@ Mac                      25 hrs 33 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/sun0225SUN">小孙同学</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Phuong39">
-            <img src="https://avatars2.githubusercontent.com/u/84000895" width="100px;" alt="Phuong39"/>
-        </a>
-        <br />
-        <a href="https://github.com/Phuong39">Phuong39</a>
     </td>
   </tr>
 </table>
