@@ -357,18 +357,18 @@ Mac                      25 hrs 8 mins       ███████████�
         <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
-        <a href="https://github.com/georgezouq">
-            <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
-        </a>
-        <br />
-        <a href="https://github.com/georgezouq">GeorgeZou</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/gylidian">
             <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
         </a>
         <br />
         <a href="https://github.com/gylidian">锂电</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/georgezouq">
+            <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
+        </a>
+        <br />
+        <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
     <td align="center">
         <a href="https://github.com/rxliuli">
