@@ -343,18 +343,18 @@ Mac                      17 hrs 47 mins      ███████████�
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
-        <a href="https://github.com/penndu">
-            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
-        </a>
-        <br />
-        <a href="https://github.com/penndu">TeacherDu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xiezipei">
             <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
         </a>
         <br />
         <a href="https://github.com/xiezipei">xiezipei</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/penndu">
+            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
+        </a>
+        <br />
+        <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
         <a href="https://github.com/gylidian">
