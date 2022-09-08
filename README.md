@@ -196,11 +196,11 @@ Mac                      20 hrs 24 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/eryajf/go-ldap-admin/issues/121) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. ❗️ Opened issue [#199](https://github.com/yingDev/WGestures2-bugs/issues/199) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
-3. ❗️ Opened issue [#912](https://github.com/eryajf/eryajf.github.io/issues/912) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#911](https://github.com/eryajf/eryajf.github.io/issues/911) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Opened issue [#910](https://github.com/eryajf/eryajf.github.io/issues/910) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Opened issue [#909](https://github.com/eryajf/eryajf.github.io/issues/909) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🗣 Commented on [#121](https://github.com/eryajf/go-ldap-admin/issues/121) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Opened issue [#199](https://github.com/yingDev/WGestures2-bugs/issues/199) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
+4. ❗️ Opened issue [#912](https://github.com/eryajf/eryajf.github.io/issues/912) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Opened issue [#911](https://github.com/eryajf/eryajf.github.io/issues/911) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Opened issue [#910](https://github.com/eryajf/eryajf.github.io/issues/910) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
