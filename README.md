@@ -200,7 +200,7 @@ Mac                      17 hrs 47 mins      ███████████�
 3. 🗣 Commented on [#124](https://github.com/eryajf/go-ldap-admin/issues/124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 4. 🗣 Commented on [#124](https://github.com/eryajf/go-ldap-admin/issues/124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 5. 🗣 Commented on [#124](https://github.com/eryajf/go-ldap-admin/issues/124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#122](https://github.com/eryajf/go-ldap-admin/issues/122) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#124](https://github.com/eryajf/go-ldap-admin/issues/124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
