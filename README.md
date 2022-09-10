@@ -105,17 +105,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) 
+- 🐻 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) 
 
-- 🎃 [Jenkins结合MySql Database插件的平台化实践思路](https://wiki.eryajf.net/pages/ef36d8/) 
+- 🎃 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) 
 
-- 🚀 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/) 
+- 🚀 [Jenkins结合MySql Database插件的平台化实践思路](https://wiki.eryajf.net/pages/ef36d8/) 
 
-- 🌋 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/) 
+- 🌋 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/) 
 
-- 🌁 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/) 
+- 🌁 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/) 
 
-- 😺 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/) 
+- 😺 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
