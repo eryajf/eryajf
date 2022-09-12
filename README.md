@@ -320,12 +320,21 @@ Mac                      14 hrs 41 mins      ███████████�
         <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
+        <a href="https://github.com/penndu">
+            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
+        </a>
+        <br />
+        <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
         </a>
         <br />
         <a href="https://github.com/anzhihe">安志合</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/starsliao">
             <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
@@ -333,8 +342,6 @@ Mac                      14 hrs 41 mins      ███████████�
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
@@ -348,13 +355,6 @@ Mac                      14 hrs 41 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/xiezipei">xiezipei</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/penndu">
-            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
-        </a>
-        <br />
-        <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
         <a href="https://github.com/gylidian">
