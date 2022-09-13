@@ -262,18 +262,18 @@ Mac                      14 hrs 41 mins      ███████████�
         <a href="https://github.com/qianguyihao">千古壹号</a>
     </td>
     <td align="center">
-        <a href="https://github.com/crazylxr">
-            <img src="https://avatars2.githubusercontent.com/u/16161407" width="100px;" alt="crazylxr"/>
-        </a>
-        <br />
-        <a href="https://github.com/crazylxr">lxr</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/cumsoft">
             <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
         </a>
         <br />
         <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/crazylxr">
+            <img src="https://avatars2.githubusercontent.com/u/16161407" width="100px;" alt="crazylxr"/>
+        </a>
+        <br />
+        <a href="https://github.com/crazylxr">lxr</a>
     </td>
     <td align="center">
         <a href="https://github.com/sbilly">
