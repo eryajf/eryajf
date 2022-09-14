@@ -195,12 +195,12 @@ Mac                      17 hrs 36 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/eryajf/go-ldap-admin/issues/123) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#3](https://github.com/eryajf/tu/pull/3) in [eryajf/tu](https://github.com/eryajf/tu)
-3. ❗️ Closed issue [#47](https://github.com/eryajf/Thanks-Mirror/issues/47) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#46](https://github.com/eryajf/Thanks-Mirror/issues/46) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#45](https://github.com/eryajf/Thanks-Mirror/issues/45) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Opened issue [#918](https://github.com/eryajf/eryajf.github.io/issues/918) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🎉 Merged PR [#45](https://github.com/eryajf/learn-github/pull/45) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. 💪 Opened PR [#45](https://github.com/eryajf/learn-github/pull/45) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. 🎉 Merged PR [#44](https://github.com/eryajf/learn-github/pull/44) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+4. 💪 Opened PR [#44](https://github.com/eryajf/learn-github/pull/44) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🗣 Commented on [#123](https://github.com/eryajf/go-ldap-admin/issues/123) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🎉 Merged PR [#3](https://github.com/eryajf/tu/pull/3) in [eryajf/tu](https://github.com/eryajf/tu)
 <!--END_SECTION:activity-->
 
 </td>
