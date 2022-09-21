@@ -364,18 +364,18 @@ Mac                      26 hrs 13 mins      ███████████�
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
-        <a href="https://github.com/gylidian">
-            <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
-        </a>
-        <br />
-        <a href="https://github.com/gylidian">锂电</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gylidian">
+            <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
+        </a>
+        <br />
+        <a href="https://github.com/gylidian">锂电</a>
     </td>
     <td align="center">
         <a href="https://github.com/georgezouq">
