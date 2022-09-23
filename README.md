@@ -105,17 +105,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) 
+- 🐻 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) 
 
-- 🎃 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) 
+- 🎃 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) 
 
-- 🚀 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) 
+- 🚀 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) 
 
-- 🌋 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) 
+- 🌋 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) 
 
-- 🌁 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) 
+- 🌁 [Jenkins-Groovy中三元表达式的用法](https://wiki.eryajf.net/pages/ebae63/) 
 
-- 😺 [Jenkins结合MySql Database插件的平台化实践思路](https://wiki.eryajf.net/pages/ef36d8/) 
+- 😺 [学习周刊-总第70期-2022年第35周](https://wiki.eryajf.net/pages/d3ed2b/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
