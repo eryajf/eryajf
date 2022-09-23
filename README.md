@@ -195,12 +195,12 @@ Mac                      25 hrs 7 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/eryajf/go-ldap-admin/issues/125) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. ❗️ Opened issue [#922](https://github.com/eryajf/eryajf.github.io/issues/922) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Opened issue [#921](https://github.com/eryajf/eryajf.github.io/issues/921) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#920](https://github.com/eryajf/eryajf.github.io/issues/920) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. 🗣 Commented on [#123](https://github.com/eryajf/go-ldap-admin/issues/123) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#3](https://github.com/eryajf/tu/pull/3) in [eryajf/tu](https://github.com/eryajf/tu)
+1. ❗️ Opened issue [#923](https://github.com/eryajf/eryajf.github.io/issues/923) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🗣 Commented on [#125](https://github.com/eryajf/go-ldap-admin/issues/125) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#125](https://github.com/eryajf/go-ldap-admin/issues/125) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. ❗️ Opened issue [#922](https://github.com/eryajf/eryajf.github.io/issues/922) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Opened issue [#921](https://github.com/eryajf/eryajf.github.io/issues/921) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Opened issue [#920](https://github.com/eryajf/eryajf.github.io/issues/920) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
