@@ -195,9 +195,9 @@ Mac                      20 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/leaves615/KeyboardHolder/issues/93) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-2. 🗣 Commented on [#125](https://github.com/eryajf/go-ldap-admin/issues/125) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#125](https://github.com/eryajf/go-ldap-admin/issues/125) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#18](https://github.com/eryajf/learning-weekly/issues/18) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+2. ❗️ Closed issue [#18](https://github.com/eryajf/learning-weekly/issues/18) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+3. 🗣 Commented on [#93](https://github.com/leaves615/KeyboardHolder/issues/93) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 4. ❗️ Opened issue [#922](https://github.com/eryajf/eryajf.github.io/issues/922) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 5. ❗️ Opened issue [#921](https://github.com/eryajf/eryajf.github.io/issues/921) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 6. ❗️ Opened issue [#920](https://github.com/eryajf/eryajf.github.io/issues/920) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
