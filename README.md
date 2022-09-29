@@ -195,12 +195,12 @@ Mac                      15 hrs 31 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/58) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#57](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/57) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🗣 Commented on [#18](https://github.com/eryajf/learning-weekly/issues/18) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-4. ❗️ Closed issue [#18](https://github.com/eryajf/learning-weekly/issues/18) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-5. 🗣 Commented on [#93](https://github.com/leaves615/KeyboardHolder/issues/93) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-6. ❗️ Opened issue [#920](https://github.com/eryajf/eryajf.github.io/issues/920) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. ❗️ Closed issue [#51](https://github.com/eryajf/Thanks-Mirror/issues/51) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#52](https://github.com/eryajf/Thanks-Mirror/issues/52) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#50](https://github.com/eryajf/Thanks-Mirror/issues/50) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#49](https://github.com/eryajf/Thanks-Mirror/issues/49) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#48](https://github.com/eryajf/Thanks-Mirror/issues/48) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🎉 Merged PR [#58](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/58) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
