@@ -195,12 +195,12 @@ Mac                      14 hrs 3 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-2. ❗️ Closed issue [#51](https://github.com/eryajf/Thanks-Mirror/issues/51) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#52](https://github.com/eryajf/Thanks-Mirror/issues/52) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#50](https://github.com/eryajf/Thanks-Mirror/issues/50) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#49](https://github.com/eryajf/Thanks-Mirror/issues/49) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#48](https://github.com/eryajf/Thanks-Mirror/issues/48) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
+2. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
+3. ❗️ Opened issue [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
+4. ❗️ Closed issue [#51](https://github.com/eryajf/Thanks-Mirror/issues/51) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#52](https://github.com/eryajf/Thanks-Mirror/issues/52) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#50](https://github.com/eryajf/Thanks-Mirror/issues/50) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
