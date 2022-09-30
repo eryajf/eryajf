@@ -195,12 +195,12 @@ Mac                      12 hrs 36 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/59) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. ❗️ Opened issue [#30](https://github.com/eryajf/HowToStartOpenSource/issues/30) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-4. ❗️ Closed issue [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-5. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-6. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
+1. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+2. 🎉 Merged PR [#60](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/60) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. 🎉 Merged PR [#59](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/59) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. ❗️ Opened issue [#30](https://github.com/eryajf/HowToStartOpenSource/issues/30) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
 </td>
