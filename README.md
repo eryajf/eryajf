@@ -195,10 +195,10 @@ Mac                      12 hrs 36 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-2. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-3. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
-4. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
+1. 🎉 Merged PR [#59](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/59) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+2. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+3. ❗️ Opened issue [#30](https://github.com/eryajf/HowToStartOpenSource/issues/30) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. ❗️ Closed issue [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
 5. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
 6. 🗣 Commented on [#184](https://github.com/jenkinsci/dingtalk-plugin/issues/184) in [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin)
 <!--END_SECTION:activity-->
