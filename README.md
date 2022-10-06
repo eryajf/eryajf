@@ -255,18 +255,18 @@ Mac                      8 hrs 35 mins       ███████████�
         <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
     </td>
     <td align="center">
-        <a href="https://github.com/qianguyihao">
-            <img src="https://avatars2.githubusercontent.com/u/8827896" width="100px;" alt="qianguyihao"/>
-        </a>
-        <br />
-        <a href="https://github.com/qianguyihao">千古壹号</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/cumsoft">
             <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
         </a>
         <br />
         <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/qianguyihao">
+            <img src="https://avatars2.githubusercontent.com/u/8827896" width="100px;" alt="qianguyihao"/>
+        </a>
+        <br />
+        <a href="https://github.com/qianguyihao">千古壹号</a>
     </td>
     <td align="center">
         <a href="https://github.com/crazylxr">
@@ -364,18 +364,18 @@ Mac                      8 hrs 35 mins       ███████████�
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/gylidian">
             <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
         </a>
         <br />
         <a href="https://github.com/gylidian">锂电</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
     <td align="center">
         <a href="https://github.com/georgezouq">
