@@ -191,10 +191,10 @@ No Activity Tracked This Week
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#925](https://github.com/eryajf/eryajf.github.io/issues/925) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. 🎉 Merged PR [#62](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/62) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🎉 Merged PR [#61](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/61) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. 🎉 Merged PR [#60](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/60) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. ❗️ Opened issue [#927](https://github.com/eryajf/eryajf.github.io/issues/927) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Opened issue [#926](https://github.com/eryajf/eryajf.github.io/issues/926) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. 🗣 Commented on [#316](https://github.com/eryajf/eryajf.github.io/issues/316) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Opened issue [#925](https://github.com/eryajf/eryajf.github.io/issues/925) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 5. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 6. 🎉 Merged PR [#59](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/59) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
