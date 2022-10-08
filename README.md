@@ -191,12 +191,12 @@ No Activity Tracked This Week
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#927](https://github.com/eryajf/eryajf.github.io/issues/927) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Opened issue [#926](https://github.com/eryajf/eryajf.github.io/issues/926) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. 🗣 Commented on [#316](https://github.com/eryajf/eryajf.github.io/issues/316) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Opened issue [#925](https://github.com/eryajf/eryajf.github.io/issues/925) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. 🗣 Commented on [#29](https://github.com/eryajf/HowToStartOpenSource/issues/29) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-6. 🎉 Merged PR [#59](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/59) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. ❗️ Closed issue [#62](https://github.com/eryajf/Thanks-Mirror/issues/62) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#61](https://github.com/eryajf/Thanks-Mirror/issues/61) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#60](https://github.com/eryajf/Thanks-Mirror/issues/60) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#59](https://github.com/eryajf/Thanks-Mirror/issues/59) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#58](https://github.com/eryajf/Thanks-Mirror/issues/58) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#57](https://github.com/eryajf/Thanks-Mirror/issues/57) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
