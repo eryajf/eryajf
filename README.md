@@ -94,6 +94,7 @@ width="800"  height="3">
 | [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | ![](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-github-profile-readme-chinese?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦩 优秀的中文区个人主页搜集  |
 | [awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) | ![](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-stars-eryajf?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤩 我的star列表，每天凌晨自动更新  |
 | [recommend-actions](https://github.com/eryajf/recommend-actions) | ![](https://img.shields.io/github/stars/eryajf/recommend-actions?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/recommend-actions?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的GitHub Actions推荐  |
+| [awesome-navigation](https://github.com/eryajf/awesome-navigation) | ![](https://img.shields.io/github/stars/eryajf/awesome-navigation?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-navigation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的导航项目以及导航站合集  |
 
 
 
@@ -105,17 +106,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) 
+- 🐻 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/)
 
-- 🎃 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) 
+- 🎃 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/)
 
-- 🚀 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) 
+- 🚀 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/)
 
-- 🌋 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) 
+- 🌋 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/)
 
-- 🌁 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) 
+- 🌁 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/)
 
-- 😺 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) 
+- 😺 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -132,41 +133,41 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    291 commits    ███████░░░░░░░░░░░░░░░░░░   30.86% 
-🌆 Daytime    338 commits    █████████░░░░░░░░░░░░░░░░   35.84% 
-🌃 Evening    234 commits    ██████░░░░░░░░░░░░░░░░░░░   24.81% 
+🌞 Morning    291 commits    ███████░░░░░░░░░░░░░░░░░░   30.86%
+🌆 Daytime    338 commits    █████████░░░░░░░░░░░░░░░░   35.84%
+🌃 Evening    234 commits    ██████░░░░░░░░░░░░░░░░░░░   24.81%
 🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
-Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Wednesday    140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Friday       178 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Monday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.32%
+Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+Wednesday    140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
+Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0%
+Friday       178 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.88%
+Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
 Sunday       108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
