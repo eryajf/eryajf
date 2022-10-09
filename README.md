@@ -105,17 +105,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第69期-2022年第34周](https://wiki.eryajf.net/pages/30b309/)
+- 🐻 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) 
 
-- 🎃 [五个月后，你将成为一条好汉](https://wiki.eryajf.net/pages/46913a/)
+- 🎃 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) 
 
-- 🚀 [整理欣遇宝贝在22年4月到8月的言语](https://wiki.eryajf.net/pages/72a375/)
+- 🚀 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) 
 
-- 🌋 [学习周刊-总第68期-2022年第33周](https://wiki.eryajf.net/pages/73eb3e/)
+- 🌋 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) 
 
-- 🌁 [Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解](https://wiki.eryajf.net/pages/c2262c/)
+- 🌁 [将maven本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/f5007c/) 
 
-- 😺 [学习周刊-总第67期-2022年第32周](https://wiki.eryajf.net/pages/c5dd7c/)
+- 😺 [学习周刊-总第71期-2022年第36周](https://wiki.eryajf.net/pages/502079/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -132,51 +132,47 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    242 commits    ███████░░░░░░░░░░░░░░░░░░   27.5%
-🌆 Daytime    352 commits    ██████████░░░░░░░░░░░░░░░   40.0%
-🌃 Evening    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.14%
-🌙 Night      56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36%
+🌞 Morning    291 commits    ███████░░░░░░░░░░░░░░░░░░   30.86% 
+🌆 Daytime    338 commits    █████████░░░░░░░░░░░░░░░░   35.84% 
+🌃 Evening    234 commits    ██████░░░░░░░░░░░░░░░░░░░   24.81% 
+🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 ```
-📅 **I'm Most Productive on Friday**
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
-Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
-Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02%
-Friday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41%
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
-Sunday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
+Monday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
+Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Wednesday    140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Friday       178 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
+Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Sunday       108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-Groovy                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   46.87%
-Other                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87%
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
-Go                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors:
-VS Code                  21 hrs 33 mins      █████████████████████████   100.0%
+🔥 Editors: 
+No Activity Tracked This Week
 
-💻 Operating System:
-Mac                      21 hrs 33 mins      █████████████████████████   100.0%
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/09/2022 06:47:26 UTC
+ Last Updated on 08/10/2022 06:10:11 UTC
 <!--END_SECTION:waka-->
 
 </td>
@@ -195,12 +191,12 @@ Mac                      21 hrs 33 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#905](https://github.com/eryajf/eryajf.github.io/issues/905) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Opened issue [#904](https://github.com/eryajf/eryajf.github.io/issues/904) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Opened issue [#903](https://github.com/eryajf/eryajf.github.io/issues/903) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. 🗣 Commented on [#119](https://github.com/eryajf/go-ldap-admin/issues/119) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. ❗️ Opened issue [#1](https://github.com/leryn1122/leryn1122/issues/1) in [leryn1122/leryn1122](https://github.com/leryn1122/leryn1122)
-6. 🎉 Merged PR [#20](https://github.com/eryajf/go-ldap-admin-ui/pull/20) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+1. ❗️ Closed issue [#64](https://github.com/eryajf/Thanks-Mirror/issues/64) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#63](https://github.com/eryajf/Thanks-Mirror/issues/63) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#62](https://github.com/eryajf/Thanks-Mirror/issues/62) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#61](https://github.com/eryajf/Thanks-Mirror/issues/61) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#60](https://github.com/eryajf/Thanks-Mirror/issues/60) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#59](https://github.com/eryajf/Thanks-Mirror/issues/59) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
@@ -232,6 +228,158 @@ Mac                      21 hrs 33 mins      ███████████�
 
 <!--ACTION_START_FLAG:github-followers-->
 <table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/esin">
+            <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
+        </a>
+        <br />
+        <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AYIDouble">
+            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
+        </a>
+        <br />
+        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AkshatRastogi-1nC0re">
+            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
+        </a>
+        <br />
+        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/cumsoft">
+            <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
+        </a>
+        <br />
+        <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/qianguyihao">
+            <img src="https://avatars2.githubusercontent.com/u/8827896" width="100px;" alt="qianguyihao"/>
+        </a>
+        <br />
+        <a href="https://github.com/qianguyihao">千古壹号</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/crazylxr">
+            <img src="https://avatars2.githubusercontent.com/u/16161407" width="100px;" alt="crazylxr"/>
+        </a>
+        <br />
+        <a href="https://github.com/crazylxr">lxr</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sbilly">
+            <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+        </a>
+        <br />
+        <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/hoochanlon">
+            <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+        </a>
+        <br />
+        <a href="https://github.com/hoochanlon">菠萝包与蛋奶酥</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fengjixuchui">
+            <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
+        </a>
+        <br />
+        <a href="https://github.com/fengjixuchui">fengjixuchui</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/adsian">
+            <img src="https://avatars2.githubusercontent.com/u/34738478" width="100px;" alt="adsian"/>
+        </a>
+        <br />
+        <a href="https://github.com/adsian">Roger</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/teamssix">
+            <img src="https://avatars2.githubusercontent.com/u/49087564" width="100px;" alt="teamssix"/>
+        </a>
+        <br />
+        <a href="https://github.com/teamssix">TeamsSix</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/awsassets">
+            <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
+        </a>
+        <br />
+        <a href="https://github.com/awsassets">awsassets</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/royswale">
+            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        </a>
+        <br />
+        <a href="https://github.com/royswale">royswale</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/penndu">
+            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
+        </a>
+        <br />
+        <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+        </a>
+        <br />
+        <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starsliao">
+            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
+        </a>
+        <br />
+        <a href="https://github.com/starsliao">StarsL.cn</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xiezipei">
+            <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
+        </a>
+        <br />
+        <a href="https://github.com/xiezipei">xiezipei</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/erbanku">
+            <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
+        </a>
+        <br />
+        <a href="https://github.com/erbanku">Cactus</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gylidian">
+            <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
+        </a>
+        <br />
+        <a href="https://github.com/gylidian">锂电</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/georgezouq">
+            <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
+        </a>
+        <br />
+        <a href="https://github.com/georgezouq">GeorgeZou</a>
+    </td>
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
