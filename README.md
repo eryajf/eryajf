@@ -196,12 +196,12 @@ Mac                      4 hrs 43 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#890](https://github.com/eryajf/eryajf.github.io/issues/890) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Closed issue [#64](https://github.com/eryajf/Thanks-Mirror/issues/64) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#63](https://github.com/eryajf/Thanks-Mirror/issues/63) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#62](https://github.com/eryajf/Thanks-Mirror/issues/62) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#61](https://github.com/eryajf/Thanks-Mirror/issues/61) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#60](https://github.com/eryajf/Thanks-Mirror/issues/60) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 💪 Opened PR [#908](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/908) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❌ Closed PR [#862](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/862) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#890](https://github.com/eryajf/eryajf.github.io/issues/890) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#64](https://github.com/eryajf/Thanks-Mirror/issues/64) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#63](https://github.com/eryajf/Thanks-Mirror/issues/63) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#62](https://github.com/eryajf/Thanks-Mirror/issues/62) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
