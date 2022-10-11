@@ -196,12 +196,12 @@ Mac                      9 hrs 32 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/deathau/maximise-active-pane-obsidian/issues/18) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
-2. 💪 Opened PR [#908](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/908) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. ❌ Closed PR [#862](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/862) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 🗣 Commented on [#890](https://github.com/eryajf/eryajf.github.io/issues/890) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Closed issue [#64](https://github.com/eryajf/Thanks-Mirror/issues/64) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#63](https://github.com/eryajf/Thanks-Mirror/issues/63) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#11](https://github.com/deathau/maximise-active-pane-obsidian/issues/11) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
+2. 🗣 Commented on [#18](https://github.com/deathau/maximise-active-pane-obsidian/issues/18) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
+3. 💪 Opened PR [#908](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/908) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. ❌ Closed PR [#862](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/862) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+5. 🗣 Commented on [#890](https://github.com/eryajf/eryajf.github.io/issues/890) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Closed issue [#64](https://github.com/eryajf/Thanks-Mirror/issues/64) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
