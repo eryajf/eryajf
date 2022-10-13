@@ -196,9 +196,9 @@ Mac                      18 hrs 55 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/li-xiao-shuang/li-xiao-shuang/issues/1) in [li-xiao-shuang/li-xiao-shuang](https://github.com/li-xiao-shuang/li-xiao-shuang)
-2. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
-3. 🗣 Commented on [#11](https://github.com/deathau/maximise-active-pane-obsidian/issues/11) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
+1. 🗣 Commented on [#383](https://github.com/go-ldap/ldap/issues/383) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
+2. 🗣 Commented on [#1](https://github.com/li-xiao-shuang/li-xiao-shuang/issues/1) in [li-xiao-shuang/li-xiao-shuang](https://github.com/li-xiao-shuang/li-xiao-shuang)
+3. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
 4. 🗣 Commented on [#18](https://github.com/deathau/maximise-active-pane-obsidian/issues/18) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
 5. 💪 Opened PR [#908](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/908) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 6. ❌ Closed PR [#862](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/862) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
