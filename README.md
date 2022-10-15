@@ -196,9 +196,9 @@ Mac                      24 hrs 36 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#928](https://github.com/eryajf/eryajf.github.io/issues/928) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. 🗣 Commented on [#383](https://github.com/go-ldap/ldap/issues/383) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
-3. 🗣 Commented on [#1](https://github.com/li-xiao-shuang/li-xiao-shuang/issues/1) in [li-xiao-shuang/li-xiao-shuang](https://github.com/li-xiao-shuang/li-xiao-shuang)
+1. ❗️ Opened issue [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+2. ❗️ Opened issue [#928](https://github.com/eryajf/eryajf.github.io/issues/928) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. 🗣 Commented on [#383](https://github.com/go-ldap/ldap/issues/383) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
 4. 🗣 Commented on [#1](https://github.com/teamssix/teamssix/issues/1) in [teamssix/teamssix](https://github.com/teamssix/teamssix)
 5. 💪 Opened PR [#908](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/908) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 6. ❌ Closed PR [#862](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/862) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
