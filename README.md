@@ -314,6 +314,13 @@ Mac                      19 hrs 53 mins      ███████████�
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
+        <a href="https://github.com/hirak0">
+            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
+        </a>
+        <br />
+        <a href="https://github.com/hirak0">hirak0</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
@@ -327,6 +334,8 @@ Mac                      19 hrs 53 mins      ███████████�
         <br />
         <a href="https://github.com/royswale">royswale</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -334,8 +343,6 @@ Mac                      19 hrs 53 mins      ███████████�
         <br />
         <a href="https://github.com/penndu">TeacherDu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
@@ -351,18 +358,18 @@ Mac                      19 hrs 53 mins      ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
-        <a href="https://github.com/erbanku">
-            <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
-        </a>
-        <br />
-        <a href="https://github.com/erbanku">Cactus</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xiezipei">
             <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
         </a>
         <br />
         <a href="https://github.com/xiezipei">xiezipei</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/erbanku">
+            <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
+        </a>
+        <br />
+        <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
         <a href="https://github.com/gylidian">
@@ -377,13 +384,6 @@ Mac                      19 hrs 53 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/georgezouq">
-            <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
-        </a>
-        <br />
-        <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
   </tr>
 </table>
