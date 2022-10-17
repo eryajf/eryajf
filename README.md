@@ -379,11 +379,11 @@ Mac                      16 hrs 25 mins      ███████████�
         <a href="https://github.com/gylidian">锂电</a>
     </td>
     <td align="center">
-        <a href="https://github.com/georgezouq">
-            <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
+        <a href="https://github.com/sudoskys">
+            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
         </a>
         <br />
-        <a href="https://github.com/georgezouq">GeorgeZou</a>
+        <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
   </tr>
 </table>
