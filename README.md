@@ -196,12 +196,12 @@ Mac                      19 hrs 53 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/deathau/maximise-active-pane-obsidian/issues/11) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
-2. ❗️ Closed issue [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-3. 🗣 Commented on [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-4. ❗️ Opened issue [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-5. ❗️ Opened issue [#928](https://github.com/eryajf/eryajf.github.io/issues/928) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. 🗣 Commented on [#383](https://github.com/go-ldap/ldap/issues/383) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
+1. ❗️ Opened issue [#929](https://github.com/eryajf/eryajf.github.io/issues/929) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🎉 Merged PR [#4](https://github.com/eryajf/tu/pull/4) in [eryajf/tu](https://github.com/eryajf/tu)
+3. 🗣 Commented on [#11](https://github.com/deathau/maximise-active-pane-obsidian/issues/11) in [deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
+4. ❗️ Closed issue [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+5. 🗣 Commented on [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+6. ❗️ Opened issue [#53](https://github.com/jacklandrin/OnlySwitch/issues/53) in [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 <!--END_SECTION:activity-->
 
 </td>
