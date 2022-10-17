@@ -372,18 +372,18 @@ Mac                      16 hrs 25 mins      ███████████�
         <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
     <td align="center">
-        <a href="https://github.com/gylidian">
-            <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
-        </a>
-        <br />
-        <a href="https://github.com/gylidian">锂电</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
         </a>
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gylidian">
+            <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
+        </a>
+        <br />
+        <a href="https://github.com/gylidian">锂电</a>
     </td>
   </tr>
 </table>
