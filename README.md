@@ -358,6 +358,13 @@ Mac                      15 hrs 19 mins      ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
+        <a href="https://github.com/sudoskys">
+            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
+        </a>
+        <br />
+        <a href="https://github.com/sudoskys">Jasmine</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars2.githubusercontent.com/u/79493862" width="100px;" alt="erbanku"/>
         </a>
@@ -370,13 +377,6 @@ Mac                      15 hrs 19 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/xiezipei">xiezipei</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sudoskys">
-            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
-        </a>
-        <br />
-        <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
     <td align="center">
         <a href="https://github.com/TenviLi">
