@@ -351,18 +351,18 @@ Mac                      13 hrs 30 mins      ███████████�
         <a href="https://github.com/anzhihe">安志合</a>
     </td>
     <td align="center">
-        <a href="https://github.com/starsliao">
-            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
-        </a>
-        <br />
-        <a href="https://github.com/starsliao">StarsL.cn</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
         </a>
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starsliao">
+            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
+        </a>
+        <br />
+        <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
         <a href="https://github.com/erbanku">
