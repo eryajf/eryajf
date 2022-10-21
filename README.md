@@ -106,17 +106,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [Linux好用命令之watch命令](https://wiki.eryajf.net/pages/97c813/) 
+- 🐻 [学习周刊-总第76期-2022年第41周](https://wiki.eryajf.net/pages/137fb1/) 
 
-- 🎃 [学习周刊-总第75期-2022年第40周](https://wiki.eryajf.net/pages/34698c/) 
+- 🎃 [Linux好用命令之watch命令](https://wiki.eryajf.net/pages/97c813/) 
 
-- 🚀 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) 
+- 🚀 [学习周刊-总第75期-2022年第40周](https://wiki.eryajf.net/pages/34698c/) 
 
-- 🌋 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) 
+- 🌋 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) 
 
-- 🌁 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) 
+- 🌁 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) 
 
-- 😺 [将npm本地包上传到nexus私服的实践](https://wiki.eryajf.net/pages/18ca89/) 
+- 😺 [学习周刊-总第72期-2022年第37周](https://wiki.eryajf.net/pages/430bd1/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
