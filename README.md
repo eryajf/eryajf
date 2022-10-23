@@ -344,18 +344,18 @@ Mac                      19 hrs 52 mins      ███████████�
         <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/anzhihe">
-            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
-        </a>
-        <br />
-        <a href="https://github.com/anzhihe">安志合</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
         </a>
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+        </a>
+        <br />
+        <a href="https://github.com/anzhihe">安志合</a>
     </td>
     <td align="center">
         <a href="https://github.com/starsliao">
