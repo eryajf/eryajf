@@ -379,11 +379,11 @@ Mac                      25 hrs 30 mins      ███████████�
         <a href="https://github.com/erbanku">Cactus</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        <a href="https://github.com/wuchunfu">
+            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
         </a>
         <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
+        <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
   </tr>
 </table>
