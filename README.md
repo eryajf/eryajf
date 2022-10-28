@@ -365,6 +365,13 @@ Mac                      25 hrs 30 mins      ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
+        <a href="https://github.com/wuchunfu">
+            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
+        </a>
+        <br />
+        <a href="https://github.com/wuchunfu">ChunFu Wu</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xiezipei">
             <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
         </a>
@@ -377,13 +384,6 @@ Mac                      25 hrs 30 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wuchunfu">
-            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
-        </a>
-        <br />
-        <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
   </tr>
 </table>
