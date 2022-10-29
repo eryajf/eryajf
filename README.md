@@ -196,9 +196,9 @@ Mac                      21 hrs 11 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/64) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#63](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/63) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. ❗️ Opened issue [#291](https://github.com/bndr/gojenkins/issues/291) in [bndr/gojenkins](https://github.com/bndr/gojenkins)
+1. ❗️ Opened issue [#933](https://github.com/eryajf/eryajf.github.io/issues/933) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🎉 Merged PR [#64](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/64) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🎉 Merged PR [#63](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/63) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 4. ❗️ Closed issue [#72](https://github.com/eryajf/Thanks-Mirror/issues/72) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 5. ❗️ Closed issue [#71](https://github.com/eryajf/Thanks-Mirror/issues/71) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 6. ❗️ Closed issue [#67](https://github.com/eryajf/Thanks-Mirror/issues/67) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
