@@ -106,7 +106,7 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/dc502c/) 
+- 🐻 [学习周刊-总第77期-2022年第42周](https://wiki.eryajf.net/pages/dc502c/) 
 
 - 🎃 [Docker 调试构建失败的 Dockerfile 的方法](https://wiki.eryajf.net/pages/8ff051/) 
 
