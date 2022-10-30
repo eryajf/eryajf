@@ -337,18 +337,18 @@ Mac                      20 hrs 24 mins      ███████████�
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/sudoskys">
-            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
-        </a>
-        <br />
-        <a href="https://github.com/sudoskys">Jasmine</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
         </a>
         <br />
         <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sudoskys">
+            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
+        </a>
+        <br />
+        <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
     <td align="center">
         <a href="https://github.com/wuchunfu">
