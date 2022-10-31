@@ -235,6 +235,13 @@ Mac                      20 hrs 20 mins      ███████████�
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/zhaoolee">
+            <img src="https://avatars2.githubusercontent.com/u/15868458" width="100px;" alt="zhaoolee"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhaoolee">zhaoolee</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/esin">
             <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
         </a>
@@ -276,6 +283,8 @@ Mac                      20 hrs 20 mins      ███████████�
         <br />
         <a href="https://github.com/crazylxr">lxr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/sbilly">
             <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
@@ -283,8 +292,6 @@ Mac                      20 hrs 20 mins      ███████████�
         <br />
         <a href="https://github.com/sbilly">sbilly</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
@@ -327,6 +334,8 @@ Mac                      20 hrs 20 mins      ███████████�
         <br />
         <a href="https://github.com/awsassets">awsassets</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/royswale">
             <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
@@ -334,8 +343,6 @@ Mac                      20 hrs 20 mins      ███████████�
         <br />
         <a href="https://github.com/royswale">royswale</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -377,13 +384,6 @@ Mac                      20 hrs 20 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/erbanku">Cactus</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/xiezipei">
-            <img src="https://avatars2.githubusercontent.com/u/5949351" width="100px;" alt="xiezipei"/>
-        </a>
-        <br />
-        <a href="https://github.com/xiezipei">xiezipei</a>
     </td>
   </tr>
 </table>
