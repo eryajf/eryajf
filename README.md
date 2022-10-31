@@ -196,12 +196,12 @@ Mac                      20 hrs 20 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/eryajf/Thanks-Mirror/issues/79) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. 🗣 Commented on [#79](https://github.com/eryajf/Thanks-Mirror/issues/79) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Opened issue [#933](https://github.com/eryajf/eryajf.github.io/issues/933) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. 🎉 Merged PR [#64](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/64) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. ❗️ Closed issue [#71](https://github.com/eryajf/Thanks-Mirror/issues/71) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#67](https://github.com/eryajf/Thanks-Mirror/issues/67) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#80](https://github.com/eryajf/Thanks-Mirror/issues/80) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#78](https://github.com/eryajf/Thanks-Mirror/issues/78) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#77](https://github.com/eryajf/Thanks-Mirror/issues/77) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#76](https://github.com/eryajf/Thanks-Mirror/issues/76) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#75](https://github.com/eryajf/Thanks-Mirror/issues/75) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#74](https://github.com/eryajf/Thanks-Mirror/issues/74) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
