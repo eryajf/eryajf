@@ -321,18 +321,18 @@ Mac                      19 hrs 30 mins      ███████████�
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/hirak0">
-            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
-        </a>
-        <br />
-        <a href="https://github.com/hirak0">hirak0</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/awsassets">
             <img src="https://avatars2.githubusercontent.com/u/59461072" width="100px;" alt="awsassets"/>
         </a>
         <br />
         <a href="https://github.com/awsassets">awsassets</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hirak0">
+            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
+        </a>
+        <br />
+        <a href="https://github.com/hirak0">hirak0</a>
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@ Mac                      19 hrs 30 mins      ███████████�
         <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/royswale">
-            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
-        </a>
-        <br />
-        <a href="https://github.com/royswale">royswale</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
         </a>
         <br />
         <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/royswale">
+            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        </a>
+        <br />
+        <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
