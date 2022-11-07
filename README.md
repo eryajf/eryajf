@@ -196,12 +196,12 @@ Mac                      20 hrs 4 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/eryajf/tu/pull/5) in [eryajf/tu](https://github.com/eryajf/tu)
-2. ❗️ Opened issue [#935](https://github.com/eryajf/eryajf.github.io/issues/935) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Closed issue [#89](https://github.com/eryajf/Thanks-Mirror/issues/89) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#87](https://github.com/eryajf/Thanks-Mirror/issues/87) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#86](https://github.com/eryajf/Thanks-Mirror/issues/86) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#88](https://github.com/eryajf/Thanks-Mirror/issues/88) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. ❗️ Opened issue [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
+2. 🎉 Merged PR [#5](https://github.com/eryajf/tu/pull/5) in [eryajf/tu](https://github.com/eryajf/tu)
+3. ❗️ Opened issue [#935](https://github.com/eryajf/eryajf.github.io/issues/935) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#89](https://github.com/eryajf/Thanks-Mirror/issues/89) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#87](https://github.com/eryajf/Thanks-Mirror/issues/87) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#86](https://github.com/eryajf/Thanks-Mirror/issues/86) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
