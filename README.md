@@ -365,6 +365,13 @@ Mac                      20 hrs 4 mins       ███████████�
         <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
+        <a href="https://github.com/yinheli">
+            <img src="https://avatars2.githubusercontent.com/u/235094" width="100px;" alt="yinheli"/>
+        </a>
+        <br />
+        <a href="https://github.com/yinheli">yinheli</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
         </a>
@@ -377,13 +384,6 @@ Mac                      20 hrs 4 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
   </tr>
 </table>
