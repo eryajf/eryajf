@@ -196,12 +196,12 @@ Mac                      18 hrs 20 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#937](https://github.com/eryajf/eryajf.github.io/issues/937) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Opened issue [#936](https://github.com/eryajf/eryajf.github.io/issues/936) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Opened issue [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
-4. 🎉 Merged PR [#5](https://github.com/eryajf/tu/pull/5) in [eryajf/tu](https://github.com/eryajf/tu)
-5. ❗️ Opened issue [#935](https://github.com/eryajf/eryajf.github.io/issues/935) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Closed issue [#89](https://github.com/eryajf/Thanks-Mirror/issues/89) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
+2. ❗️ Opened issue [#937](https://github.com/eryajf/eryajf.github.io/issues/937) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Opened issue [#936](https://github.com/eryajf/eryajf.github.io/issues/936) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Opened issue [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
+5. 🎉 Merged PR [#5](https://github.com/eryajf/tu/pull/5) in [eryajf/tu](https://github.com/eryajf/tu)
+6. ❗️ Opened issue [#935](https://github.com/eryajf/eryajf.github.io/issues/935) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
