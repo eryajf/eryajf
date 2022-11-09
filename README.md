@@ -351,18 +351,18 @@ Mac                      20 hrs 26 mins      ███████████�
         <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/penndu">
-            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
-        </a>
-        <br />
-        <a href="https://github.com/penndu">TeacherDu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/royswale">
             <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
         </a>
         <br />
         <a href="https://github.com/royswale">royswale</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/penndu">
+            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
+        </a>
+        <br />
+        <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
         <a href="https://github.com/yinheli">
