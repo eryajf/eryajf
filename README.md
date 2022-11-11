@@ -196,12 +196,12 @@ Mac                      22 hrs 1 min        ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#91](https://github.com/eryajf/Thanks-Mirror/issues/91) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#93](https://github.com/eryajf/Thanks-Mirror/issues/93) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#92](https://github.com/eryajf/Thanks-Mirror/issues/92) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#90](https://github.com/eryajf/Thanks-Mirror/issues/90) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
-6. ❗️ Opened issue [#937](https://github.com/eryajf/eryajf.github.io/issues/937) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. ❗️ Opened issue [#938](https://github.com/eryajf/eryajf.github.io/issues/938) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Closed issue [#91](https://github.com/eryajf/Thanks-Mirror/issues/91) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#93](https://github.com/eryajf/Thanks-Mirror/issues/93) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#92](https://github.com/eryajf/Thanks-Mirror/issues/92) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#90](https://github.com/eryajf/Thanks-Mirror/issues/90) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
 <!--END_SECTION:activity-->
 
 </td>
