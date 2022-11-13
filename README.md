@@ -345,27 +345,20 @@ Mac                      23 hrs 58 mins      ███████████�
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
     <td align="center">
-        <a href="https://github.com/hirak0">
-            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
-        </a>
-        <br />
-        <a href="https://github.com/hirak0">hirak0</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
         </a>
         <br />
         <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-        <a href="https://github.com/royswale">
-            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        <a href="https://github.com/hirak0">
+            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
         </a>
         <br />
-        <a href="https://github.com/royswale">royswale</a>
+        <a href="https://github.com/hirak0">hirak0</a>
     </td>
     <td align="center">
         <a href="https://github.com/penndu">
@@ -373,6 +366,13 @@ Mac                      23 hrs 58 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/royswale">
+            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        </a>
+        <br />
+        <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
         <a href="https://github.com/yinheli">
