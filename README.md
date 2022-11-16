@@ -273,18 +273,18 @@ Mac                      24 hrs 8 mins       ███████████�
         <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AkshatRastogi-1nC0re">
-            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
-        </a>
-        <br />
-        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/cumsoft">
             <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
         </a>
         <br />
         <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AkshatRastogi-1nC0re">
+            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
+        </a>
+        <br />
+        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
     </td>
     <td align="center">
         <a href="https://github.com/qianguyihao">
