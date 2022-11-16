@@ -252,13 +252,6 @@ Mac                      20 hrs 37 mins      ███████████�
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/zhaoolee">
-            <img src="https://avatars2.githubusercontent.com/u/15868458" width="100px;" alt="zhaoolee"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaoolee">zhaoolee</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/esin">
             <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
         </a>
@@ -300,8 +293,6 @@ Mac                      20 hrs 37 mins      ███████████�
         <br />
         <a href="https://github.com/crazylxr">lxr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/sbilly">
             <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
@@ -309,6 +300,8 @@ Mac                      20 hrs 37 mins      ███████████�
         <br />
         <a href="https://github.com/sbilly">sbilly</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
@@ -351,8 +344,6 @@ Mac                      20 hrs 37 mins      ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -360,6 +351,8 @@ Mac                      20 hrs 37 mins      ███████████�
         <br />
         <a href="https://github.com/wuchunfu">ChunFu Wu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/hirak0">
             <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
@@ -401,6 +394,13 @@ Mac                      20 hrs 37 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starsliao">
+            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
+        </a>
+        <br />
+        <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
   </tr>
 </table>
