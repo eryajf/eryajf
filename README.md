@@ -259,18 +259,18 @@ Mac                      16 hrs 53 mins      ███████████�
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AYIDouble">
-            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
-        </a>
-        <br />
-        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/cumsoft">
             <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
         </a>
         <br />
         <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AYIDouble">
+            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
+        </a>
+        <br />
+        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
         <a href="https://github.com/AkshatRastogi-1nC0re">
