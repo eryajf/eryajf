@@ -354,13 +354,6 @@ Mac                      16 hrs              ███████████�
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/hirak0">
-            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
-        </a>
-        <br />
-        <a href="https://github.com/hirak0">hirak0</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
         </a>
@@ -373,6 +366,13 @@ Mac                      16 hrs              ███████████�
         </a>
         <br />
         <a href="https://github.com/royswale">royswale</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hirak0">
+            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
+        </a>
+        <br />
+        <a href="https://github.com/hirak0">hirak0</a>
     </td>
     <td align="center">
         <a href="https://github.com/yinheli">
