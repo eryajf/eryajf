@@ -106,17 +106,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) 
+- 🐻 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/) 
 
-- 🎃 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) 
+- 🎃 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) 
 
-- 🚀 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/) 
+- 🚀 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) 
 
-- 🌋 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/) 
+- 🌋 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/) 
 
-- 🌁 [学习周刊-总第77期-2022年第42周](https://wiki.eryajf.net/pages/dc502c/) 
+- 🌁 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/) 
 
-- 😺 [Docker 调试构建失败的 Dockerfile 的方法](https://wiki.eryajf.net/pages/8ff051/) 
+- 😺 [学习周刊-总第77期-2022年第42周](https://wiki.eryajf.net/pages/dc502c/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
