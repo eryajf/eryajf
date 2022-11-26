@@ -196,12 +196,12 @@ Mac                      11 hrs 35 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-2. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-3. 🗣 Commented on [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-4. ❗️ Closed issue [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-5. ❗️ Opened issue [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-6. ❗️ Opened issue [#948](https://github.com/eryajf/eryajf.github.io/issues/948) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+2. ❗️ Opened issue [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+3. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+4. 🗣 Commented on [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+5. ❗️ Closed issue [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+6. ❗️ Opened issue [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
 <!--END_SECTION:activity-->
 
 </td>
