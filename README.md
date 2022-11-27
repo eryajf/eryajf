@@ -198,12 +198,12 @@ Mac                      13 hrs 6 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-2. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-3. ❗️ Opened issue [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-4. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-5. 🗣 Commented on [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-6. ❗️ Closed issue [#319](https://github.com/ArtalkJS/Artalk/issues/319) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+1. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+2. ❗️ Opened issue [#2](https://github.com/terwer/vuepress-plugin-vdoing-comment/issues/2) in [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment)
+3. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+4. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+5. ❗️ Opened issue [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+6. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
 <!--END_SECTION:activity-->
 
 </td>
