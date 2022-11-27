@@ -95,6 +95,8 @@ width="800"  height="3">
 | [awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) | ![](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-stars-eryajf?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤩 我的star列表，每天凌晨自动更新  |
 | [recommend-actions](https://github.com/eryajf/recommend-actions) | ![](https://img.shields.io/github/stars/eryajf/recommend-actions?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/recommend-actions?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的GitHub Actions推荐  |
 | [awesome-navigation](https://github.com/eryajf/awesome-navigation) | ![](https://img.shields.io/github/stars/eryajf/awesome-navigation?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-navigation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的导航项目以及导航站合集  |
+| [ldapool](https://github.com/eryajf/ldapool) | ![](https://img.shields.io/github/stars/eryajf/ldapool?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/ldapool?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap库的连接池实现  |
+| [gojenkins](https://github.com/eryajf/gojenkins) | ![](https://img.shields.io/github/stars/eryajf/gojenkins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gojenkins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | fork自gojenkins,增加了很多功能  |
 
 
 
@@ -106,17 +108,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) 
+- 🐻 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/)
 
-- 🎃 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/) 
+- 🎃 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/)
 
-- 🚀 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) 
+- 🚀 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/)
 
-- 🌋 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) 
+- 🌋 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/)
 
-- 🌁 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/) 
+- 🌁 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/)
 
-- 😺 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/) 
+- 😺 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -133,45 +135,45 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    316 commits    ████████░░░░░░░░░░░░░░░░░   31.85% 
-🌆 Daytime    308 commits    ███████░░░░░░░░░░░░░░░░░░   31.05% 
-🌃 Evening    239 commits    ██████░░░░░░░░░░░░░░░░░░░   24.09% 
+🌞 Morning    316 commits    ████████░░░░░░░░░░░░░░░░░   31.85%
+🌆 Daytime    308 commits    ███████░░░░░░░░░░░░░░░░░░   31.05%
+🌃 Evening    239 commits    ██████░░░░░░░░░░░░░░░░░░░   24.09%
 🌙 Night      129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Tuesday      150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Wednesday    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-Thursday     185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-Friday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81%
+Tuesday      150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12%
+Wednesday    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.04%
+Thursday     185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.65%
+Friday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
+Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
 Sunday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.79%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Go                       2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
-JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-Groovy                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+💬 Programming Languages:
+Go                       2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   23.08%
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.25%
+JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28%
+Groovy                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
 Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.45%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  11 hrs 35 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      11 hrs 35 mins      █████████████████████████   100.0%
 
 ```
