@@ -198,12 +198,12 @@ Mac                      13 hrs 6 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-2. ❗️ Opened issue [#2](https://github.com/terwer/vuepress-plugin-vdoing-comment/issues/2) in [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment)
-3. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-4. 🗣 Commented on [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-5. ❗️ Opened issue [#320](https://github.com/ArtalkJS/Artalk/issues/320) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-6. 🗣 Commented on [#313](https://github.com/ArtalkJS/Artalk/issues/313) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+1. ❗️ Closed issue [#105](https://github.com/eryajf/Thanks-Mirror/issues/105) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#104](https://github.com/eryajf/Thanks-Mirror/issues/104) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#102](https://github.com/eryajf/Thanks-Mirror/issues/102) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#101](https://github.com/eryajf/Thanks-Mirror/issues/101) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#100](https://github.com/eryajf/Thanks-Mirror/issues/100) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#99](https://github.com/eryajf/Thanks-Mirror/issues/99) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
