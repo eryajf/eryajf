@@ -198,10 +198,10 @@ Mac                      12 hrs 56 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/eryajf/go-ldap-admin/issues/130) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. ❗️ Closed issue [#107](https://github.com/eryajf/Thanks-Mirror/issues/107) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#106](https://github.com/eryajf/Thanks-Mirror/issues/106) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. 🎉 Merged PR [#69](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/69) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+1. 🎉 Merged PR [#6](https://github.com/eryajf/tu/pull/6) in [eryajf/tu](https://github.com/eryajf/tu)
+2. 🗣 Commented on [#130](https://github.com/eryajf/go-ldap-admin/issues/130) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Closed issue [#107](https://github.com/eryajf/Thanks-Mirror/issues/107) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#106](https://github.com/eryajf/Thanks-Mirror/issues/106) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 5. 🗣 Commented on [#123](https://github.com/eryajf/go-ldap-admin/issues/123) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 6. 🗣 Commented on [#127](https://github.com/eryajf/go-ldap-admin/issues/127) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
