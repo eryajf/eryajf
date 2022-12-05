@@ -198,12 +198,12 @@ Mac                      10 hrs 47 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/eryajf/tu/pull/6) in [eryajf/tu](https://github.com/eryajf/tu)
-2. 🗣 Commented on [#130](https://github.com/eryajf/go-ldap-admin/issues/130) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Closed issue [#107](https://github.com/eryajf/Thanks-Mirror/issues/107) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#106](https://github.com/eryajf/Thanks-Mirror/issues/106) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🗣 Commented on [#123](https://github.com/eryajf/go-ldap-admin/issues/123) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#127](https://github.com/eryajf/go-ldap-admin/issues/127) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Closed issue [#772](https://github.com/eryajf/eryajf.github.io/issues/772) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Closed issue [#771](https://github.com/eryajf/eryajf.github.io/issues/771) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Closed issue [#770](https://github.com/eryajf/eryajf.github.io/issues/770) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#769](https://github.com/eryajf/eryajf.github.io/issues/769) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Closed issue [#767](https://github.com/eryajf/eryajf.github.io/issues/767) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Closed issue [#768](https://github.com/eryajf/eryajf.github.io/issues/768) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
