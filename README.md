@@ -198,12 +198,12 @@ Mac                      13 hrs 25 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/jaywcjlove/reference/pull/208) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-2. ❗️ Closed issue [#772](https://github.com/eryajf/eryajf.github.io/issues/772) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Closed issue [#771](https://github.com/eryajf/eryajf.github.io/issues/771) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Closed issue [#770](https://github.com/eryajf/eryajf.github.io/issues/770) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Closed issue [#769](https://github.com/eryajf/eryajf.github.io/issues/769) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Closed issue [#767](https://github.com/eryajf/eryajf.github.io/issues/767) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+2. 💪 Opened PR [#208](https://github.com/jaywcjlove/reference/pull/208) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+3. ❗️ Closed issue [#772](https://github.com/eryajf/eryajf.github.io/issues/772) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#771](https://github.com/eryajf/eryajf.github.io/issues/771) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Closed issue [#770](https://github.com/eryajf/eryajf.github.io/issues/770) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Closed issue [#769](https://github.com/eryajf/eryajf.github.io/issues/769) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
