@@ -199,11 +199,11 @@ Mac                      13 hrs 25 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+2. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 3. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 4. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 5. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-6. 💪 Opened PR [#208](https://github.com/jaywcjlove/reference/pull/208) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+6. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 <!--END_SECTION:activity-->
 
 </td>
