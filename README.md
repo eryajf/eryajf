@@ -198,10 +198,10 @@ Mac                      13 hrs 59 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#213](https://github.com/jaywcjlove/reference/pull/213) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-2. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#404](https://github.com/go-ldap/ldap/issues/404) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
+2. 💪 Opened PR [#213](https://github.com/jaywcjlove/reference/pull/213) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 3. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+4. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 5. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 6. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 <!--END_SECTION:activity-->
