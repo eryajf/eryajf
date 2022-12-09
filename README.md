@@ -198,12 +198,12 @@ Mac                      15 hrs 27 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/869413421/wechatbot/pull/20) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
-2. ❗️ Opened issue [#404](https://github.com/go-ldap/ldap/issues/404) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
-3. 💪 Opened PR [#213](https://github.com/jaywcjlove/reference/pull/213) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-4. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+1. 🎉 Merged PR [#22](https://github.com/eryajf/go-ldap-admin-ui/pull/22) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+2. 💪 Opened PR [#22](https://github.com/eryajf/go-ldap-admin-ui/pull/22) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 💪 Opened PR [#20](https://github.com/869413421/wechatbot/pull/20) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
+4. ❗️ Opened issue [#404](https://github.com/go-ldap/ldap/issues/404) in [go-ldap/ldap](https://github.com/go-ldap/ldap)
+5. 💪 Opened PR [#213](https://github.com/jaywcjlove/reference/pull/213) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+6. 🗣 Commented on [#132](https://github.com/eryajf/go-ldap-admin/issues/132) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
