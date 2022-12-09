@@ -199,12 +199,12 @@ Mac                      15 hrs 27 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#111](https://github.com/eryajf/Thanks-Mirror/issues/111) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#110](https://github.com/eryajf/Thanks-Mirror/issues/110) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#109](https://github.com/eryajf/Thanks-Mirror/issues/109) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#108](https://github.com/eryajf/Thanks-Mirror/issues/108) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🎉 Merged PR [#22](https://github.com/eryajf/go-ldap-admin-ui/pull/22) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-6. 💪 Opened PR [#22](https://github.com/eryajf/go-ldap-admin-ui/pull/22) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+1. 🎉 Merged PR [#133](https://github.com/eryajf/go-ldap-admin/pull/133) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 💪 Opened PR [#133](https://github.com/eryajf/go-ldap-admin/pull/133) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Closed issue [#111](https://github.com/eryajf/Thanks-Mirror/issues/111) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#110](https://github.com/eryajf/Thanks-Mirror/issues/110) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#109](https://github.com/eryajf/Thanks-Mirror/issues/109) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#108](https://github.com/eryajf/Thanks-Mirror/issues/108) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
