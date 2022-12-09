@@ -334,6 +334,13 @@ Mac                      15 hrs 27 mins      ███████████�
         <a href="https://github.com/fengjixuchui">fengjixuchui</a>
     </td>
     <td align="center">
+        <a href="https://github.com/0xN0x">
+            <img src="https://avatars2.githubusercontent.com/u/1781547" width="100px;" alt="0xN0x"/>
+        </a>
+        <br />
+        <a href="https://github.com/0xN0x">N0x</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adsian">
             <img src="https://avatars2.githubusercontent.com/u/34738478" width="100px;" alt="adsian"/>
         </a>
@@ -347,6 +354,8 @@ Mac                      15 hrs 27 mins      ███████████�
         <br />
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
@@ -354,8 +363,6 @@ Mac                      15 hrs 27 mins      ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -397,13 +404,6 @@ Mac                      15 hrs 27 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pinhe91">
-            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
-        </a>
-        <br />
-        <a href="https://github.com/pinhe91">寒梅</a>
     </td>
   </tr>
 </table>
