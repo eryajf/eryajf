@@ -199,12 +199,12 @@ Mac                      18 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
-2. 💪 Opened PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
-3. 💪 Opened PR [#48](https://github.com/869413421/wechatbot/pull/48) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
-4. 🎉 Merged PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
-5. 💪 Opened PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
-6. 💪 Opened PR [#45](https://github.com/869413421/wechatbot/pull/45) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
+1. 🗣 Commented on [#15](https://github.com/wangyoucao577/go-release-action/issues/15) in [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action)
+2. 🎉 Merged PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
+3. 💪 Opened PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
+4. 💪 Opened PR [#48](https://github.com/869413421/wechatbot/pull/48) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
+5. 🎉 Merged PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
+6. 💪 Opened PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
 <!--END_SECTION:activity-->
 
 </td>
