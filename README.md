@@ -199,12 +199,12 @@ Mac                      18 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
-2. 💪 Opened PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
-3. 💪 Opened PR [#45](https://github.com/869413421/wechatbot/pull/45) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
-4. 💪 Opened PR [#12](https://github.com/humanloop/awesome-chatgpt/pull/12) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-5. 🎉 Merged PR [#133](https://github.com/eryajf/go-ldap-admin/pull/133) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#133](https://github.com/eryajf/go-ldap-admin/pull/133) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 💪 Opened PR [#48](https://github.com/869413421/wechatbot/pull/48) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
+2. 🎉 Merged PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
+3. 💪 Opened PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
+4. 💪 Opened PR [#45](https://github.com/869413421/wechatbot/pull/45) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
+5. 💪 Opened PR [#12](https://github.com/humanloop/awesome-chatgpt/pull/12) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+6. 🎉 Merged PR [#133](https://github.com/eryajf/go-ldap-admin/pull/133) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
