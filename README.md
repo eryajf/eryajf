@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/)
+- 🐻 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) 
 
-- 🎃 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/)
+- 🎃 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) 
 
-- 🚀 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/)
+- 🚀 [认识并使用一个透明代理http-server](https://wiki.eryajf.net/pages/7edb58/) 
 
-- 🌋 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/)
+- 🌋 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/) 
 
-- 🌁 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/)
+- 🌁 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) 
 
-- 😺 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/)
+- 😺 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
