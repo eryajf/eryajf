@@ -378,18 +378,18 @@ Mac                      18 hrs 15 mins      ███████████�
         <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/royswale">
-            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
-        </a>
-        <br />
-        <a href="https://github.com/royswale">royswale</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hirak0">
             <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
         </a>
         <br />
         <a href="https://github.com/hirak0">hirak0</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/royswale">
+            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        </a>
+        <br />
+        <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
