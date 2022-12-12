@@ -199,12 +199,12 @@ Mac                      18 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/eryajf/tu/pull/7) in [eryajf/tu](https://github.com/eryajf/tu)
-2. 🗣 Commented on [#15](https://github.com/wangyoucao577/go-release-action/issues/15) in [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action)
-3. 🎉 Merged PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
-4. 💪 Opened PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
-5. 💪 Opened PR [#48](https://github.com/869413421/wechatbot/pull/48) in [869413421/wechatbot](https://github.com/869413421/wechatbot)
-6. 🎉 Merged PR [#1](https://github.com/eryajf/hello/pull/1) in [eryajf/hello](https://github.com/eryajf/hello)
+1. 🎉 Merged PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+2. 💪 Opened PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 🎉 Merged PR [#7](https://github.com/eryajf/tu/pull/7) in [eryajf/tu](https://github.com/eryajf/tu)
+4. 🗣 Commented on [#15](https://github.com/wangyoucao577/go-release-action/issues/15) in [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action)
+5. 🎉 Merged PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
+6. 💪 Opened PR [#2](https://github.com/eryajf/hello/pull/2) in [eryajf/hello](https://github.com/eryajf/hello)
 <!--END_SECTION:activity-->
 
 </td>
