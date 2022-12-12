@@ -199,12 +199,12 @@ Mac                      18 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/eryajf/go-ldap-admin-ui/pull/24) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-2. 💪 Opened PR [#24](https://github.com/eryajf/go-ldap-admin-ui/pull/24) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-3. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-dingtalk/issues/1) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🎉 Merged PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-5. 💪 Opened PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-6. 🎉 Merged PR [#7](https://github.com/eryajf/tu/pull/7) in [eryajf/tu](https://github.com/eryajf/tu)
+1. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-dingtalk/issues/1) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🎉 Merged PR [#24](https://github.com/eryajf/go-ldap-admin-ui/pull/24) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 💪 Opened PR [#24](https://github.com/eryajf/go-ldap-admin-ui/pull/24) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+4. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-dingtalk/issues/1) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🎉 Merged PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+6. 💪 Opened PR [#23](https://github.com/eryajf/go-ldap-admin-ui/pull/23) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
 <!--END_SECTION:activity-->
 
 </td>
