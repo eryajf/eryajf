@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) 
+- 🐻 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) 
 
-- 🎃 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) 
+- 🎃 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) 
 
-- 🚀 [认识并使用一个透明代理http-server](https://wiki.eryajf.net/pages/7edb58/) 
+- 🚀 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) 
 
-- 🌋 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/) 
+- 🌋 [认识并使用一个透明代理http-server](https://wiki.eryajf.net/pages/7edb58/) 
 
-- 🌁 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) 
+- 🌁 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/) 
 
-- 😺 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) 
+- 😺 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
