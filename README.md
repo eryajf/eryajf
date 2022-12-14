@@ -199,12 +199,12 @@ Mac                      22 hrs 22 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2803](https://github.com/ruanyf/weekly/issues/2803) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🗣 Commented on [#12](https://github.com/humanloop/awesome-chatgpt/issues/12) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-3. 🗣 Commented on [#135](https://github.com/eryajf/go-ldap-admin/issues/135) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. ❗️ Closed issue [#135](https://github.com/eryajf/go-ldap-admin/issues/135) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#135](https://github.com/eryajf/go-ldap-admin/issues/135) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#25](https://github.com/eryajf/go-ldap-admin-ui/pull/25) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+1. ❗️ Closed issue [#589](https://github.com/eryajf/eryajf.github.io/issues/589) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. ❗️ Closed issue [#599](https://github.com/eryajf/eryajf.github.io/issues/599) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Closed issue [#598](https://github.com/eryajf/eryajf.github.io/issues/598) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#588](https://github.com/eryajf/eryajf.github.io/issues/588) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Closed issue [#587](https://github.com/eryajf/eryajf.github.io/issues/587) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Closed issue [#586](https://github.com/eryajf/eryajf.github.io/issues/586) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
