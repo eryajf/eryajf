@@ -199,12 +199,12 @@ Mac                      22 hrs 22 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#589](https://github.com/eryajf/eryajf.github.io/issues/589) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-2. ❗️ Closed issue [#599](https://github.com/eryajf/eryajf.github.io/issues/599) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-3. ❗️ Closed issue [#598](https://github.com/eryajf/eryajf.github.io/issues/598) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. ❗️ Closed issue [#588](https://github.com/eryajf/eryajf.github.io/issues/588) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-5. ❗️ Closed issue [#587](https://github.com/eryajf/eryajf.github.io/issues/587) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-6. ❗️ Closed issue [#586](https://github.com/eryajf/eryajf.github.io/issues/586) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. 🗣 Commented on [#5](https://github.com/eryajf/chatgpt-dingtalk/issues/5) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. ❗️ Closed issue [#369](https://github.com/eryajf/eryajf.github.io/issues/369) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+3. ❗️ Closed issue [#368](https://github.com/eryajf/eryajf.github.io/issues/368) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+4. ❗️ Closed issue [#367](https://github.com/eryajf/eryajf.github.io/issues/367) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+5. ❗️ Closed issue [#366](https://github.com/eryajf/eryajf.github.io/issues/366) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+6. ❗️ Closed issue [#365](https://github.com/eryajf/eryajf.github.io/issues/365) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
