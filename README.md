@@ -378,13 +378,6 @@ Mac                      9 hrs 26 mins       ███████████�
         <a href="https://github.com/hirak0">hirak0</a>
     </td>
     <td align="center">
-        <a href="https://github.com/royswale">
-            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
-        </a>
-        <br />
-        <a href="https://github.com/royswale">royswale</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
         </a>
@@ -397,6 +390,13 @@ Mac                      9 hrs 26 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/starsliao">StarsL.cn</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/royswale">
+            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        </a>
+        <br />
+        <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
         <a href="https://github.com/pinhe91">
