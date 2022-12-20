@@ -201,10 +201,10 @@ Mac                      6 hrs 45 mins       ███████████�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
 2. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-3. 🗣 Commented on [#139](https://github.com/eryajf/go-ldap-admin/issues/139) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
 4. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
 5. 🗣 Commented on [#139](https://github.com/eryajf/go-ldap-admin/issues/139) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. ❗️ Closed issue [#138](https://github.com/eryajf/go-ldap-admin/issues/138) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
 <!--END_SECTION:activity-->
 
 </td>
