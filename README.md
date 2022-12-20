@@ -399,11 +399,11 @@ Mac                      6 hrs 45 mins       ███████████�
         <a href="https://github.com/royswale">royswale</a>
     </td>
     <td align="center">
-        <a href="https://github.com/pinhe91">
-            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
         <br />
-        <a href="https://github.com/pinhe91">寒梅</a>
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
   </tr>
 </table>
