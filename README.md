@@ -199,12 +199,12 @@ Mac                      1 hr 36 mins        ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#140](https://github.com/eryajf/go-ldap-admin/issues/140) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#140](https://github.com/eryajf/go-ldap-admin/issues/140) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
-6. 🗣 Commented on [#10](https://github.com/eryajf/vdoing-template/issues/10) in [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template)
+1. 🎉 Merged PR [#124](https://github.com/eryajf/Thanks-Mirror/pull/124) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#123](https://github.com/eryajf/Thanks-Mirror/issues/123) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#122](https://github.com/eryajf/Thanks-Mirror/issues/122) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#140](https://github.com/eryajf/go-ldap-admin/issues/140) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
