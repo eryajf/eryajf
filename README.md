@@ -199,12 +199,12 @@ Mac                      1 hr 31 mins        ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/eryajf/Thanks-Mirror/pull/129) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. 🎉 Merged PR [#124](https://github.com/eryajf/Thanks-Mirror/pull/124) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#123](https://github.com/eryajf/Thanks-Mirror/issues/123) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#122](https://github.com/eryajf/Thanks-Mirror/issues/122) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. ❗️ Closed issue [#132](https://github.com/eryajf/Thanks-Mirror/issues/132) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#131](https://github.com/eryajf/Thanks-Mirror/issues/131) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#130](https://github.com/eryajf/Thanks-Mirror/issues/130) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#128](https://github.com/eryajf/Thanks-Mirror/issues/128) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#127](https://github.com/eryajf/Thanks-Mirror/issues/127) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#126](https://github.com/eryajf/Thanks-Mirror/issues/126) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
