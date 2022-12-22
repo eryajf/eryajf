@@ -385,6 +385,13 @@ Mac                      1 hr 31 mins        ███████████�
         <a href="https://github.com/anzhihe">安志合</a>
     </td>
     <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/starsliao">
             <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
         </a>
@@ -397,13 +404,6 @@ Mac                      1 hr 31 mins        ███████████�
         </a>
         <br />
         <a href="https://github.com/royswale">royswale</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
   </tr>
 </table>
