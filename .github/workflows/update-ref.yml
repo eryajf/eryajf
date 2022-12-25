@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }} # 版本
       - name: deploy project # 步骤3
-        run: echo -e 'REF_URL=https://wiki.eryajf.net/\nREF_LABEL=二丫讲梵' > .env && npm install && npm run build
+        run: ls -al && cd reference && echo -e 'REF_URL=https://wiki.eryajf.net/\nREF_LABEL=二丫讲梵' > .env && npm install && npm run build
 
       # 利用action把build好的文件上传到服务器/home/eryajf.github.io路径下,需要确认此目录已在服务端创建
       - name: deploy file to server
