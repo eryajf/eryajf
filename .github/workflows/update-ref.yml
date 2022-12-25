@@ -41,19 +41,10 @@ jobs:
           remote_path: '/data/www/ref.eryajf.net' # 服务器上的路径
           delete_remote_files: true
 
-  test:
-    name: Test
-    runs-on: ubuntu-latest
-    # make sure these permissions are set so that
-    # VS Code can connect to the machine
-    permissions:
-      actions: read
-      contents: read
-    steps:
-    # ...
-    - name: 🐛 Debug Build
-      uses: stateful/vscode-server-action@v1
-      if: failure()
-      with:
-        machineName: myMachine # optional, default: GitHub workflow run ID
-        timeout: '30000'       # optional, default: 30000
+
+      - name: 🐛 Debug Build
+        uses: stateful/vscode-server-action@v1
+        if: failure()
+        with:
+          machineName: myMachine # optional, default: GitHub workflow run ID
+          timeout: '30000'       # optional, default: 30000
