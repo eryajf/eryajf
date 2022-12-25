@@ -378,18 +378,18 @@ Mac                      39 mins             ███████████�
         <a href="https://github.com/hirak0">hirak0</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
         </a>
         <br />
         <a href="https://github.com/anzhihe">安志合</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
     <td align="center">
         <a href="https://github.com/starsliao">
@@ -399,11 +399,11 @@ Mac                      39 mins             ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
-        <a href="https://github.com/royswale">
-            <img src="https://avatars2.githubusercontent.com/u/26373840" width="100px;" alt="royswale"/>
+        <a href="https://github.com/pinhe91">
+            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
         </a>
         <br />
-        <a href="https://github.com/royswale">royswale</a>
+        <a href="https://github.com/pinhe91">寒梅</a>
     </td>
   </tr>
 </table>
