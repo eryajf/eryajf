@@ -18,7 +18,7 @@ jobs:
           repository: 'jaywcjlove/reference'
       - name: Install and Build 🔧
         run: |
-          ls -al
+          ls -al /home/runner/work/eryajf/reference
           echo -e 'REF_URL=https://wiki.eryajf.net/\nREF_LABEL=二丫讲梵' > .env
           npm install
           npm run build
@@ -34,11 +34,3 @@ jobs:
           local_path: './dist/*'  # 对应我们项目打包后的静态文件路径
           remote_path: '/data/www/ref.eryajf.net' # 服务器上的路径
           delete_remote_files: true
-
-
-      - name: 🐛 Debug Build
-        uses: stateful/vscode-server-action@v1
-        if: failure()
-        with:
-          machineName: myMachine # optional, default: GitHub workflow run ID
-          timeout: '30000'       # optional, default: 30000
