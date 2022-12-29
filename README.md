@@ -399,11 +399,11 @@ Mac                      3 hrs 17 mins       ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
-        <a href="https://github.com/pinhe91">
-            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+        <a href="https://github.com/wangrongding">
+            <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
         </a>
         <br />
-        <a href="https://github.com/pinhe91">寒梅</a>
+        <a href="https://github.com/wangrongding">荣顶</a>
     </td>
   </tr>
 </table>
