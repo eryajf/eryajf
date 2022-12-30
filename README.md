@@ -199,10 +199,10 @@ Mac                      4 hrs 42 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/eryajf/xirang-ui/pull/2) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-2. 🎉 Merged PR [#1](https://github.com/eryajf/xirang-ui/pull/1) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-3. 💪 Opened PR [#1](https://github.com/eryajf/xirang-ui/pull/1) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-4. ❗️ Closed issue [#128](https://github.com/eryajf/Thanks-Mirror/issues/128) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🎉 Merged PR [#2](https://github.com/eryajf/xirang-ui/pull/2) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+2. 💪 Opened PR [#2](https://github.com/eryajf/xirang-ui/pull/2) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+3. 🎉 Merged PR [#1](https://github.com/eryajf/xirang-ui/pull/1) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+4. 💪 Opened PR [#1](https://github.com/eryajf/xirang-ui/pull/1) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
 5. ❗️ Closed issue [#127](https://github.com/eryajf/Thanks-Mirror/issues/127) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 6. ❗️ Closed issue [#126](https://github.com/eryajf/Thanks-Mirror/issues/126) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
