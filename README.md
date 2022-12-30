@@ -199,12 +199,12 @@ Mac                      4 hrs 42 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#141](https://github.com/eryajf/go-ldap-admin/pull/141) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#1](https://github.com/eryajf/xirang/pull/1) in [eryajf/xirang](https://github.com/eryajf/xirang)
-3. 💪 Opened PR [#1](https://github.com/eryajf/xirang/pull/1) in [eryajf/xirang](https://github.com/eryajf/xirang)
-4. 💪 Opened PR [#141](https://github.com/eryajf/go-ldap-admin/pull/141) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🎉 Merged PR [#2](https://github.com/eryajf/xirang-ui/pull/2) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-6. 💪 Opened PR [#2](https://github.com/eryajf/xirang-ui/pull/2) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+1. ❗️ Closed issue [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. ❗️ Closed issue [#10](https://github.com/eryajf/chatgpt-dingtalk/issues/10) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. ❗️ Closed issue [#11](https://github.com/eryajf/chatgpt-dingtalk/issues/11) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#11](https://github.com/eryajf/chatgpt-dingtalk/issues/11) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#12](https://github.com/eryajf/chatgpt-dingtalk/issues/12) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. ❗️ Closed issue [#12](https://github.com/eryajf/chatgpt-dingtalk/issues/12) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
