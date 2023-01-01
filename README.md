@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第86期-2022年第51周](https://wiki.eryajf.net/pages/f86f4e/) 
+- 🐻 [我的2022年](https://wiki.eryajf.net/pages/813b7b/) 
 
-- 🎃 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) 
+- 🎃 [学习周刊-总第86期-2022年第51周](https://wiki.eryajf.net/pages/f86f4e/) 
 
-- 🚀 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) 
+- 🚀 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) 
 
-- 🌋 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) 
+- 🌋 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) 
 
-- 🌁 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) 
+- 🌁 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) 
 
-- 😺 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) 
+- 😺 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
