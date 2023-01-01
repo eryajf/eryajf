@@ -364,13 +364,6 @@ Mac                      8 hrs 47 mins       ███████████�
         <a href="https://github.com/penndu">TeacherDu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/hirak0">
-            <img src="https://avatars2.githubusercontent.com/u/64011640" width="100px;" alt="hirak0"/>
-        </a>
-        <br />
-        <a href="https://github.com/hirak0">hirak0</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
         </a>
@@ -404,6 +397,13 @@ Mac                      8 hrs 47 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/pinhe91">寒梅</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/maxcohen31">
+            <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
+        </a>
+        <br />
+        <a href="https://github.com/maxcohen31">Emanuele</a>
     </td>
   </tr>
 </table>
