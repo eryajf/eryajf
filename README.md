@@ -199,12 +199,12 @@ Mac                      8 hrs 47 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/saveweb/review-2022/pull/20) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
-2. ❗️ Closed issue [#135](https://github.com/eryajf/Thanks-Mirror/issues/135) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#134](https://github.com/eryajf/Thanks-Mirror/issues/134) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#133](https://github.com/eryajf/Thanks-Mirror/issues/133) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-6. ❗️ Closed issue [#9](https://github.com/eryajf/chatgpt-dingtalk/issues/9) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🎉 Merged PR [#9](https://github.com/eryajf/tu/pull/9) in [eryajf/tu](https://github.com/eryajf/tu)
+2. 💪 Opened PR [#20](https://github.com/saveweb/review-2022/pull/20) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
+3. ❗️ Closed issue [#135](https://github.com/eryajf/Thanks-Mirror/issues/135) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#134](https://github.com/eryajf/Thanks-Mirror/issues/134) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#133](https://github.com/eryajf/Thanks-Mirror/issues/133) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 <!--END_SECTION:activity-->
 
 </td>
