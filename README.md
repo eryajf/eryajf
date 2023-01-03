@@ -313,13 +313,6 @@ Mac                      6 hrs 34 mins       ███████████�
         <a href="https://github.com/li-jia-nan">lijianan</a>
     </td>
     <td align="center">
-        <a href="https://github.com/BEPb">
-            <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-        </a>
-        <br />
-        <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/guanguans">
             <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
         </a>
@@ -354,8 +347,6 @@ Mac                      6 hrs 34 mins       ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -363,6 +354,8 @@ Mac                      6 hrs 34 mins       ███████████�
         <br />
         <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -404,6 +397,13 @@ Mac                      6 hrs 34 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/pinhe91">寒梅</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/maxcohen31">
+            <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
+        </a>
+        <br />
+        <a href="https://github.com/maxcohen31">Emanuele</a>
     </td>
   </tr>
 </table>
