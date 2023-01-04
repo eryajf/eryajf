@@ -399,11 +399,11 @@ Mac                      6 hrs 22 mins       ███████████�
         <a href="https://github.com/pinhe91">寒梅</a>
     </td>
     <td align="center">
-        <a href="https://github.com/maxcohen31">
-            <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
+        <a href="https://github.com/xiaoxuan6">
+            <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
         </a>
         <br />
-        <a href="https://github.com/maxcohen31">Emanuele</a>
+        <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
     </td>
   </tr>
 </table>
