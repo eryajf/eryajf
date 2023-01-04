@@ -199,12 +199,12 @@ Mac                      6 hrs 34 mins       ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/eryajf/go-ldap-admin/issues/142) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#102](https://github.com/jaywcjlove/reference/issues/102) in [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 2. 🗣 Commented on [#142](https://github.com/eryajf/go-ldap-admin/issues/142) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🎉 Merged PR [#9](https://github.com/eryajf/tu/pull/9) in [eryajf/tu](https://github.com/eryajf/tu)
-4. 💪 Opened PR [#20](https://github.com/saveweb/review-2022/pull/20) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
-5. ❗️ Closed issue [#135](https://github.com/eryajf/Thanks-Mirror/issues/135) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#134](https://github.com/eryajf/Thanks-Mirror/issues/134) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. 🗣 Commented on [#142](https://github.com/eryajf/go-ldap-admin/issues/142) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#9](https://github.com/eryajf/tu/pull/9) in [eryajf/tu](https://github.com/eryajf/tu)
+5. 💪 Opened PR [#20](https://github.com/saveweb/review-2022/pull/20) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
+6. ❗️ Closed issue [#135](https://github.com/eryajf/Thanks-Mirror/issues/135) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
