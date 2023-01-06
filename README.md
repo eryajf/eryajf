@@ -269,6 +269,13 @@ Mac                      4 hrs 44 mins       ███████████�
         <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
+        <a href="https://github.com/cumsoft">
+            <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
+        </a>
+        <br />
+        <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/AkshatRastogi-1nC0re">
             <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
         </a>
@@ -296,6 +303,8 @@ Mac                      4 hrs 44 mins       ███████████�
         <br />
         <a href="https://github.com/sbilly">sbilly</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
@@ -303,8 +312,6 @@ Mac                      4 hrs 44 mins       ███████████�
         <br />
         <a href="https://github.com/hoochanlon">菠萝包与蛋奶酥</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/li-jia-nan">
             <img src="https://avatars2.githubusercontent.com/u/49217418" width="100px;" alt="li-jia-nan"/>
@@ -347,6 +354,8 @@ Mac                      4 hrs 44 mins       ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -354,8 +363,6 @@ Mac                      4 hrs 44 mins       ███████████�
         <br />
         <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
@@ -397,13 +404,6 @@ Mac                      4 hrs 44 mins       ███████████�
         </a>
         <br />
         <a href="https://github.com/pinhe91">寒梅</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/xiaoxuan6">
-            <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
-        </a>
-        <br />
-        <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
     </td>
   </tr>
 </table>
