@@ -262,13 +262,6 @@ Mac                      32 mins             ███████████�
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AYIDouble">
-            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
-        </a>
-        <br />
-        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/cumsoft">
             <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
         </a>
@@ -276,11 +269,11 @@ Mac                      32 mins             ███████████�
         <a href="https://github.com/cumsoft">Cumsoft™</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AkshatRastogi-1nC0re">
-            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
+        <a href="https://github.com/AYIDouble">
+            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
         </a>
         <br />
-        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
+        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
         <a href="https://github.com/qianguyihao">
@@ -288,6 +281,13 @@ Mac                      32 mins             ███████████�
         </a>
         <br />
         <a href="https://github.com/qianguyihao">千古壹号</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AkshatRastogi-1nC0re">
+            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
+        </a>
+        <br />
+        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
     </td>
     <td align="center">
         <a href="https://github.com/crazylxr">
@@ -399,11 +399,11 @@ Mac                      32 mins             ███████████�
         <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
-        <a href="https://github.com/pinhe91">
-            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+        <a href="https://github.com/xiaoxuan6">
+            <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
         </a>
         <br />
-        <a href="https://github.com/pinhe91">寒梅</a>
+        <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
     </td>
   </tr>
 </table>
