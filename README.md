@@ -283,18 +283,18 @@ Mac                      32 mins             ███████████�
         <a href="https://github.com/qianguyihao">千古壹号</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AkshatRastogi-1nC0re">
-            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
-        </a>
-        <br />
-        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/crazylxr">
             <img src="https://avatars2.githubusercontent.com/u/16161407" width="100px;" alt="crazylxr"/>
         </a>
         <br />
         <a href="https://github.com/crazylxr">lxr</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AkshatRastogi-1nC0re">
+            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
+        </a>
+        <br />
+        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
     </td>
     <td align="center">
         <a href="https://github.com/sbilly">
