@@ -306,13 +306,6 @@ Mac                      25 mins             ███████████�
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/AkshatRastogi-1nC0re">
-            <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>
-        </a>
-        <br />
-        <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/li-jia-nan">
             <img src="https://avatars2.githubusercontent.com/u/49217418" width="100px;" alt="li-jia-nan"/>
         </a>
@@ -354,8 +347,6 @@ Mac                      25 mins             ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -363,6 +354,8 @@ Mac                      25 mins             ███████████�
         <br />
         <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/kxxt">
             <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
@@ -404,6 +397,13 @@ Mac                      25 mins             ███████████�
         </a>
         <br />
         <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pinhe91">
+            <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+        </a>
+        <br />
+        <a href="https://github.com/pinhe91">寒梅</a>
     </td>
   </tr>
 </table>
