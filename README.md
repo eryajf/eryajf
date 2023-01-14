@@ -389,18 +389,18 @@ Mac                      13 mins             ███████████�
         <a href="https://github.com/puzzithinker">Simon Leung</a>
     </td>
     <td align="center">
-        <a href="https://github.com/starsliao">
-            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
-        </a>
-        <br />
-        <a href="https://github.com/starsliao">StarsL.cn</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xiaoxuan6">
             <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
         </a>
         <br />
         <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starsliao">
+            <img src="https://avatars2.githubusercontent.com/u/3349611" width="100px;" alt="starsliao"/>
+        </a>
+        <br />
+        <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
   </tr>
 </table>
