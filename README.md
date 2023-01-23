@@ -378,18 +378,18 @@ Mac                      54 mins             ███████████�
         <a href="https://github.com/wangrongding">荣顶</a>
     </td>
     <td align="center">
-        <a href="https://github.com/puzzithinker">
-            <img src="https://avatars2.githubusercontent.com/u/2639268" width="100px;" alt="puzzithinker"/>
-        </a>
-        <br />
-        <a href="https://github.com/puzzithinker">Simon Leung</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xiaoxuan6">
             <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
         </a>
         <br />
         <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/puzzithinker">
+            <img src="https://avatars2.githubusercontent.com/u/2639268" width="100px;" alt="puzzithinker"/>
+        </a>
+        <br />
+        <a href="https://github.com/puzzithinker">Simon Leung</a>
     </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
