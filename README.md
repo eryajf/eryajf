@@ -357,18 +357,18 @@ Mac                      1 hr 22 mins        ███████████�
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
         </a>
         <br />
         <a href="https://github.com/penndu">TeacherDu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
     <td align="center">
         <a href="https://github.com/wangrongding">
