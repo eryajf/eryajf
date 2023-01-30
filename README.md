@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) 
+- 🐻 [博客接入CDN的折腾-对阿里云七牛云蓝易云多吉云几家CDN使用评测](https://wiki.eryajf.net/pages/1a0733/) 
 
-- 🎃 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) 
+- 🎃 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) 
 
-- 🚀 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) 
+- 🚀 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) 
 
-- 🌋 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) 
+- 🌋 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) 
 
-- 🌁 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) 
+- 🌁 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) 
 
-- 😺 [我的2022年](https://wiki.eryajf.net/pages/813b7b/) 
+- 😺 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
