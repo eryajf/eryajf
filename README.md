@@ -199,12 +199,12 @@ Mac                      20 hrs 23 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#650](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/650) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
-2. 🗣 Commented on [#147](https://github.com/eryajf/go-ldap-admin/issues/147) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#3](https://github.com/manchan4869/CoverView-CN/issues/3) in [manchan4869/CoverView-CN](https://github.com/manchan4869/CoverView-CN)
+2. 🗣 Commented on [#650](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/650) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
 3. 🗣 Commented on [#147](https://github.com/eryajf/go-ldap-admin/issues/147) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. ❗️ Closed issue [#164](https://github.com/eryajf/Thanks-Mirror/issues/164) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#163](https://github.com/eryajf/Thanks-Mirror/issues/163) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#158](https://github.com/eryajf/Thanks-Mirror/issues/158) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. 🗣 Commented on [#147](https://github.com/eryajf/go-ldap-admin/issues/147) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. ❗️ Closed issue [#164](https://github.com/eryajf/Thanks-Mirror/issues/164) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#163](https://github.com/eryajf/Thanks-Mirror/issues/163) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
