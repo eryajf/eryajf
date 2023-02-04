@@ -392,18 +392,18 @@ Mac                      20 hrs 49 mins      ███████████�
         <a href="https://github.com/puzzithinker">Simon Leung</a>
     </td>
     <td align="center">
-        <a href="https://github.com/anzhihe">
-            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
-        </a>
-        <br />
-        <a href="https://github.com/anzhihe">安志合</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/maxcohen31">
             <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
         </a>
         <br />
         <a href="https://github.com/maxcohen31">Emanuele</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+        </a>
+        <br />
+        <a href="https://github.com/anzhihe">安志合</a>
     </td>
   </tr>
 </table>
