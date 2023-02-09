@@ -348,20 +348,20 @@ Mac                      10 hrs 33 mins      ███████████�
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wuchunfu">
-            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
-        </a>
-        <br />
-        <a href="https://github.com/wuchunfu">ChunFuWu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/wangrongding">
             <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
         </a>
         <br />
         <a href="https://github.com/wangrongding">荣顶</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/wuchunfu">
+            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
+        </a>
+        <br />
+        <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
     <td align="center">
         <a href="https://github.com/kxxt">
