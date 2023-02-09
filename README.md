@@ -199,12 +199,12 @@ Mac                      10 hrs 33 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/eryajf/chatgpt-dingtalk/issues/18) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#18](https://github.com/eryajf/chatgpt-dingtalk/issues/18) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🎉 Merged PR [#19](https://github.com/eryajf/chatgpt-dingtalk/pull/19) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 💪 Opened PR [#19](https://github.com/eryajf/chatgpt-dingtalk/pull/19) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 3. 🗣 Commented on [#18](https://github.com/eryajf/chatgpt-dingtalk/issues/18) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. ❗️ Closed issue [#13](https://github.com/eryajf/chatgpt-dingtalk/issues/13) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#13](https://github.com/eryajf/chatgpt-dingtalk/issues/13) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#15](https://github.com/eryajf/chatgpt-dingtalk/issues/15) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#18](https://github.com/eryajf/chatgpt-dingtalk/issues/18) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#18](https://github.com/eryajf/chatgpt-dingtalk/issues/18) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. ❗️ Closed issue [#13](https://github.com/eryajf/chatgpt-dingtalk/issues/13) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
