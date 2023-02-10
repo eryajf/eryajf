@@ -199,12 +199,12 @@ Mac                      17 hrs 15 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/eryajf/chatgpt-dingtalk/issues/23) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. ❗️ Closed issue [#21](https://github.com/eryajf/chatgpt-dingtalk/issues/21) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#21](https://github.com/eryajf/chatgpt-dingtalk/issues/21) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. ❗️ Closed issue [#20](https://github.com/eryajf/chatgpt-dingtalk/issues/20) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#20](https://github.com/eryajf/chatgpt-dingtalk/issues/20) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#22](https://github.com/eryajf/chatgpt-dingtalk/pull/22) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#24](https://github.com/eryajf/chatgpt-dingtalk/issues/24) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 💪 Opened PR [#2](https://github.com/solywsh/chatgpt/pull/2) in [solywsh/chatgpt](https://github.com/solywsh/chatgpt)
+3. 🗣 Commented on [#23](https://github.com/eryajf/chatgpt-dingtalk/issues/23) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. ❗️ Closed issue [#21](https://github.com/eryajf/chatgpt-dingtalk/issues/21) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#21](https://github.com/eryajf/chatgpt-dingtalk/issues/21) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. ❗️ Closed issue [#20](https://github.com/eryajf/chatgpt-dingtalk/issues/20) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
