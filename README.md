@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) 
+- 🐻 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) 
 
-- 🎃 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) 
+- 🎃 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) 
 
-- 🚀 [Vuepress添加首页轮播图与打赏按钮的配置](https://wiki.eryajf.net/pages/2e6f3a/) 
+- 🚀 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) 
 
-- 🌋 [博客接入CDN的折腾-对阿里云七牛云蓝易云多吉云几家CDN使用评测](https://wiki.eryajf.net/pages/1a0733/) 
+- 🌋 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) 
 
-- 🌁 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) 
+- 🌁 [Vuepress添加首页轮播图与打赏按钮的配置](https://wiki.eryajf.net/pages/2e6f3a/) 
 
-- 😺 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) 
+- 😺 [博客接入CDN的折腾-对阿里云七牛云蓝易云多吉云几家CDN使用评测](https://wiki.eryajf.net/pages/1a0733/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
