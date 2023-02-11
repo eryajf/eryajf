@@ -199,12 +199,12 @@ Mac                      25 hrs 39 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/eryajf/chatgpt-dingtalk/issues/31) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 2. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-4. 🎉 Merged PR [#33](https://github.com/eryajf/HowToStartOpenSource/pull/33) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. 🗣 Commented on [#33](https://github.com/eryajf/HowToStartOpenSource/issues/33) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-6. 🗣 Commented on [#33](https://github.com/eryajf/HowToStartOpenSource/issues/33) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+3. 🗣 Commented on [#31](https://github.com/eryajf/chatgpt-dingtalk/issues/31) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. 🎉 Merged PR [#33](https://github.com/eryajf/HowToStartOpenSource/pull/33) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
 </td>
