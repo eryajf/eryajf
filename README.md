@@ -199,12 +199,12 @@ Mac                      25 hrs 39 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-2. ❗️ Opened issue [#31](https://github.com/eryajf/HowToStartOpenSource/issues/31) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. 🗣 Commented on [#29](https://github.com/eryajf/chatgpt-dingtalk/issues/29) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. ❗️ Closed issue [#29](https://github.com/eryajf/chatgpt-dingtalk/issues/29) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#29](https://github.com/eryajf/chatgpt-dingtalk/issues/29) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. ❗️ Closed issue [#27](https://github.com/eryajf/chatgpt-dingtalk/issues/27) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. ❗️ Opened issue [#667](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/667) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+2. 🗣 Commented on [#663](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/663) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+3. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. ❗️ Opened issue [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
+5. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
 </td>
