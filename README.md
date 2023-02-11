@@ -199,11 +199,11 @@ Mac                      25 hrs 39 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#667](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/667) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
-2. 🗣 Commented on [#663](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/663) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
-3. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-4. ❗️ Opened issue [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
-5. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+1. 🗣 Commented on [#33](https://github.com/eryajf/HowToStartOpenSource/issues/33) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+2. ❗️ Opened issue [#667](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/667) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+3. 🗣 Commented on [#663](https://github.com/xugaoyi/vuepress-theme-vdoing/issues/663) in [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+4. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+5. ❗️ Opened issue [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
 6. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
