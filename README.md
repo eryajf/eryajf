@@ -199,12 +199,12 @@ Mac                      25 hrs 39 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/riccox/meilisearch-ui/issues/8) in [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui)
-2. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#31](https://github.com/eryajf/chatgpt-dingtalk/issues/31) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+1. 🗣 Commented on [#32](https://github.com/eryajf/chatgpt-dingtalk/issues/32) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. ❗️ Opened issue [#8](https://github.com/riccox/meilisearch-ui/issues/8) in [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui)
+3. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#31](https://github.com/eryajf/chatgpt-dingtalk/issues/31) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
