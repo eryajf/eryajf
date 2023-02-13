@@ -199,12 +199,12 @@ Mac                      35 hrs 30 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
-2. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
-3. 🗣 Commented on [#36](https://github.com/eryajf/chatgpt-dingtalk/issues/36) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#35](https://github.com/eryajf/chatgpt-dingtalk/issues/35) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#34](https://github.com/eryajf/chatgpt-dingtalk/issues/34) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#35](https://github.com/eryajf/HowToStartOpenSource/pull/35) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+1. 🎉 Merged PR [#2](https://github.com/eryajf/xirang/pull/2) in [eryajf/xirang](https://github.com/eryajf/xirang)
+2. 🎉 Merged PR [#3](https://github.com/eryajf/xirang-ui/pull/3) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+3. 💪 Opened PR [#3](https://github.com/eryajf/xirang-ui/pull/3) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+4. 💪 Opened PR [#2](https://github.com/eryajf/xirang/pull/2) in [eryajf/xirang](https://github.com/eryajf/xirang)
+5. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
+6. 🗣 Commented on [#19](https://github.com/Wanxp/obsidian-douban/issues/19) in [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
 <!--END_SECTION:activity-->
 
 </td>
