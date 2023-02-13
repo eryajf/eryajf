@@ -199,12 +199,12 @@ Mac                      27 hrs 38 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/eryajf/HowToStartOpenSource/issues/32) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-2. ❗️ Closed issue [#3](https://github.com/eryajf/HowToStartOpenSource/issues/3) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. ❗️ Closed issue [#1](https://github.com/eryajf/HowToStartOpenSource/issues/1) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-4. ❗️ Closed issue [#31](https://github.com/eryajf/HowToStartOpenSource/issues/31) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. ❗️ Closed issue [#30](https://github.com/eryajf/HowToStartOpenSource/issues/30) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-6. ❗️ Closed issue [#28](https://github.com/eryajf/HowToStartOpenSource/issues/28) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+1. ❗️ Closed issue [#30](https://github.com/eryajf/chatgpt-dingtalk/issues/30) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. ❗️ Closed issue [#23](https://github.com/eryajf/chatgpt-dingtalk/issues/23) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🗣 Commented on [#33](https://github.com/eryajf/chatgpt-dingtalk/issues/33) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#33](https://github.com/eryajf/chatgpt-dingtalk/issues/33) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#31](https://github.com/eryajf/chatgpt-dingtalk/issues/31) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#32](https://github.com/eryajf/chatgpt-dingtalk/issues/32) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
