@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) 
+- 🐻 [博客导引](https://wiki.eryajf.net/comein/) 
 
-- 🎃 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) 
+- 🎃 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) 
 
-- 🚀 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) 
+- 🚀 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) 
 
-- 🌋 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) 
+- 🌋 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) 
 
-- 🌁 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) 
+- 🌁 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) 
 
-- 😺 [Vuepress添加首页轮播图与打赏按钮的配置](https://wiki.eryajf.net/pages/2e6f3a/) 
+- 😺 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
