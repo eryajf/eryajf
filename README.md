@@ -199,12 +199,12 @@ Mac                      35 hrs 30 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#8](https://github.com/riccox/meilisearch-ui/issues/8) in [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui)
-3. 🗣 Commented on [#34](https://github.com/eryajf/chatgpt-dingtalk/issues/34) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#38](https://github.com/eryajf/chatgpt-dingtalk/issues/38) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#37](https://github.com/eryajf/chatgpt-dingtalk/issues/37) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. ❗️ Closed issue [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
+2. 🗣 Commented on [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
+3. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#8](https://github.com/riccox/meilisearch-ui/issues/8) in [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui)
+5. 🗣 Commented on [#34](https://github.com/eryajf/chatgpt-dingtalk/issues/34) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
