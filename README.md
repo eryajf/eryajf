@@ -199,12 +199,12 @@ Mac                      37 hrs 59 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#178](https://github.com/eryajf/Thanks-Mirror/issues/178) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#177](https://github.com/eryajf/Thanks-Mirror/issues/177) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#176](https://github.com/eryajf/Thanks-Mirror/issues/176) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#175](https://github.com/eryajf/Thanks-Mirror/issues/175) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#174](https://github.com/eryajf/Thanks-Mirror/issues/174) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#173](https://github.com/eryajf/Thanks-Mirror/issues/173) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. 💪 Opened PR [#46](https://github.com/eryajf/learn-github/pull/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+3. ❗️ Closed issue [#178](https://github.com/eryajf/Thanks-Mirror/issues/178) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#177](https://github.com/eryajf/Thanks-Mirror/issues/177) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#176](https://github.com/eryajf/Thanks-Mirror/issues/176) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#175](https://github.com/eryajf/Thanks-Mirror/issues/175) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
