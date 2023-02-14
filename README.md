@@ -199,12 +199,12 @@ Mac                      35 hrs 30 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/eryajf/go-ldap-admin/pull/150) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#31](https://github.com/eryajf/go-ldap-admin-ui/pull/31) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-3. 💪 Opened PR [#31](https://github.com/eryajf/go-ldap-admin-ui/pull/31) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-4. 💪 Opened PR [#150](https://github.com/eryajf/go-ldap-admin/pull/150) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. ❗️ Closed issue [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
-6. 🗣 Commented on [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
+1. ❗️ Closed issue [#178](https://github.com/eryajf/Thanks-Mirror/issues/178) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#177](https://github.com/eryajf/Thanks-Mirror/issues/177) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#176](https://github.com/eryajf/Thanks-Mirror/issues/176) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#175](https://github.com/eryajf/Thanks-Mirror/issues/175) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#174](https://github.com/eryajf/Thanks-Mirror/issues/174) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#173](https://github.com/eryajf/Thanks-Mirror/issues/173) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
