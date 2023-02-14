@@ -199,12 +199,12 @@ Mac                      35 hrs 30 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
-2. 🗣 Commented on [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
-3. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#8](https://github.com/riccox/meilisearch-ui/issues/8) in [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui)
-5. 🗣 Commented on [#34](https://github.com/eryajf/chatgpt-dingtalk/issues/34) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🎉 Merged PR [#150](https://github.com/eryajf/go-ldap-admin/pull/150) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🎉 Merged PR [#31](https://github.com/eryajf/go-ldap-admin-ui/pull/31) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 💪 Opened PR [#31](https://github.com/eryajf/go-ldap-admin-ui/pull/31) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+4. 💪 Opened PR [#150](https://github.com/eryajf/go-ldap-admin/pull/150) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. ❗️ Closed issue [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
+6. 🗣 Commented on [#2](https://github.com/eryajf/Obsidian-Plugin-Weekly/issues/2) in [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly)
 <!--END_SECTION:activity-->
 
 </td>
