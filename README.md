@@ -199,12 +199,12 @@ Mac                      37 hrs 59 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/eryajf/chatgpt-dingtalk/issues/42) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-3. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. 💪 Opened PR [#46](https://github.com/eryajf/learn-github/pull/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❗️ Closed issue [#178](https://github.com/eryajf/Thanks-Mirror/issues/178) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#177](https://github.com/eryajf/Thanks-Mirror/issues/177) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🎉 Merged PR [#32](https://github.com/eryajf/go-ldap-admin-ui/pull/32) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+2. 🎉 Merged PR [#32](https://github.com/eryajf/go-ldap-admin-ui/pull/32) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 🗣 Commented on [#42](https://github.com/eryajf/chatgpt-dingtalk/issues/42) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. 💪 Opened PR [#46](https://github.com/eryajf/learn-github/pull/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
