@@ -199,12 +199,12 @@ Mac                      37 hrs 59 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/eryajf/chatgpt-dingtalk/issues/42) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. ❗️ Opened issue [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-4. 🗣 Commented on [#41](https://github.com/eryajf/chatgpt-dingtalk/issues/41) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#32](https://github.com/eryajf/go-ldap-admin-ui/pull/32) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+1. 🗣 Commented on [#151](https://github.com/eryajf/go-ldap-admin/issues/151) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#151](https://github.com/eryajf/go-ldap-admin/issues/151) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#42](https://github.com/eryajf/chatgpt-dingtalk/issues/42) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. ❗️ Opened issue [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#46](https://github.com/eryajf/learn-github/issues/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. 🗣 Commented on [#41](https://github.com/eryajf/chatgpt-dingtalk/issues/41) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
