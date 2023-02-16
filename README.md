@@ -199,12 +199,12 @@ Mac                      39 hrs 27 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/eryajf/go-ldap-admin-ui/pull/33) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-2. 💪 Opened PR [#33](https://github.com/eryajf/go-ldap-admin-ui/pull/33) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-3. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🎉 Merged PR [#33](https://github.com/eryajf/go-ldap-admin-ui/pull/33) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 💪 Opened PR [#33](https://github.com/eryajf/go-ldap-admin-ui/pull/33) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
 4. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 5. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. ❗️ Closed issue [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
