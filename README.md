@@ -200,11 +200,11 @@ Mac                      39 hrs 27 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. ❗️ Closed issue [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. ❗️ Closed issue [#45](https://github.com/eryajf/chatgpt-dingtalk/issues/45) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#45](https://github.com/eryajf/chatgpt-dingtalk/issues/45) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. ❗️ Closed issue [#46](https://github.com/eryajf/chatgpt-dingtalk/issues/46) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. ❗️ Closed issue [#151](https://github.com/eryajf/go-ldap-admin/issues/151) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#47](https://github.com/eryajf/chatgpt-dingtalk/issues/47) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. ❗️ Closed issue [#39](https://github.com/eryajf/chatgpt-dingtalk/issues/39) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. ❗️ Closed issue [#45](https://github.com/eryajf/chatgpt-dingtalk/issues/45) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#45](https://github.com/eryajf/chatgpt-dingtalk/issues/45) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. ❗️ Closed issue [#46](https://github.com/eryajf/chatgpt-dingtalk/issues/46) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
