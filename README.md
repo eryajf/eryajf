@@ -313,6 +313,13 @@ Mac                      33 hrs 14 mins      ███████████�
         <a href="https://github.com/li-jia-nan">lijianan</a>
     </td>
     <td align="center">
+        <a href="https://github.com/romanofficial">
+            <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="romanofficial"/>
+        </a>
+        <br />
+        <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/guanguans">
             <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
         </a>
@@ -347,6 +354,15 @@ Mac                      33 hrs 14 mins      ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/HyunCafe">
+            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
+        </a>
+        <br />
+        <a href="https://github.com/HyunCafe">HyunCafe</a>
+    </td>
     <td align="center">
         <a href="https://github.com/wangrongding">
             <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
@@ -354,8 +370,6 @@ Mac                      33 hrs 14 mins      ███████████�
         <br />
         <a href="https://github.com/wangrongding">荣顶</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/wuchunfu">
             <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
@@ -390,20 +404,6 @@ Mac                      33 hrs 14 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/puzzithinker">Simon Leung</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/maxcohen31">
-            <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
-        </a>
-        <br />
-        <a href="https://github.com/maxcohen31">Emanuele</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/anzhihe">
-            <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
-        </a>
-        <br />
-        <a href="https://github.com/anzhihe">安志合</a>
     </td>
   </tr>
 </table>
