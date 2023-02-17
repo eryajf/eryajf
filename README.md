@@ -348,20 +348,20 @@ Mac                      33 hrs 14 mins      ███████████�
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
     <td align="center">
-        <a href="https://github.com/sudoskys">
-            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
-        </a>
-        <br />
-        <a href="https://github.com/sudoskys">Jasmine</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/HyunCafe">
             <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
         </a>
         <br />
         <a href="https://github.com/HyunCafe">HyunCafe</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/sudoskys">
+            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
+        </a>
+        <br />
+        <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
     <td align="center">
         <a href="https://github.com/wangrongding">
