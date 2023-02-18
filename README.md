@@ -301,7 +301,7 @@ Mac                      29 hrs 35 mins      ███████████�
             <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
         </a>
         <br />
-        <a href="https://github.com/hoochanlon">柠乐菠萝包</a>
+        <a href="https://github.com/hoochanlon">菠萝包趣多多</a>
     </td>
   </tr>
   <tr>
