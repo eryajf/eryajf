@@ -199,12 +199,12 @@ Mac                      29 hrs 35 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/eryajf/chatgpt-dingtalk/issues/51) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🎉 Merged PR [#35](https://github.com/eryajf/go-ldap-admin-ui/pull/35) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-3. 💪 Opened PR [#35](https://github.com/eryajf/go-ldap-admin-ui/pull/35) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-4. 🎉 Merged PR [#34](https://github.com/eryajf/go-ldap-admin-ui/pull/34) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-5. 💪 Opened PR [#34](https://github.com/eryajf/go-ldap-admin-ui/pull/34) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
-6. 🎉 Merged PR [#40](https://github.com/eryajf/HowToStartOpenSource/pull/40) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+1. 🎉 Merged PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+2. 💪 Opened PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+3. 🗣 Commented on [#51](https://github.com/eryajf/chatgpt-dingtalk/issues/51) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🎉 Merged PR [#35](https://github.com/eryajf/go-ldap-admin-ui/pull/35) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+5. 💪 Opened PR [#35](https://github.com/eryajf/go-ldap-admin-ui/pull/35) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+6. 🎉 Merged PR [#34](https://github.com/eryajf/go-ldap-admin-ui/pull/34) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
 <!--END_SECTION:activity-->
 
 </td>
