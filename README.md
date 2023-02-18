@@ -334,6 +334,13 @@ Mac                      33 hrs 14 mins      ███████████�
         <a href="https://github.com/fengjixuchui">fengjixuchui</a>
     </td>
     <td align="center">
+        <a href="https://github.com/HyunCafe">
+            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
+        </a>
+        <br />
+        <a href="https://github.com/HyunCafe">HyunCafe</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adsian">
             <img src="https://avatars2.githubusercontent.com/u/34738478" width="100px;" alt="adsian"/>
         </a>
@@ -346,13 +353,6 @@ Mac                      33 hrs 14 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/teamssix">TeamsSix</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/HyunCafe">
-            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
-        </a>
-        <br />
-        <a href="https://github.com/HyunCafe">HyunCafe</a>
     </td>
   </tr>
   <tr>
