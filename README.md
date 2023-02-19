@@ -371,13 +371,6 @@ Mac                      28 hrs 43 mins      ███████████�
         <a href="https://github.com/wuchunfu">ChunFuWu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/penndu">
             <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
         </a>
@@ -390,6 +383,13 @@ Mac                      28 hrs 43 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kxxt">
+            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
+        </a>
+        <br />
+        <a href="https://github.com/kxxt">Levi Zim</a>
     </td>
     <td align="center">
         <a href="https://github.com/puzzithinker">
