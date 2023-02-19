@@ -327,13 +327,6 @@ Mac                      28 hrs 43 mins      ███████████�
         <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
-        <a href="https://github.com/HyunCafe">
-            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
-        </a>
-        <br />
-        <a href="https://github.com/HyunCafe">HyunCafe</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/fengjixuchui">
             <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
         </a>
@@ -354,8 +347,6 @@ Mac                      28 hrs 43 mins      ███████████�
         <br />
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
@@ -363,6 +354,8 @@ Mac                      28 hrs 43 mins      ███████████�
         <br />
         <a href="https://github.com/sudoskys">Jasmine</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/wangrongding">
             <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
@@ -404,6 +397,13 @@ Mac                      28 hrs 43 mins      ███████████�
         </a>
         <br />
         <a href="https://github.com/puzzithinker">Simon Leung</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/maxcohen31">
+            <img src="https://avatars2.githubusercontent.com/u/73888184" width="100px;" alt="maxcohen31"/>
+        </a>
+        <br />
+        <a href="https://github.com/maxcohen31">Emanuele</a>
     </td>
   </tr>
 </table>
