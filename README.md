@@ -199,12 +199,12 @@ Mac                      23 hrs 12 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 💪 Opened PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. ❗️ Closed issue [#19](https://github.com/eryajf/learning-weekly/issues/19) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-4. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. ❗️ Closed issue [#52](https://github.com/eryajf/chatgpt-dingtalk/issues/52) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#52](https://github.com/eryajf/chatgpt-dingtalk/issues/52) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
+2. 🎉 Merged PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 💪 Opened PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. ❗️ Closed issue [#19](https://github.com/eryajf/learning-weekly/issues/19) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+5. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. ❗️ Closed issue [#52](https://github.com/eryajf/chatgpt-dingtalk/issues/52) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
