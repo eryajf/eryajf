@@ -199,12 +199,12 @@ Mac                      28 hrs 43 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#180](https://github.com/eryajf/Thanks-Mirror/issues/180) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#179](https://github.com/eryajf/Thanks-Mirror/issues/179) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. 🎉 Merged PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-4. 💪 Opened PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-5. 🗣 Commented on [#51](https://github.com/eryajf/chatgpt-dingtalk/issues/51) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#35](https://github.com/eryajf/go-ldap-admin-ui/pull/35) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+1. 🎉 Merged PR [#11](https://github.com/eryajf/tu/pull/11) in [eryajf/tu](https://github.com/eryajf/tu)
+2. ❗️ Closed issue [#180](https://github.com/eryajf/Thanks-Mirror/issues/180) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#179](https://github.com/eryajf/Thanks-Mirror/issues/179) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. 🎉 Merged PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+5. 💪 Opened PR [#4](https://github.com/eryajf/xirang-ui/pull/4) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+6. 🗣 Commented on [#51](https://github.com/eryajf/chatgpt-dingtalk/issues/51) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
