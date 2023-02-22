@@ -199,12 +199,12 @@ Mac                      22 hrs 11 mins      ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/oss-compass/compass-projects-information/issues/88) in [oss-compass/compass-projects-information](https://github.com/oss-compass/compass-projects-information)
-2. 🗣 Commented on [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
-3. 🎉 Merged PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 💪 Opened PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. ❗️ Closed issue [#19](https://github.com/eryajf/learning-weekly/issues/19) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-6. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. ❗️ Closed issue [#142](https://github.com/eryajf/go-ldap-admin/issues/142) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#88](https://github.com/oss-compass/compass-projects-information/issues/88) in [oss-compass/compass-projects-information](https://github.com/oss-compass/compass-projects-information)
+3. 🗣 Commented on [#295](https://github.com/meilisearch/vuepress-plugin-meilisearch/issues/295) in [meilisearch/vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch)
+4. 🎉 Merged PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 💪 Opened PR [#152](https://github.com/eryajf/go-ldap-admin/pull/152) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. ❗️ Closed issue [#19](https://github.com/eryajf/learning-weekly/issues/19) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
 <!--END_SECTION:activity-->
 
 </td>
