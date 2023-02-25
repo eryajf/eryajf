@@ -109,17 +109,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) 
+- 🐻 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/) 
 
-- 🎃 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) 
+- 🎃 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/) 
 
-- 🚀 [博客导引](https://wiki.eryajf.net/comein/) 
+- 🚀 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) 
 
-- 🌋 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) 
+- 🌋 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) 
 
-- 🌁 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) 
+- 🌁 [博客导引](https://wiki.eryajf.net/comein/) 
 
-- 😺 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) 
+- 😺 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
