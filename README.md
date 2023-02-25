@@ -136,12 +136,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🎉 Merged PR [#42](https://github.com/eryajf/HowToStartOpenSource/pull/42) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-3. 🎉 Merged PR [#3](https://github.com/eryajf/xirang/pull/3) in [eryajf/xirang](https://github.com/eryajf/xirang)
-4. 💪 Opened PR [#3](https://github.com/eryajf/xirang/pull/3) in [eryajf/xirang](https://github.com/eryajf/xirang)
-5. 🎉 Merged PR [#156](https://github.com/eryajf/go-ldap-admin/pull/156) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#156](https://github.com/eryajf/go-ldap-admin/pull/156) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Opened issue [#431](https://github.com/ArtalkJS/Artalk/issues/431) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+2. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🎉 Merged PR [#42](https://github.com/eryajf/HowToStartOpenSource/pull/42) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. 🎉 Merged PR [#3](https://github.com/eryajf/xirang/pull/3) in [eryajf/xirang](https://github.com/eryajf/xirang)
+5. 💪 Opened PR [#3](https://github.com/eryajf/xirang/pull/3) in [eryajf/xirang](https://github.com/eryajf/xirang)
+6. 🎉 Merged PR [#156](https://github.com/eryajf/go-ldap-admin/pull/156) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
