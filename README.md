@@ -136,12 +136,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#187](https://github.com/eryajf/Thanks-Mirror/issues/187) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#186](https://github.com/eryajf/Thanks-Mirror/issues/186) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#185](https://github.com/eryajf/Thanks-Mirror/issues/185) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#184](https://github.com/eryajf/Thanks-Mirror/issues/184) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#183](https://github.com/eryajf/Thanks-Mirror/issues/183) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#182](https://github.com/eryajf/Thanks-Mirror/issues/182) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. ❌ Closed PR [#46](https://github.com/eryajf/learn-github/pull/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. ❗️ Closed issue [#187](https://github.com/eryajf/Thanks-Mirror/issues/187) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#186](https://github.com/eryajf/Thanks-Mirror/issues/186) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#185](https://github.com/eryajf/Thanks-Mirror/issues/185) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#184](https://github.com/eryajf/Thanks-Mirror/issues/184) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#183](https://github.com/eryajf/Thanks-Mirror/issues/183) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
