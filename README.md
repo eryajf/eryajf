@@ -136,12 +136,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 💪 Opened PR [#127](https://github.com/rlespinasse/github-slug-action/pull/127) in [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+1. 🗣 Commented on [#144](https://github.com/Chanzhaoyu/chatgpt-web/issues/144) in [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+2. 💪 Opened PR [#436](https://github.com/ArtalkJS/Artalk/pull/436) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
 3. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. ❌ Closed PR [#46](https://github.com/eryajf/learn-github/pull/46) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. ❗️ Closed issue [#187](https://github.com/eryajf/Thanks-Mirror/issues/187) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. 💪 Opened PR [#127](https://github.com/rlespinasse/github-slug-action/pull/127) in [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+5. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
