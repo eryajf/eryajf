@@ -136,12 +136,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/Chanzhaoyu/chatgpt-web/issues/144) in [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-2. 🗣 Commented on [#144](https://github.com/Chanzhaoyu/chatgpt-web/issues/144) in [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-3. 🗣 Commented on [#54](https://github.com/eryajf/chatgpt-dingtalk/issues/54) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#144](https://github.com/Chanzhaoyu/chatgpt-web/issues/144) in [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-5. 💪 Opened PR [#144](https://github.com/Chanzhaoyu/chatgpt-web/pull/144) in [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-6. 🎉 Merged PR [#12](https://github.com/eryajf/tu/pull/12) in [eryajf/tu](https://github.com/eryajf/tu)
+1. ❗️ Closed issue [#187](https://github.com/eryajf/Thanks-Mirror/issues/187) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#186](https://github.com/eryajf/Thanks-Mirror/issues/186) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#185](https://github.com/eryajf/Thanks-Mirror/issues/185) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#184](https://github.com/eryajf/Thanks-Mirror/issues/184) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#183](https://github.com/eryajf/Thanks-Mirror/issues/183) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#182](https://github.com/eryajf/Thanks-Mirror/issues/182) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
