@@ -272,6 +272,13 @@ width="800"  height="3">
         <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
+        <a href="https://github.com/HyunCafe">
+            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
+        </a>
+        <br />
+        <a href="https://github.com/HyunCafe">HyunCafe</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/fengjixuchui">
             <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
         </a>
@@ -285,6 +292,8 @@ width="800"  height="3">
         <br />
         <a href="https://github.com/adsian">Roger</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars2.githubusercontent.com/u/49087564" width="100px;" alt="teamssix"/>
@@ -292,8 +301,6 @@ width="800"  height="3">
         <br />
         <a href="https://github.com/teamssix">TeamsSix</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/sudoskys">
             <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
@@ -335,13 +342,6 @@ width="800"  height="3">
         </a>
         <br />
         <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/puzzithinker">
-            <img src="https://avatars2.githubusercontent.com/u/2639268" width="100px;" alt="puzzithinker"/>
-        </a>
-        <br />
-        <a href="https://github.com/puzzithinker">Simon Leung</a>
     </td>
   </tr>
 </table>
