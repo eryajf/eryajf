@@ -138,7 +138,7 @@ width="800"  height="3">
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+2. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 3. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 4. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 5. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
