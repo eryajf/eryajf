@@ -110,17 +110,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) 
+- 🐻 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/)
 
-- 🎃 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/) 
+- 🎃 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/)
 
-- 🚀 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/) 
+- 🚀 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/)
 
-- 🌋 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/) 
+- 🌋 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/)
 
-- 🌁 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) 
+- 🌁 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/)
 
-- 😺 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) 
+- 😺 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
@@ -180,170 +180,3 @@ width="800"  height="3">
 </div>
 
 </details>
-
-
-### 🎡 关注我的大佬
-
-> 😘 Thank you follow me!
-
-<details>
-<summary>点击展开 ...</summary>
-
-<!--ACTION_START_FLAG:github-followers-->
-<table>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/esin">
-            <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
-        </a>
-        <br />
-        <a href="https://github.com/esin">Andrey Esin</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/cumsoft">
-            <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
-        </a>
-        <br />
-        <a href="https://github.com/cumsoft">Cumsoft™</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AYIDouble">
-            <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
-        </a>
-        <br />
-        <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/qianguyihao">
-            <img src="https://avatars2.githubusercontent.com/u/8827896" width="100px;" alt="qianguyihao"/>
-        </a>
-        <br />
-        <a href="https://github.com/qianguyihao">千古壹号</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/crazylxr">
-            <img src="https://avatars2.githubusercontent.com/u/16161407" width="100px;" alt="crazylxr"/>
-        </a>
-        <br />
-        <a href="https://github.com/crazylxr">lxr</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sbilly">
-            <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-        </a>
-        <br />
-        <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hoochanlon">
-            <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-        </a>
-        <br />
-        <a href="https://github.com/hoochanlon">菠萝包趣多多</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/li-jia-nan">
-            <img src="https://avatars2.githubusercontent.com/u/49217418" width="100px;" alt="li-jia-nan"/>
-        </a>
-        <br />
-        <a href="https://github.com/li-jia-nan">lijianan</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/romanofficial">
-            <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="romanofficial"/>
-        </a>
-        <br />
-        <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/qinguoyi">
-            <img src="https://avatars2.githubusercontent.com/u/25760295" width="100px;" alt="qinguoyi"/>
-        </a>
-        <br />
-        <a href="https://github.com/qinguoyi">开心果若冰</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/guanguans">
-            <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
-        </a>
-        <br />
-        <a href="https://github.com/guanguans">guanguans</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/HyunCafe">
-            <img src="https://avatars2.githubusercontent.com/u/75151110" width="100px;" alt="HyunCafe"/>
-        </a>
-        <br />
-        <a href="https://github.com/HyunCafe">HyunCafe</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/fengjixuchui">
-            <img src="https://avatars2.githubusercontent.com/u/2487206" width="100px;" alt="fengjixuchui"/>
-        </a>
-        <br />
-        <a href="https://github.com/fengjixuchui">fengjixuchui</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/adsian">
-            <img src="https://avatars2.githubusercontent.com/u/34738478" width="100px;" alt="adsian"/>
-        </a>
-        <br />
-        <a href="https://github.com/adsian">Roger</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/teamssix">
-            <img src="https://avatars2.githubusercontent.com/u/49087564" width="100px;" alt="teamssix"/>
-        </a>
-        <br />
-        <a href="https://github.com/teamssix">TeamsSix</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sudoskys">
-            <img src="https://avatars2.githubusercontent.com/u/75739606" width="100px;" alt="sudoskys"/>
-        </a>
-        <br />
-        <a href="https://github.com/sudoskys">Jasmine</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wangrongding">
-            <img src="https://avatars2.githubusercontent.com/u/42437658" width="100px;" alt="wangrongding"/>
-        </a>
-        <br />
-        <a href="https://github.com/wangrongding">荣顶</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wuchunfu">
-            <img src="https://avatars2.githubusercontent.com/u/29206593" width="100px;" alt="wuchunfu"/>
-        </a>
-        <br />
-        <a href="https://github.com/wuchunfu">ChunFuWu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/xiaoxuan6">
-            <img src="https://avatars2.githubusercontent.com/u/32762220" width="100px;" alt="xiaoxuan6"/>
-        </a>
-        <br />
-        <a href="https://github.com/xiaoxuan6">xiaoxuan6</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/penndu">
-            <img src="https://avatars2.githubusercontent.com/u/46226528" width="100px;" alt="penndu"/>
-        </a>
-        <br />
-        <a href="https://github.com/penndu">TeacherDu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kxxt">
-            <img src="https://avatars2.githubusercontent.com/u/18085551" width="100px;" alt="kxxt"/>
-        </a>
-        <br />
-        <a href="https://github.com/kxxt">Levi Zim</a>
-    </td>
-  </tr>
-</table>
-<!--ACTION_END_FLAG:github-followers-->
-
