@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 2. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 3. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 4. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 5. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
-6. ❗️ Closed issue [#61](https://github.com/eryajf/chatgpt-dingtalk/issues/61) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
 <!--END_SECTION:activity-->
 
 </td>
