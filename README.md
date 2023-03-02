@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/eryajf/chatgpt-dingtalk/pull/62) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#61](https://github.com/eryajf/chatgpt-dingtalk/issues/61) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#61](https://github.com/eryajf/chatgpt-dingtalk/issues/61) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#61](https://github.com/eryajf/chatgpt-dingtalk/issues/61) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#2](https://github.com/ddiu8081/chatgpt-demo/issues/2) in [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
-6. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+2. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+3. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+4. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+5. 🗣 Commented on [#18](https://github.com/Rabithua/memos_wmp/issues/18) in [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp)
+6. ❗️ Closed issue [#61](https://github.com/eryajf/chatgpt-dingtalk/issues/61) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
