@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/sashabaranov/go-gpt3/issues/103) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
-2. ❗️ Closed issue [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
-3. 🗣 Commented on [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
-4. ❗️ Opened issue [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
-5. 🗣 Commented on [#63](https://github.com/eryajf/chatgpt-dingtalk/issues/63) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#66](https://github.com/eryajf/chatgpt-dingtalk/pull/66) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#64](https://github.com/eryajf/chatgpt-dingtalk/issues/64) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🗣 Commented on [#103](https://github.com/sashabaranov/go-gpt3/issues/103) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
+3. ❗️ Closed issue [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
+4. 🗣 Commented on [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
+5. ❗️ Opened issue [#107](https://github.com/sashabaranov/go-gpt3/issues/107) in [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3)
+6. 🗣 Commented on [#63](https://github.com/eryajf/chatgpt-dingtalk/issues/63) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
