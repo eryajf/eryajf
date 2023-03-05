@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#192](https://github.com/eryajf/Thanks-Mirror/issues/192) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#191](https://github.com/eryajf/Thanks-Mirror/issues/191) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#190](https://github.com/eryajf/Thanks-Mirror/issues/190) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#189](https://github.com/eryajf/Thanks-Mirror/issues/189) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#188](https://github.com/eryajf/Thanks-Mirror/issues/188) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#69](https://github.com/eryajf/chatgpt-dingtalk/issues/69) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🗣 Commented on [#160](https://github.com/eryajf/go-ldap-admin/issues/160) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. ❗️ Closed issue [#192](https://github.com/eryajf/Thanks-Mirror/issues/192) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. ❗️ Closed issue [#191](https://github.com/eryajf/Thanks-Mirror/issues/191) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#190](https://github.com/eryajf/Thanks-Mirror/issues/190) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#189](https://github.com/eryajf/Thanks-Mirror/issues/189) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. ❗️ Closed issue [#188](https://github.com/eryajf/Thanks-Mirror/issues/188) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
