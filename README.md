@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/lcomplete/huntly/issues/6) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-2. ❗️ Opened issue [#6](https://github.com/lcomplete/huntly/issues/6) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-3. 🗣 Commented on [#78](https://github.com/eryajf/chatgpt-dingtalk/issues/78) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#15](https://github.com/ourongxing/chatgpt-vercel/issues/15) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
-5. 🗣 Commented on [#72](https://github.com/eryajf/chatgpt-dingtalk/issues/72) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 💪 Opened PR [#51](https://github.com/869413421/chatgpt-web/pull/51) in [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web)
+1. ❗️ Closed issue [#194](https://github.com/eryajf/Thanks-Mirror/issues/194) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+2. ❗️ Closed issue [#193](https://github.com/eryajf/Thanks-Mirror/issues/193) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. 🗣 Commented on [#6](https://github.com/lcomplete/huntly/issues/6) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+4. ❗️ Opened issue [#6](https://github.com/lcomplete/huntly/issues/6) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+5. 🗣 Commented on [#78](https://github.com/eryajf/chatgpt-dingtalk/issues/78) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#15](https://github.com/ourongxing/chatgpt-vercel/issues/15) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
 <!--END_SECTION:activity-->
 
 </td>
