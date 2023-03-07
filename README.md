@@ -103,7 +103,7 @@ width="800"  height="3">
 | [gojenkins](https://github.com/eryajf/gojenkins) | ![](https://img.shields.io/github/stars/eryajf/gojenkins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gojenkins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | fork自gojenkins,增加了很多功能  |
 | [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-dingtalk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-dingtalk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | chatGPT机器人在钉钉群聊中交互  |
 | [emotion_generate](https://github.com/eryajf/emotion_generate) | ![](https://img.shields.io/github/stars/eryajf/emotion_generate?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/emotion_generate?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Artalk评论系统的表情包  |
-
+| [awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) | ![](https://img.shields.io/github/stars/eryajf/awesome-chatgpt-answer?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-chatgpt-answer?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙋 问得好，🗣 答得妙。  |
 
 
 ### 📝 博客最近更新
@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) 
+- 🐻 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/)
 
-- 🎃 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) 
+- 🎃 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/)
 
-- 🚀 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/) 
+- 🚀 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/)
 
-- 🌋 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/) 
+- 🌋 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/)
 
-- 🌁 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/) 
+- 🌁 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/)
 
-- 😺 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) 
+- 😺 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
