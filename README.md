@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/ourongxing/chatgpt-vercel/issues/9) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
-2. 🗣 Commented on [#72](https://github.com/eryajf/chatgpt-dingtalk/issues/72) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🎉 Merged PR [#73](https://github.com/eryajf/chatgpt-dingtalk/pull/73) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 💪 Opened PR [#73](https://github.com/eryajf/chatgpt-dingtalk/pull/73) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#160](https://github.com/eryajf/go-ldap-admin/issues/160) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 💪 Opened PR [#36](https://github.com/meilisearch/awesome-meilisearch/pull/36) in [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch)
+2. ❗️ Opened issue [#9](https://github.com/ourongxing/chatgpt-vercel/issues/9) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
+3. 🗣 Commented on [#72](https://github.com/eryajf/chatgpt-dingtalk/issues/72) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🎉 Merged PR [#73](https://github.com/eryajf/chatgpt-dingtalk/pull/73) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 💪 Opened PR [#73](https://github.com/eryajf/chatgpt-dingtalk/pull/73) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
