@@ -142,11 +142,11 @@ width="800"  height="3">
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-2. 🗣 Commented on [#24](https://github.com/reorx/awesome-chatgpt-api/issues/24) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
-3. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+2. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+3. 🗣 Commented on [#24](https://github.com/reorx/awesome-chatgpt-api/issues/24) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
 4. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-5. 🗣 Commented on [#6](https://github.com/reorx/awesome-chatgpt-api/issues/6) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
-6. 💪 Opened PR [#24](https://github.com/reorx/awesome-chatgpt-api/pull/24) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
+5. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+6. 🗣 Commented on [#6](https://github.com/reorx/awesome-chatgpt-api/issues/6) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
 <!--END_SECTION:activity-->
 
 </td>
