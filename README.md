@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/lcomplete/huntly/pull/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-2. ❗️ Opened issue [#27](https://github.com/ourongxing/chatgpt-vercel/issues/27) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
-3. ❗️ Closed issue [#200](https://github.com/eryajf/Thanks-Mirror/issues/200) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. ❗️ Closed issue [#199](https://github.com/eryajf/Thanks-Mirror/issues/199) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#198](https://github.com/eryajf/Thanks-Mirror/issues/198) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#197](https://github.com/eryajf/Thanks-Mirror/issues/197) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+2. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+3. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+4. 💪 Opened PR [#7](https://github.com/lcomplete/huntly/pull/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+5. ❗️ Opened issue [#27](https://github.com/ourongxing/chatgpt-vercel/issues/27) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
+6. ❗️ Closed issue [#200](https://github.com/eryajf/Thanks-Mirror/issues/200) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
