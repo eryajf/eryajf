@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-4. ❗️ Closed issue [#80](https://github.com/eryajf/chatgpt-dingtalk/issues/80) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#80](https://github.com/eryajf/chatgpt-dingtalk/issues/80) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#23](https://github.com/ourongxing/chatgpt-vercel/issues/23) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
+1. 🗣 Commented on [#6](https://github.com/reorx/awesome-chatgpt-api/issues/6) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
+2. 💪 Opened PR [#24](https://github.com/reorx/awesome-chatgpt-api/pull/24) in [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
+3. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+6. ❗️ Closed issue [#80](https://github.com/eryajf/chatgpt-dingtalk/issues/80) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
