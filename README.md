@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 2. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-3. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+3. 🗣 Commented on [#79](https://github.com/eryajf/chatgpt-dingtalk/issues/79) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 4. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
 5. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
-6. 💪 Opened PR [#7](https://github.com/lcomplete/huntly/pull/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
+6. 🗣 Commented on [#7](https://github.com/lcomplete/huntly/issues/7) in [lcomplete/huntly](https://github.com/lcomplete/huntly)
 <!--END_SECTION:activity-->
 
 </td>
