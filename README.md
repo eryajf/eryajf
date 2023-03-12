@@ -142,11 +142,11 @@ width="800"  height="3">
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#87](https://github.com/eryajf/chatgpt-dingtalk/issues/87) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#86](https://github.com/eryajf/chatgpt-dingtalk/issues/86) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. ❗️ Closed issue [#86](https://github.com/eryajf/chatgpt-dingtalk/issues/86) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🎉 Merged PR [#168](https://github.com/eryajf/go-ldap-admin/pull/168) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#168](https://github.com/eryajf/go-ldap-admin/pull/168) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#87](https://github.com/eryajf/chatgpt-dingtalk/issues/87) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#86](https://github.com/eryajf/chatgpt-dingtalk/issues/86) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. ❗️ Closed issue [#86](https://github.com/eryajf/chatgpt-dingtalk/issues/86) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🎉 Merged PR [#168](https://github.com/eryajf/go-ldap-admin/pull/168) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
