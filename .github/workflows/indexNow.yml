@@ -1,0 +1,23 @@
+name: 'IndexNow'
+on:
+  schedule:
+    # Set the schedule time
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'
+
+jobs:
+  check-and-submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: indexnow-action
+        uses: bojieyang/indexnow-action@v1
+        with:
+          sitemap-location: 'https://wiki.eryajf.net/sitemap.xml'
+          key: ${{ secrets.INDEXNOW_KEY }}
