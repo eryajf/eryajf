@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#89](https://github.com/eryajf/chatgpt-dingtalk/issues/89) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#89](https://github.com/eryajf/chatgpt-dingtalk/issues/89) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🗣 Commented on [#122](https://github.com/HalseySpicy/Geeker-Admin/issues/122) in [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
-5. 🗣 Commented on [#88](https://github.com/eryajf/chatgpt-dingtalk/issues/88) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🗣 Commented on [#2960](https://github.com/ruanyf/weekly/issues/2960) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. ❗️ Closed issue [#90](https://github.com/eryajf/chatgpt-dingtalk/issues/90) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🗣 Commented on [#90](https://github.com/eryajf/chatgpt-dingtalk/issues/90) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🎉 Merged PR [#92](https://github.com/eryajf/chatgpt-dingtalk/pull/92) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 💪 Opened PR [#92](https://github.com/eryajf/chatgpt-dingtalk/pull/92) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. ❗️ Closed issue [#89](https://github.com/eryajf/chatgpt-dingtalk/issues/89) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🗣 Commented on [#89](https://github.com/eryajf/chatgpt-dingtalk/issues/89) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
