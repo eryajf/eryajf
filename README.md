@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/) 
+- 🐻 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/) 
 
-- 🎃 [Docker容器如何优雅地访问宿主机网络](https://wiki.eryajf.net/pages/674f53/) 
+- 🎃 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/) 
 
-- 🚀 [求职公告](https://wiki.eryajf.net/looking-for-a-job/) 
+- 🚀 [Docker容器如何优雅地访问宿主机网络](https://wiki.eryajf.net/pages/674f53/) 
 
-- 🌋 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) 
+- 🌋 [求职公告](https://wiki.eryajf.net/looking-for-a-job/) 
 
-- 🌁 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) 
+- 🌁 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) 
 
-- 😺 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/) 
+- 😺 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
