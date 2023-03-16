@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#27](https://github.com/xx025/carrot/issues/27) in [xx025/carrot](https://github.com/xx025/carrot)
-3. 💪 Opened PR [#27](https://github.com/xx025/carrot/pull/27) in [xx025/carrot](https://github.com/xx025/carrot)
-4. ❗️ Closed issue [#207](https://github.com/eryajf/Thanks-Mirror/issues/207) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#209](https://github.com/eryajf/Thanks-Mirror/issues/209) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#208](https://github.com/eryajf/Thanks-Mirror/issues/208) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. ❗️ Opened issue [#15](https://github.com/shenghui0779/yiigo/issues/15) in [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo)
+2. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. ❗️ Opened issue [#14](https://github.com/pmb2020/alone-admin/issues/14) in [pmb2020/alone-admin](https://github.com/pmb2020/alone-admin)
+4. 🗣 Commented on [#44](https://github.com/eryajf/chatgpt-dingtalk/issues/44) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🗣 Commented on [#27](https://github.com/xx025/carrot/issues/27) in [xx025/carrot](https://github.com/xx025/carrot)
+6. 💪 Opened PR [#27](https://github.com/xx025/carrot/pull/27) in [xx025/carrot](https://github.com/xx025/carrot)
 <!--END_SECTION:activity-->
 
 </td>
