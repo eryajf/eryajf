@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#219](https://github.com/eryajf/Thanks-Mirror/issues/219) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. ❗️ Closed issue [#218](https://github.com/eryajf/Thanks-Mirror/issues/218) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. ❗️ Closed issue [#217](https://github.com/eryajf/Thanks-Mirror/issues/217) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. 🎉 Merged PR [#15](https://github.com/eryajf/tu/pull/15) in [eryajf/tu](https://github.com/eryajf/tu)
-5. 🗣 Commented on [#15](https://github.com/shenghui0779/yiigo/issues/15) in [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo)
-6. 🗣 Commented on [#465](https://github.com/ArtalkJS/Artalk/issues/465) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+1. ❗️ Opened issue [#103](https://github.com/eryajf/chatgpt-dingtalk/issues/103) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🗣 Commented on [#102](https://github.com/eryajf/chatgpt-dingtalk/issues/102) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. ❗️ Closed issue [#219](https://github.com/eryajf/Thanks-Mirror/issues/219) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. ❗️ Closed issue [#218](https://github.com/eryajf/Thanks-Mirror/issues/218) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. ❗️ Closed issue [#217](https://github.com/eryajf/Thanks-Mirror/issues/217) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🎉 Merged PR [#15](https://github.com/eryajf/tu/pull/15) in [eryajf/tu](https://github.com/eryajf/tu)
 <!--END_SECTION:activity-->
 
 </td>
