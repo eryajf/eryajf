@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/eryajf/go-ldap-admin/issues/181) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#181](https://github.com/eryajf/go-ldap-admin/issues/181) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#138](https://github.com/eryajf/chatgpt-dingtalk/issues/138) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🗣 Commented on [#43](https://github.com/eryajf/go-ldap-admin-ui/issues/43) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
 3. 🗣 Commented on [#181](https://github.com/eryajf/go-ldap-admin/issues/181) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#180](https://github.com/eryajf/go-ldap-admin/issues/180) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#130](https://github.com/eryajf/chatgpt-dingtalk/issues/130) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. ❗️ Closed issue [#133](https://github.com/eryajf/chatgpt-dingtalk/issues/133) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#181](https://github.com/eryajf/go-ldap-admin/issues/181) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#181](https://github.com/eryajf/go-ldap-admin/issues/181) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#180](https://github.com/eryajf/go-ldap-admin/issues/180) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
