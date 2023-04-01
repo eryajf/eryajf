@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/eryajf/chatgpt-dingtalk/issues/147) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🗣 Commented on [#149](https://github.com/eryajf/chatgpt-dingtalk/issues/149) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. ❗️ Opened issue [#50](https://github.com/blinkfox/typora-vue-theme/issues/50) in [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)
-4. 🗣 Commented on [#87](https://github.com/eryajf/chatgpt-dingtalk/issues/87) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🗣 Commented on [#183](https://github.com/eryajf/go-ldap-admin/issues/183) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#147](https://github.com/eryajf/chatgpt-dingtalk/issues/147) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🎉 Merged PR [#150](https://github.com/eryajf/chatgpt-dingtalk/pull/150) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 💪 Opened PR [#150](https://github.com/eryajf/chatgpt-dingtalk/pull/150) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🗣 Commented on [#147](https://github.com/eryajf/chatgpt-dingtalk/issues/147) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 🗣 Commented on [#149](https://github.com/eryajf/chatgpt-dingtalk/issues/149) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. ❗️ Opened issue [#50](https://github.com/blinkfox/typora-vue-theme/issues/50) in [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)
+6. 🗣 Commented on [#87](https://github.com/eryajf/chatgpt-dingtalk/issues/87) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
