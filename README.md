@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/eryajf/chatgpt-dingtalk/pull/186) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-2. 🎉 Merged PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 💪 Opened PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 🎉 Merged PR [#53](https://github.com/eryajf/learn-github/pull/53) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. ❗️ Reopened issue [#51](https://github.com/eryajf/learn-github/issues/51) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. ❗️ Closed issue [#51](https://github.com/eryajf/learn-github/issues/51) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. ❗️ Opened issue [#54](https://github.com/eryajf/learn-github/issues/54) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+2. 🎉 Merged PR [#186](https://github.com/eryajf/chatgpt-dingtalk/pull/186) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🎉 Merged PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+4. 💪 Opened PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+5. 🎉 Merged PR [#53](https://github.com/eryajf/learn-github/pull/53) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+6. ❗️ Reopened issue [#51](https://github.com/eryajf/learn-github/issues/51) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
