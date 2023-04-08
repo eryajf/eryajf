@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-2. 🎉 Merged PR [#73](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/73) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-3. 🎉 Merged PR [#72](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/72) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-4. ❗️ Opened issue [#54](https://github.com/eryajf/learn-github/issues/54) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-5. 🎉 Merged PR [#186](https://github.com/eryajf/chatgpt-dingtalk/pull/186) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-6. 🎉 Merged PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+1. 🎉 Merged PR [#189](https://github.com/eryajf/chatgpt-dingtalk/pull/189) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2. 🎉 Merged PR [#188](https://github.com/eryajf/chatgpt-dingtalk/pull/188) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+3. 🗣 Commented on [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+4. 🎉 Merged PR [#73](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/73) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+5. 🎉 Merged PR [#72](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/72) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. ❗️ Opened issue [#54](https://github.com/eryajf/learn-github/issues/54) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
 <!--END_SECTION:activity-->
 
 </td>
