@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/eryajf/learn-github/issues/54) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-2. 🎉 Merged PR [#186](https://github.com/eryajf/chatgpt-dingtalk/pull/186) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-3. 🎉 Merged PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-4. 💪 Opened PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
-5. 🎉 Merged PR [#53](https://github.com/eryajf/learn-github/pull/53) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
-6. ❗️ Reopened issue [#51](https://github.com/eryajf/learn-github/issues/51) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+1. 🗣 Commented on [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+2. 🎉 Merged PR [#73](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/73) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🎉 Merged PR [#72](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/72) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+4. ❗️ Opened issue [#54](https://github.com/eryajf/learn-github/issues/54) in [eryajf/learn-github](https://github.com/eryajf/learn-github)
+5. 🎉 Merged PR [#186](https://github.com/eryajf/chatgpt-dingtalk/pull/186) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+6. 🎉 Merged PR [#185](https://github.com/eryajf/chatgpt-dingtalk/pull/185) in [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 <!--END_SECTION:activity-->
 
 </td>
