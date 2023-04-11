@@ -34,7 +34,7 @@ width="800"  height="3">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)
 [![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
-[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://tva4.sinaimg.cn/large/008k1Yt0ly1h4nmsb1pgzj32n00yo154.jpg)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) 
+- 🐻 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/)
 
-- 🎃 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) 
+- 🎃 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/)
 
-- 🚀 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/) 
+- 🚀 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/)
 
-- 🌋 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/) 
+- 🌋 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/)
 
-- 🌁 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/) 
+- 🌁 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/)
 
-- 😺 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/) 
+- 😺 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
