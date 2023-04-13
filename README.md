@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/202) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-2. 🗣 Commented on [#203](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/203) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. 🗣 Commented on [#200](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/200) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🎉 Merged PR [#201](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/201) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 🎉 Merged PR [#199](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/199) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🎉 Merged PR [#198](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/198) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. 🎉 Merged PR [#204](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/204) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 💪 Opened PR [#204](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/204) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 🗣 Commented on [#202](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/202) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🗣 Commented on [#203](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/203) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 🗣 Commented on [#200](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/200) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🎉 Merged PR [#201](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/201) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
