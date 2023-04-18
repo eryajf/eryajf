@@ -142,10 +142,10 @@ width="800"  height="3">
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#193](https://github.com/eryajf/go-ldap-admin/issues/193) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 2. 🗣 Commented on [#193](https://github.com/eryajf/go-ldap-admin/issues/193) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#18](https://github.com/casdoor/go-sms-sender/issues/18) in [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender)
-4. 💪 Opened PR [#18](https://github.com/casdoor/go-sms-sender/pull/18) in [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender)
-5. 🎉 Merged PR [#215](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/215) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🗣 Commented on [#214](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/214) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 🗣 Commented on [#193](https://github.com/eryajf/go-ldap-admin/issues/193) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#18](https://github.com/casdoor/go-sms-sender/issues/18) in [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender)
+5. 💪 Opened PR [#18](https://github.com/casdoor/go-sms-sender/pull/18) in [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender)
+6. 🎉 Merged PR [#215](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/215) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
