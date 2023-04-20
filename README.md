@@ -103,6 +103,7 @@ width="800"  height="3">
 | [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-dingtalk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-dingtalk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | chatGPT机器人在钉钉群聊中交互  |
 | [emotion_generate](https://github.com/eryajf/emotion_generate) | ![](https://img.shields.io/github/stars/eryajf/emotion_generate?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/emotion_generate?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Artalk评论系统的表情包  |
 | [awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) | ![](https://img.shields.io/github/stars/eryajf/awesome-chatgpt-answer?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-chatgpt-answer?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙋 问得好，🗣 答得妙。  |
+| [eryajf-dockerfile](https://github.com/eryajf/eryajf-dockerfile) | ![](https://img.shields.io/github/stars/eryajf/eryajf-dockerfile?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf-dockerfile?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🏺 个人常用的Docker镜像汇总  |
 
 
 ### 📝 博客最近更新
@@ -113,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) 
+- 🐻 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/)
 
-- 🎃 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) 
+- 🎃 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/)
 
-- 🚀 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) 
+- 🚀 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/)
 
-- 🌋 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) 
+- 🌋 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/)
 
-- 🌁 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/) 
+- 🌁 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/)
 
-- 😺 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/) 
+- 😺 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
