@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/74) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🗣 Commented on [#218](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/218) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. 🗣 Commented on [#199](https://github.com/eryajf/go-ldap-admin/issues/199) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#201](https://github.com/eryajf/go-ldap-admin/issues/201) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🎉 Merged PR [#74](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/74) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#218](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/218) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 4. 🗣 Commented on [#199](https://github.com/eryajf/go-ldap-admin/issues/199) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 5. 🗣 Commented on [#199](https://github.com/eryajf/go-ldap-admin/issues/199) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#1](https://github.com/electricbubble/wecom-bot-api/pull/1) in [electricbubble/wecom-bot-api](https://github.com/electricbubble/wecom-bot-api)
+6. 🗣 Commented on [#199](https://github.com/eryajf/go-ldap-admin/issues/199) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
