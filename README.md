@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#496](https://github.com/ArtalkJS/Artalk/issues/496) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-2. 🗣 Commented on [#201](https://github.com/eryajf/go-ldap-admin/issues/201) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#201](https://github.com/eryajf/go-ldap-admin/issues/201) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#74](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/74) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. 🗣 Commented on [#218](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/218) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🗣 Commented on [#199](https://github.com/eryajf/go-ldap-admin/issues/199) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#202](https://github.com/eryajf/go-ldap-admin/issues/202) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#202](https://github.com/eryajf/go-ldap-admin/issues/202) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. ❗️ Opened issue [#496](https://github.com/ArtalkJS/Artalk/issues/496) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+4. 🗣 Commented on [#201](https://github.com/eryajf/go-ldap-admin/issues/201) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#201](https://github.com/eryajf/go-ldap-admin/issues/201) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🎉 Merged PR [#74](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/74) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
