@@ -110,17 +110,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) 
+- 🐻 [学习周刊-总第104期-2023年第17周](https://wiki.eryajf.net/pages/19d76d/) 
 
-- 🎃 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) 
+- 🎃 [Mac 电脑中 zsh 环境下配置 docker 命令自动补全](https://wiki.eryajf.net/pages/7220b1/) 
 
-- 🚀 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) 
+- 🚀 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) 
 
-- 🌋 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) 
+- 🌋 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) 
 
-- 🌁 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) 
+- 🌁 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) 
 
-- 😺 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) 
+- 😺 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
