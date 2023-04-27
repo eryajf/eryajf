@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/yingDev/WGestures2-bugs/issues/191) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
-2. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. ❗️ Closed issue [#247](https://github.com/eryajf/Thanks-Mirror/issues/247) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. ❗️ Closed issue [#243](https://github.com/eryajf/Thanks-Mirror/issues/243) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. ❗️ Closed issue [#246](https://github.com/eryajf/Thanks-Mirror/issues/246) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🎉 Merged PR [#220](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/220) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🗣 Commented on [#191](https://github.com/yingDev/WGestures2-bugs/issues/191) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
+3. 🗣 Commented on [#191](https://github.com/yingDev/WGestures2-bugs/issues/191) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
+4. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. ❗️ Closed issue [#247](https://github.com/eryajf/Thanks-Mirror/issues/247) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
