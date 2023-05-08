@@ -137,10 +137,10 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/eryajf/go-ldap-admin/issues/186) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#19](https://github.com/eryajf/tu/pull/19) in [eryajf/tu](https://github.com/eryajf/tu)
-3. 🎉 Merged PR [#20](https://github.com/eryajf/tu/pull/20) in [eryajf/tu](https://github.com/eryajf/tu)
-4. 🗣 Commented on [#544](https://github.com/openspug/spug/issues/544) in [openspug/spug](https://github.com/openspug/spug)
+1. 🗣 Commented on [#496](https://github.com/ArtalkJS/Artalk/issues/496) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
+2. 🗣 Commented on [#186](https://github.com/eryajf/go-ldap-admin/issues/186) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🎉 Merged PR [#19](https://github.com/eryajf/tu/pull/19) in [eryajf/tu](https://github.com/eryajf/tu)
+4. 🎉 Merged PR [#20](https://github.com/eryajf/tu/pull/20) in [eryajf/tu](https://github.com/eryajf/tu)
 5. 🗣 Commented on [#544](https://github.com/openspug/spug/issues/544) in [openspug/spug](https://github.com/openspug/spug)
 6. 🗣 Commented on [#544](https://github.com/openspug/spug/issues/544) in [openspug/spug](https://github.com/openspug/spug)
 <!--END_SECTION:activity-->
