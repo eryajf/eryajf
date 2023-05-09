@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#209](https://github.com/eryajf/go-ldap-admin/pull/209) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 💪 Opened PR [#209](https://github.com/eryajf/go-ldap-admin/pull/209) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🎉 Merged PR [#208](https://github.com/eryajf/go-ldap-admin/pull/208) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 💪 Opened PR [#208](https://github.com/eryajf/go-ldap-admin/pull/208) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#496](https://github.com/ArtalkJS/Artalk/issues/496) in [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-6. 🗣 Commented on [#186](https://github.com/eryajf/go-ldap-admin/issues/186) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🎉 Merged PR [#46](https://github.com/eryajf/go-ldap-admin-ui/pull/46) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+2. 💪 Opened PR [#46](https://github.com/eryajf/go-ldap-admin-ui/pull/46) in [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)
+3. 🎉 Merged PR [#209](https://github.com/eryajf/go-ldap-admin/pull/209) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 💪 Opened PR [#209](https://github.com/eryajf/go-ldap-admin/pull/209) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🎉 Merged PR [#208](https://github.com/eryajf/go-ldap-admin/pull/208) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 💪 Opened PR [#208](https://github.com/eryajf/go-ldap-admin/pull/208) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
