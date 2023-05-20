@@ -110,17 +110,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第105期-2023年第18周](https://wiki.eryajf.net/pages/215c5b/) 
+- 🐻 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) 
 
-- 🎃 [学习周刊-总第104期-2023年第17周](https://wiki.eryajf.net/pages/19d76d/) 
+- 🎃 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) 
 
-- 🚀 [Mac 电脑中 zsh 环境下配置 docker 命令自动补全](https://wiki.eryajf.net/pages/7220b1/) 
+- 🚀 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) 
 
-- 🌋 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) 
+- 🌋 [博客与开源帮我找到工作](https://wiki.eryajf.net/pages/36303e/) 
 
-- 🌁 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) 
+- 🌁 [学习周刊-总第106期-2023年第19周](https://wiki.eryajf.net/pages/56968a/) 
 
-- 😺 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) 
+- 😺 [学习周刊-总第105期-2023年第18周](https://wiki.eryajf.net/pages/215c5b/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
