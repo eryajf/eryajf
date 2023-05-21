@@ -110,17 +110,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) 
+- 🐻 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) 
 
-- 🎃 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) 
+- 🎃 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) 
 
-- 🚀 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) 
+- 🚀 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) 
 
-- 🌋 [博客与开源帮我找到工作](https://wiki.eryajf.net/pages/36303e/) 
+- 🌋 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) 
 
-- 🌁 [学习周刊-总第106期-2023年第19周](https://wiki.eryajf.net/pages/56968a/) 
+- 🌁 [博客与开源帮我找到工作](https://wiki.eryajf.net/pages/36303e/) 
 
-- 😺 [学习周刊-总第105期-2023年第18周](https://wiki.eryajf.net/pages/215c5b/) 
+- 😺 [学习周刊-总第106期-2023年第19周](https://wiki.eryajf.net/pages/56968a/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
