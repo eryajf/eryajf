@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24509](https://github.com/metersphere/metersphere/issues/24509) in [metersphere/metersphere](https://github.com/metersphere/metersphere)
-2. ❗️ Opened issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-3. 🗣 Commented on [#216](https://github.com/eryajf/go-ldap-admin/issues/216) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#215](https://github.com/eryajf/go-ldap-admin/issues/215) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#214](https://github.com/eryajf/go-ldap-admin/issues/214) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#211](https://github.com/eryajf/go-ldap-admin/issues/211) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗️ Closed issue [#24509](https://github.com/metersphere/metersphere/issues/24509) in [metersphere/metersphere](https://github.com/metersphere/metersphere)
+2. 🗣 Commented on [#24509](https://github.com/metersphere/metersphere/issues/24509) in [metersphere/metersphere](https://github.com/metersphere/metersphere)
+3. ❗️ Opened issue [#24509](https://github.com/metersphere/metersphere/issues/24509) in [metersphere/metersphere](https://github.com/metersphere/metersphere)
+4. ❗️ Opened issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+5. 🗣 Commented on [#216](https://github.com/eryajf/go-ldap-admin/issues/216) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#215](https://github.com/eryajf/go-ldap-admin/issues/215) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
