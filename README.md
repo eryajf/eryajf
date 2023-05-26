@@ -137,12 +137,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-2. 🗣 Commented on [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-3. ❗️ Closed issue [#67](https://github.com/open-tdp/tdp-cloud/issues/67) in [open-tdp/tdp-cloud](https://github.com/open-tdp/tdp-cloud)
-4. 🗣 Commented on [#67](https://github.com/open-tdp/tdp-cloud/issues/67) in [open-tdp/tdp-cloud](https://github.com/open-tdp/tdp-cloud)
-5. ❗️ Opened issue [#67](https://github.com/open-tdp/tdp-cloud/issues/67) in [open-tdp/tdp-cloud](https://github.com/open-tdp/tdp-cloud)
-6. 🎉 Merged PR [#230](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/230) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. ❗️ Closed issue [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🗣 Commented on [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. ❗️ Closed issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+4. 🗣 Commented on [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+5. ❗️ Closed issue [#67](https://github.com/open-tdp/tdp-cloud/issues/67) in [open-tdp/tdp-cloud](https://github.com/open-tdp/tdp-cloud)
+6. 🗣 Commented on [#67](https://github.com/open-tdp/tdp-cloud/issues/67) in [open-tdp/tdp-cloud](https://github.com/open-tdp/tdp-cloud)
 <!--END_SECTION:activity-->
 
 </td>
