@@ -110,17 +110,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) 
+- 🐻 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) 
 
-- 🎃 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) 
+- 🎃 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) 
 
-- 🚀 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) 
+- 🚀 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) 
 
-- 🌋 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) 
+- 🌋 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) 
 
-- 🌁 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) 
+- 🌁 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) 
 
-- 😺 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) 
+- 😺 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
