@@ -138,11 +138,11 @@ width="800"  height="3">
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. ❗️ Closed issue [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🗣 Commented on [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. ❗️ Closed issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-6. 🗣 Commented on [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+2. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. ❗️ Closed issue [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 🗣 Commented on [#229](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/229) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. ❗️ Closed issue [#3](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/3) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
 <!--END_SECTION:activity-->
 
 </td>
