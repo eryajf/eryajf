@@ -100,6 +100,8 @@ width="800"  height="3">
 | [emotion_generate](https://github.com/eryajf/emotion_generate) | ![](https://img.shields.io/github/stars/eryajf/emotion_generate?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/emotion_generate?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Artalk评论系统的表情包  |
 | [awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) | ![](https://img.shields.io/github/stars/eryajf/awesome-chatgpt-answer?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-chatgpt-answer?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙋 问得好，🗣 答得妙。  |
 | [eryajf-dockerfile](https://github.com/eryajf/eryajf-dockerfile) | ![](https://img.shields.io/github/stars/eryajf/eryajf-dockerfile?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf-dockerfile?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🏺 个人常用的Docker镜像汇总  |
+| [eryajfctl](https://github.com/eryajf/eryajfctl) | ![](https://img.shields.io/github/stars/eryajf/eryajfctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajfctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰  |
+
 
 
 ### 📝 博客最近更新
@@ -110,17 +112,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) 
+- 🐻 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/)
 
-- 🎃 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) 
+- 🎃 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/)
 
-- 🚀 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) 
+- 🚀 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/)
 
-- 🌋 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) 
+- 🌋 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/)
 
-- 🌁 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) 
+- 🌁 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/)
 
-- 😺 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) 
+- 😺 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
