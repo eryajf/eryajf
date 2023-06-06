@@ -139,10 +139,10 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/eryajf/learning-weekly/pull/22) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-2. 🔒 Closed issue [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. 🗣 Commented on [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🗣 Commented on [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. 🗣 Commented on [#2](https://github.com/eryajf/read-list/issues/2) in [eryajf/read-list](https://github.com/eryajf/read-list)
+2. 🎉 Merged PR [#22](https://github.com/eryajf/learning-weekly/pull/22) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+3. 🔒 Closed issue [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🗣 Commented on [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 5. 🗣 Commented on [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 6. 🗣 Commented on [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
