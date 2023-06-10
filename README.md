@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
-2. 🗣 Commented on [#2](https://github.com/eryajf/read-list/issues/2) in [eryajf/read-list](https://github.com/eryajf/read-list)
-3. 🎉 Merged PR [#22](https://github.com/eryajf/learning-weekly/pull/22) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-4. 🔒 Closed issue [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 🗣 Commented on [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🗣 Commented on [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. 🗣 Commented on [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+2. ❗ Opened issue [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+3. 🗣 Commented on [#2](https://github.com/eryajf/read-list/issues/2) in [eryajf/read-list](https://github.com/eryajf/read-list)
+4. 🎉 Merged PR [#22](https://github.com/eryajf/learning-weekly/pull/22) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+5. 🔒 Closed issue [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🗣 Commented on [#233](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/233) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
