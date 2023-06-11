@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/241) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-2. 🔒 Closed issue [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. 🗣 Commented on [#220](https://github.com/eryajf/go-ldap-admin/issues/220) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
-5. 🗣 Commented on [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
-6. ❗ Opened issue [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+1. 🎉 Merged PR [#242](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/242) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 💪 Opened PR [#242](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/242) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 🗣 Commented on [#241](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/241) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🔒 Closed issue [#240](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/240) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 🗣 Commented on [#220](https://github.com/eryajf/go-ldap-admin/issues/220) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#4519](https://github.com/jaegertracing/jaeger/issues/4519) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 <!--END_SECTION:activity-->
 
 </td>
