@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/eryajf/go-ldap-admin/issues/222) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#247](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/247) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 2. 🗣 Commented on [#222](https://github.com/eryajf/go-ldap-admin/issues/222) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 3. 🗣 Commented on [#222](https://github.com/eryajf/go-ldap-admin/issues/222) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#243](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/243) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🗣 Commented on [#222](https://github.com/eryajf/go-ldap-admin/issues/222) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 5. 🗣 Commented on [#243](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/243) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🎉 Merged PR [#245](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/245) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🗣 Commented on [#243](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/243) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
