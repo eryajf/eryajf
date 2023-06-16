@@ -112,17 +112,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) 
+- 🐻 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) 
 
-- 🎃 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) 
+- 🎃 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) 
 
-- 🚀 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) 
+- 🚀 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) 
 
-- 🌋 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) 
+- 🌋 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) 
 
-- 🌁 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) 
+- 🌁 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) 
 
-- 😺 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) 
+- 😺 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
