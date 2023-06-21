@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-2. ❌ Reopened PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. ❌ Closed PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🎉 Merged PR [#256](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/256) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 💪 Opened PR [#256](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/256) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🗣 Commented on [#223](https://github.com/eryajf/go-ldap-admin/issues/223) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🎉 Merged PR [#258](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/258) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 💪 Opened PR [#258](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/258) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 🗣 Commented on [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. ❌ Reopened PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. ❌ Closed PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🎉 Merged PR [#256](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/256) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
