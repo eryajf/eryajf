@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#308](https://github.com/eryajf/Thanks-Mirror/issues/308) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-2. 🔒 Closed issue [#307](https://github.com/eryajf/Thanks-Mirror/issues/307) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-3. 🔒 Closed issue [#306](https://github.com/eryajf/Thanks-Mirror/issues/306) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-4. 🔒 Closed issue [#303](https://github.com/eryajf/Thanks-Mirror/issues/303) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-5. 🔒 Closed issue [#300](https://github.com/eryajf/Thanks-Mirror/issues/300) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-6. 🔒 Closed issue [#305](https://github.com/eryajf/Thanks-Mirror/issues/305) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+1. 🗣 Commented on [#250](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/250) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🔒 Closed issue [#308](https://github.com/eryajf/Thanks-Mirror/issues/308) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+3. 🔒 Closed issue [#307](https://github.com/eryajf/Thanks-Mirror/issues/307) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+4. 🔒 Closed issue [#306](https://github.com/eryajf/Thanks-Mirror/issues/306) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+5. 🔒 Closed issue [#303](https://github.com/eryajf/Thanks-Mirror/issues/303) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+6. 🔒 Closed issue [#300](https://github.com/eryajf/Thanks-Mirror/issues/300) in [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 <!--END_SECTION:activity-->
 
 </td>
