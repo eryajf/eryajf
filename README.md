@@ -139,12 +139,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/pddzl/kubefish/issues/1) in [pddzl/kubefish](https://github.com/pddzl/kubefish)
-2. 🗣 Commented on [#229](https://github.com/eryajf/go-ldap-admin/issues/229) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🔒 Closed issue [#950](https://github.com/eryajf/eryajf.github.io/issues/950) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
-4. 🗣 Commented on [#950](https://github.com/eryajf/eryajf.github.io/issues/950) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+1. ❌ Closed PR [#10](https://github.com/ffinly/dingtalk-OpenAI/pull/10) in [ffinly/dingtalk-OpenAI](https://github.com/ffinly/dingtalk-OpenAI)
+2. 🎉 Merged PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 💪 Opened PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. ❗ Opened issue [#1](https://github.com/pddzl/kubefish/issues/1) in [pddzl/kubefish](https://github.com/pddzl/kubefish)
 5. 🗣 Commented on [#229](https://github.com/eryajf/go-ldap-admin/issues/229) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#228](https://github.com/eryajf/go-ldap-admin/issues/228) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🔒 Closed issue [#950](https://github.com/eryajf/eryajf.github.io/issues/950) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
 <!--END_SECTION:activity-->
 
 </td>
