@@ -102,6 +102,7 @@ width="800"  height="3">
 | [eryajf-dockerfile](https://github.com/eryajf/eryajf-dockerfile) | ![](https://img.shields.io/github/stars/eryajf/eryajf-dockerfile?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf-dockerfile?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🏺 个人常用的Docker镜像汇总  |
 | [eryajfctl](https://github.com/eryajf/eryajfctl) | ![](https://img.shields.io/github/stars/eryajf/eryajfctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajfctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰  |
 | [cloudctl](https://github.com/eryajf/cloudctl) | ![](https://img.shields.io/github/stars/eryajf/cloudctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloudctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 与公有云等交互的命令行工具 🧰  |
+| [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
 
 
 ### 📝 博客最近更新
@@ -112,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) 
+- 🐻 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/)
 
-- 🎃 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/) 
+- 🎃 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/)
 
-- 🚀 [最近开源的两个项目-获取腾讯云CLS日志费用预估](https://wiki.eryajf.net/pages/1b6f63/) 
+- 🚀 [最近开源的两个项目-获取腾讯云CLS日志费用预估](https://wiki.eryajf.net/pages/1b6f63/)
 
-- 🌋 [企业微信自建应用-golang校验回调](https://wiki.eryajf.net/pages/95d127/) 
+- 🌋 [企业微信自建应用-golang校验回调](https://wiki.eryajf.net/pages/95d127/)
 
-- 🌁 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) 
+- 🌁 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/)
 
-- 😺 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) 
+- 😺 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
