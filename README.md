@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/46) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🎉 Merged PR [#23](https://github.com/eryajf/tu/pull/23) in [eryajf/tu](https://github.com/eryajf/tu)
-3. ❌ Closed PR [#10](https://github.com/ffinly/dingtalk-OpenAI/pull/10) in [ffinly/dingtalk-OpenAI](https://github.com/ffinly/dingtalk-OpenAI)
-4. 🎉 Merged PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 💪 Opened PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. ❗ Opened issue [#1](https://github.com/pddzl/kubefish/issues/1) in [pddzl/kubefish](https://github.com/pddzl/kubefish)
+1. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+2. ❌ Closed PR [#46](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/46) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🎉 Merged PR [#23](https://github.com/eryajf/tu/pull/23) in [eryajf/tu](https://github.com/eryajf/tu)
+4. ❌ Closed PR [#10](https://github.com/ffinly/dingtalk-OpenAI/pull/10) in [ffinly/dingtalk-OpenAI](https://github.com/ffinly/dingtalk-OpenAI)
+5. 🎉 Merged PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 💪 Opened PR [#268](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/268) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
