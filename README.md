@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues/77) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-3. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-4. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-5. ❌ Closed PR [#46](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/46) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. 🎉 Merged PR [#23](https://github.com/eryajf/tu/pull/23) in [eryajf/tu](https://github.com/eryajf/tu)
+1. 🎉 Merged PR [#273](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/273) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. ❌ Closed PR [#271](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/271) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. ❌ Closed PR [#269](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/269) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. ❌ Closed PR [#267](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/267) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. ❌ Closed PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🎉 Merged PR [#272](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/272) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
