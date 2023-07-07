@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+1. 🗣 Commented on [#77](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues/77) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 2. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
 3. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-4. ❌ Closed PR [#46](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/46) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-5. 🎉 Merged PR [#23](https://github.com/eryajf/tu/pull/23) in [eryajf/tu](https://github.com/eryajf/tu)
-6. ❌ Closed PR [#10](https://github.com/ffinly/dingtalk-OpenAI/pull/10) in [ffinly/dingtalk-OpenAI](https://github.com/ffinly/dingtalk-OpenAI)
+4. 🗣 Commented on [#1](https://github.com/eryajf/chatgpt-wecom/issues/1) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+5. ❌ Closed PR [#46](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/46) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+6. 🎉 Merged PR [#23](https://github.com/eryajf/tu/pull/23) in [eryajf/tu](https://github.com/eryajf/tu)
 <!--END_SECTION:activity-->
 
 </td>
