@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/274) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-2. 🎉 Merged PR [#273](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/273) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. ❌ Closed PR [#271](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/271) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. ❌ Closed PR [#269](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/269) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. ❌ Closed PR [#267](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/267) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. ❌ Closed PR [#255](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/255) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. 🎉 Merged PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+2. 💪 Opened PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+3. 🔒 Closed issue [#274](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/274) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🎉 Merged PR [#275](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/275) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 💪 Opened PR [#275](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/275) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🗣 Commented on [#274](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/274) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
