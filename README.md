@@ -141,11 +141,11 @@ width="800"  height="3">
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#231](https://github.com/eryajf/go-ldap-admin/issues/231) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-3. 💪 Opened PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
-4. 🔒 Closed issue [#274](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/274) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 🎉 Merged PR [#275](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/275) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 💪 Opened PR [#275](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/275) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🗣 Commented on [#231](https://github.com/eryajf/go-ldap-admin/issues/231) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🎉 Merged PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+4. 💪 Opened PR [#2](https://github.com/eryajf/chatgpt-wecom/pull/2) in [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom)
+5. 🔒 Closed issue [#274](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/274) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🎉 Merged PR [#275](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/275) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
