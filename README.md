@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/eryajf/go-ldap-admin/issues/233) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#234](https://github.com/eryajf/go-ldap-admin/issues/234) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 2. 🗣 Commented on [#233](https://github.com/eryajf/go-ldap-admin/issues/233) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#232](https://github.com/eryajf/go-ldap-admin/issues/232) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. ❗ Opened issue [#3261](https://github.com/ruanyf/weekly/issues/3261) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-5. 🎉 Merged PR [#80](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/80) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-6. 🎉 Merged PR [#79](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/79) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+3. 🗣 Commented on [#233](https://github.com/eryajf/go-ldap-admin/issues/233) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#232](https://github.com/eryajf/go-ldap-admin/issues/232) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. ❗ Opened issue [#3261](https://github.com/ruanyf/weekly/issues/3261) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+6. 🎉 Merged PR [#80](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/80) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 </td>
