@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) 
+- 🐻 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) 
 
-- 🎃 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) 
+- 🎃 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) 
 
-- 🚀 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) 
+- 🚀 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) 
 
-- 🌋 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) 
+- 🌋 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) 
 
-- 🌁 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) 
+- 🌁 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) 
 
-- 😺 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/) 
+- 😺 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
