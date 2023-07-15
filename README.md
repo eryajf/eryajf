@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) 
+- 🐻 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) 
 
-- 🎃 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) 
+- 🎃 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) 
 
-- 🚀 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) 
+- 🚀 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) 
 
-- 🌋 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) 
+- 🌋 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) 
 
-- 🌁 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) 
+- 🌁 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) 
 
-- 😺 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) 
+- 😺 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
