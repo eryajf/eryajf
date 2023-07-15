@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#474](https://github.com/kubegems/kubegems/issues/474) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
-2. 🗣 Commented on [#474](https://github.com/kubegems/kubegems/issues/474#issuecomment-1636703029) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
-3. ❗ Opened issue [#474](https://github.com/kubegems/kubegems/issues/474) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
-4. 🗣 Commented on [#236](https://github.com/eryajf/go-ldap-admin/issues/236#issuecomment-1636693342) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#230](https://github.com/eryajf/go-ldap-admin/pull/230#issuecomment-1636691173) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#236](https://github.com/eryajf/go-ldap-admin/issues/236#issuecomment-1636691072) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🔒 Closed issue [#236](https://github.com/eryajf/go-ldap-admin/issues/236) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#236](https://github.com/eryajf/go-ldap-admin/issues/236#issuecomment-1636719848) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🔒 Closed issue [#474](https://github.com/kubegems/kubegems/issues/474) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
+4. 🗣 Commented on [#474](https://github.com/kubegems/kubegems/issues/474#issuecomment-1636703029) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
+5. ❗ Opened issue [#474](https://github.com/kubegems/kubegems/issues/474) in [kubegems/kubegems](https://github.com/kubegems/kubegems)
+6. 🗣 Commented on [#236](https://github.com/eryajf/go-ldap-admin/issues/236#issuecomment-1636693342) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
