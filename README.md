@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) 
+- 🐻 [处男嗬](https://wiki.eryajf.net/pages/5f7f94/) 
 
-- 🎃 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) 
+- 🎃 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) 
 
-- 🚀 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) 
+- 🚀 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) 
 
-- 🌋 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) 
+- 🌋 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) 
 
-- 🌁 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) 
+- 🌁 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) 
 
-- 😺 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) 
+- 😺 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
