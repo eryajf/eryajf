@@ -103,6 +103,7 @@ width="800"  height="3">
 | [eryajfctl](https://github.com/eryajf/eryajfctl) | ![](https://img.shields.io/github/stars/eryajf/eryajfctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajfctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰  |
 | [cloudctl](https://github.com/eryajf/cloudctl) | ![](https://img.shields.io/github/stars/eryajf/cloudctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloudctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 与公有云等交互的命令行工具 🧰  |
 | [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
+| [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
 
 
 ### 📝 博客最近更新
@@ -113,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) 
+- 🐻 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/)
 
-- 🎃 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) 
+- 🎃 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/)
 
-- 🚀 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/) 
+- 🚀 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/)
 
-- 🌋 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/) 
+- 🌋 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/)
 
-- 🌁 [我这只哑了的公鸡](https://wiki.eryajf.net/pages/fe3ce7/) 
+- 🌁 [我这只哑了的公鸡](https://wiki.eryajf.net/pages/fe3ce7/)
 
-- 😺 [学习周刊-总第118期-2023年第31周](https://wiki.eryajf.net/pages/30d344/) 
+- 😺 [学习周刊-总第118期-2023年第31周](https://wiki.eryajf.net/pages/30d344/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
