@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/remotely-save/remotely-save/issues/285#issuecomment-1691748577) in [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
-2. 🗣 Commented on [#249](https://github.com/eryajf/go-ldap-admin/issues/249#issuecomment-1683228637) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#248](https://github.com/eryajf/go-ldap-admin/issues/248#issuecomment-1682227786) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#248](https://github.com/eryajf/go-ldap-admin/issues/248#issuecomment-1681687729) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#247](https://github.com/eryajf/go-ldap-admin/issues/247#issuecomment-1680313848) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#246](https://github.com/eryajf/go-ldap-admin/issues/246#issuecomment-1680097819) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+2. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+3. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+4. 🗣 Commented on [#285](https://github.com/remotely-save/remotely-save/issues/285#issuecomment-1691748577) in [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
+5. 🗣 Commented on [#249](https://github.com/eryajf/go-ldap-admin/issues/249#issuecomment-1683228637) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#248](https://github.com/eryajf/go-ldap-admin/issues/248#issuecomment-1682227786) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
