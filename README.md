@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3436](https://github.com/ruanyf/weekly/issues/3436) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+1. 🎉 Merged PR [#24](https://github.com/eryajf/tu/pull/24) in [eryajf/tu](https://github.com/eryajf/tu)
+2. ❗ Opened issue [#3436](https://github.com/ruanyf/weekly/issues/3436) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 3. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
 4. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
-5. 🗣 Commented on [#285](https://github.com/remotely-save/remotely-save/issues/285#issuecomment-1691748577) in [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
-6. 🗣 Commented on [#249](https://github.com/eryajf/go-ldap-admin/issues/249#issuecomment-1683228637) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🚀 Published release [🎉 v0.0.1 - 2023-09-01](https://github.com/eryajf/gitlabCodeSearch/releases/tag/v0.0.1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+6. 🗣 Commented on [#285](https://github.com/remotely-save/remotely-save/issues/285#issuecomment-1691748577) in [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
 <!--END_SECTION:activity-->
 
 </td>
