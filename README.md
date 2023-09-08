@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/eryajf/gitlabCodeSearch/issues/1#issuecomment-1711117534) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
-2. 🗣 Commented on [#283](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/283#issuecomment-1710319225) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-3. 🎉 Merged PR [#284](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/284) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🎉 Merged PR [#282](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/282) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 🗣 Commented on [#250](https://github.com/eryajf/go-ldap-admin/issues/250#issuecomment-1706586682) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#250](https://github.com/eryajf/go-ldap-admin/issues/250#issuecomment-1706011298) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗ Opened issue [#238](https://github.com/vuepress-reco/vuepress-theme-reco/issues/238) in [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco)
+2. 🗣 Commented on [#1](https://github.com/eryajf/gitlabCodeSearch/issues/1#issuecomment-1711117534) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+3. 🗣 Commented on [#283](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/283#issuecomment-1710319225) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🎉 Merged PR [#284](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/284) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 🎉 Merged PR [#282](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/282) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🗣 Commented on [#250](https://github.com/eryajf/go-ldap-admin/issues/250#issuecomment-1706586682) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
