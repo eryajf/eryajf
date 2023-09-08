@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) 
+- 🐻 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) 
 
-- 🎃 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) 
+- 🎃 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) 
 
-- 🚀 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) 
+- 🚀 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) 
 
-- 🌋 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) 
+- 🌋 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) 
 
-- 🌁 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/) 
+- 🌁 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) 
 
-- 😺 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/) 
+- 😺 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
