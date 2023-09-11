@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/eryajf/go-ldap-admin/issues/251#issuecomment-1713378014) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🔒 Closed issue [#1](https://github.com/eryajf/gitlabCodeSearch/issues/1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
-3. 🎉 Merged PR [#25](https://github.com/eryajf/tu/pull/25) in [eryajf/tu](https://github.com/eryajf/tu)
-4. 🔒 Closed issue [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-5. 🗣 Commented on [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43#issuecomment-1711243518) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-6. ❗ Opened issue [#238](https://github.com/vuepress-reco/vuepress-theme-reco/issues/238) in [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco)
+1. 🗣 Commented on [#251](https://github.com/eryajf/go-ldap-admin/issues/251#issuecomment-1713513344) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#251](https://github.com/eryajf/go-ldap-admin/issues/251#issuecomment-1713378014) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🔒 Closed issue [#1](https://github.com/eryajf/gitlabCodeSearch/issues/1) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+4. 🎉 Merged PR [#25](https://github.com/eryajf/tu/pull/25) in [eryajf/tu](https://github.com/eryajf/tu)
+5. 🔒 Closed issue [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+6. 🗣 Commented on [#43](https://github.com/eryajf/HowToStartOpenSource/issues/43#issuecomment-1711243518) in [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 <!--END_SECTION:activity-->
 
 </td>
