@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) 
+- 🐻 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) 
 
-- 🎃 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) 
+- 🎃 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) 
 
-- 🚀 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) 
+- 🚀 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) 
 
-- 🌋 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) 
+- 🌋 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) 
 
-- 🌁 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) 
+- 🌁 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) 
 
-- 😺 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) 
+- 😺 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
