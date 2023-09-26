@@ -52,9 +52,9 @@ width="800"  height="3">
 
 [![二丫讲梵's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
-[![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)
+<!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
+[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 
@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) 
+- 🐻 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/)
 
-- 🎃 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) 
+- 🎃 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/)
 
-- 🚀 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) 
+- 🚀 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/)
 
-- 🌋 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) 
+- 🌋 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/)
 
-- 🌁 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) 
+- 🌁 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/)
 
-- 😺 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) 
+- 😺 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
