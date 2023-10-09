@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#255](https://github.com/eryajf/go-ldap-admin/issues/255#issuecomment-1751691509) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#255](https://github.com/eryajf/go-ldap-admin/issues/255#issuecomment-1751616482) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1748644437) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
-4. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1741933880) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
-5. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1741933643) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
-6. 🗣 Commented on [#7](https://github.com/terwer/vuepress-plugin-vdoing-comment/issues/7#issuecomment-1740235678) in [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment)
+1. 🎉 Merged PR [#29](https://github.com/eryajf/tu/pull/29) in [eryajf/tu](https://github.com/eryajf/tu)
+2. 🗣 Commented on [#255](https://github.com/eryajf/go-ldap-admin/issues/255#issuecomment-1751691509) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#255](https://github.com/eryajf/go-ldap-admin/issues/255#issuecomment-1751616482) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1748644437) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
+5. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1741933880) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
+6. 🗣 Commented on [#177](https://github.com/xen0n/go-workwx/pull/177#issuecomment-1741933643) in [xen0n/go-workwx](https://github.com/xen0n/go-workwx)
 <!--END_SECTION:activity-->
 
 </td>
