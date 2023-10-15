@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) 
+- 🐻 [再叹校运动会](https://wiki.eryajf.net/pages/d9fc78/) 
 
-- 🎃 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) 
+- 🎃 [由校运动会想到的](https://wiki.eryajf.net/pages/4de38d/) 
 
-- 🚀 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) 
+- 🚀 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) 
 
-- 🌋 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) 
+- 🌋 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) 
 
-- 🌁 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) 
+- 🌁 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) 
 
-- 😺 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) 
+- 😺 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
