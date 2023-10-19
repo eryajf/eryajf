@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#261](https://github.com/eryajf/go-ldap-admin/pull/261#issuecomment-1764223087) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🎉 Merged PR [#30](https://github.com/eryajf/tu/pull/30) in [eryajf/tu](https://github.com/eryajf/tu)
-3. 🎉 Merged PR [#259](https://github.com/eryajf/go-ldap-admin/pull/259) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🔒 Closed issue [#255](https://github.com/eryajf/go-ldap-admin/issues/255) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 💪 Opened PR [#259](https://github.com/eryajf/go-ldap-admin/pull/259) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#257](https://github.com/eryajf/go-ldap-admin/pull/257#issuecomment-1763244022) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 💪 Opened PR [#263](https://github.com/eryajf/go-ldap-admin/pull/263) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🎉 Merged PR [#262](https://github.com/eryajf/go-ldap-admin/pull/262) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 💪 Opened PR [#262](https://github.com/eryajf/go-ldap-admin/pull/262) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#261](https://github.com/eryajf/go-ldap-admin/pull/261) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#261](https://github.com/eryajf/go-ldap-admin/pull/261#issuecomment-1764223087) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🎉 Merged PR [#30](https://github.com/eryajf/tu/pull/30) in [eryajf/tu](https://github.com/eryajf/tu)
 <!--END_SECTION:activity-->
 
 </td>
