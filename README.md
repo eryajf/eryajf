@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14#issuecomment-1772226247) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772115059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🎉 Merged PR [#263](https://github.com/eryajf/go-ldap-admin/pull/263) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🚀 Published release [v0.5.11 2023-10-19 🌈](https://github.com/eryajf/go-ldap-admin/releases/tag/v0.5.11) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🔒 Closed issue [#251](https://github.com/eryajf/go-ldap-admin/issues/251) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#251](https://github.com/eryajf/go-ldap-admin/issues/251#issuecomment-1771073799) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772364949) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772351591) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14#issuecomment-1772226247) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772115059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🎉 Merged PR [#263](https://github.com/eryajf/go-ldap-admin/pull/263) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🚀 Published release [v0.5.11 2023-10-19 🌈](https://github.com/eryajf/go-ldap-admin/releases/tag/v0.5.11) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
