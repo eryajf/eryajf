@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772398444) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772364949) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772351591) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14#issuecomment-1772226247) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772115059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#263](https://github.com/eryajf/go-ldap-admin/pull/263) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#266](https://github.com/eryajf/go-ldap-admin/issues/266#issuecomment-1776656655) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772398444) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772364949) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772351591) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#14](https://github.com/eryajf/go-ldap-admin/issues/14#issuecomment-1772226247) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#265](https://github.com/eryajf/go-ldap-admin/issues/265#issuecomment-1772115059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
