@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207#issuecomment-1787233059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#268](https://github.com/eryajf/go-ldap-admin/issues/268#issuecomment-1787231281) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#268](https://github.com/eryajf/go-ldap-admin/issues/268#issuecomment-1783826124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#1296](https://github.com/hhyo/Archery/issues/1296#issuecomment-1779053719) in [hhyo/Archery](https://github.com/hhyo/Archery)
-5. 🗣 Commented on [#267](https://github.com/eryajf/go-ldap-admin/issues/267#issuecomment-1778853706) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#286](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/286#issuecomment-1778605684) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+1. 🔒 Closed issue [#288](https://github.com/ConnectAI-E/Dingtalk-OpenAI/issues/288) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🗣 Commented on [#207](https://github.com/eryajf/go-ldap-admin/issues/207#issuecomment-1787233059) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#268](https://github.com/eryajf/go-ldap-admin/issues/268#issuecomment-1787231281) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#268](https://github.com/eryajf/go-ldap-admin/issues/268#issuecomment-1783826124) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#1296](https://github.com/hhyo/Archery/issues/1296#issuecomment-1779053719) in [hhyo/Archery](https://github.com/hhyo/Archery)
+6. 🗣 Commented on [#267](https://github.com/eryajf/go-ldap-admin/issues/267#issuecomment-1778853706) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
