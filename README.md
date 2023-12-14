@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) 
+- 🐻 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) 
 
-- 🎃 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) 
+- 🎃 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) 
 
-- 🚀 [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/) 
+- 🚀 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) 
 
-- 🌋 [单身的我想哭](https://wiki.eryajf.net/pages/ca6662/) 
+- 🌋 [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/) 
 
-- 🌁 [非诚勿扰-妈妈-我](https://wiki.eryajf.net/pages/12fee1/) 
+- 🌁 [单身的我想哭](https://wiki.eryajf.net/pages/ca6662/) 
 
-- 😺 [学习周刊-总第134期-2023年第47周](https://wiki.eryajf.net/pages/46dc19/) 
+- 😺 [非诚勿扰-妈妈-我](https://wiki.eryajf.net/pages/12fee1/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
