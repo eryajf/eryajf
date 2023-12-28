@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/eryajf/go-ldap-admin-doc/pull/3) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
-2. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869560330) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869177646) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#295](https://github.com/eryajf/go-ldap-admin/issues/295#issuecomment-1868811919) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#189](https://github.com/1Panel-dev/KubePi/issues/189#issuecomment-1868705326) in [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
-6. 🔒 Closed issue [#294](https://github.com/eryajf/go-ldap-admin/issues/294) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#27](https://github.com/eryajf/learning-weekly/issues/27#issuecomment-1871230024) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+2. 🔒 Closed issue [#27](https://github.com/eryajf/learning-weekly/issues/27) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+3. 🗣 Commented on [#221](https://github.com/eryajf/go-ldap-admin/issues/221#issuecomment-1871221648) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#3](https://github.com/eryajf/go-ldap-admin-doc/pull/3) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
+5. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869560330) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869177646) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
