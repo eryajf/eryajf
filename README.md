@@ -140,12 +140,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/eryajf/learning-weekly/issues/27#issuecomment-1871230024) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-2. 🔒 Closed issue [#27](https://github.com/eryajf/learning-weekly/issues/27) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
-3. 🗣 Commented on [#221](https://github.com/eryajf/go-ldap-admin/issues/221#issuecomment-1871221648) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#3](https://github.com/eryajf/go-ldap-admin-doc/pull/3) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
-5. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869560330) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869177646) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🗣 Commented on [#278](https://github.com/eryajf/go-ldap-admin/issues/278#issuecomment-1871929323) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#27](https://github.com/eryajf/learning-weekly/issues/27#issuecomment-1871230024) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+3. 🔒 Closed issue [#27](https://github.com/eryajf/learning-weekly/issues/27) in [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)
+4. 🗣 Commented on [#221](https://github.com/eryajf/go-ldap-admin/issues/221#issuecomment-1871221648) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🎉 Merged PR [#3](https://github.com/eryajf/go-ldap-admin-doc/pull/3) in [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc)
+6. 🗣 Commented on [#296](https://github.com/eryajf/go-ldap-admin/issues/296#issuecomment-1869560330) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
