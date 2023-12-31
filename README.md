@@ -113,17 +113,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) 
+- 🐻 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) 
 
-- 🎃 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) 
+- 🎃 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) 
 
-- 🚀 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) 
+- 🚀 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) 
 
-- 🌋 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) 
+- 🌋 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) 
 
-- 🌁 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) 
+- 🌁 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) 
 
-- 😺 [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/) 
+- 😺 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
