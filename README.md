@@ -103,6 +103,7 @@ width="800"  height="3">
 | [cloudctl](https://github.com/eryajf/cloudctl) | ![](https://img.shields.io/github/stars/eryajf/cloudctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloudctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 与公有云等交互的命令行工具 🧰  |
 | [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
 | [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
+| [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
 
 
 ### 📝 博客最近更新
@@ -113,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) 
+- 🐻 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/)
 
-- 🎃 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) 
+- 🎃 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/)
 
-- 🚀 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) 
+- 🚀 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/)
 
-- 🌋 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) 
+- 🌋 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/)
 
-- 🌁 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) 
+- 🌁 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/)
 
-- 😺 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) 
+- 😺 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
