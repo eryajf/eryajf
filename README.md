@@ -120,7 +120,7 @@ width="800"  height="3">
 
 - 🚀 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) 
 
-- 🌋 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) 
+- 🌋 [npm install时报错Failed at the node-sass-4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) 
 
 - 🌁 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) 
 
