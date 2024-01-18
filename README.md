@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) 
+- 🐻 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) 
 
-- 🎃 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) 
+- 🎃 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) 
 
-- 🚀 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) 
+- 🚀 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) 
 
-- 🌋 [npm install时报错Failed at the node-sass-4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) 
+- 🌋 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) 
 
-- 🌁 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) 
+- 🌁 [npm install时报错Failed at the node-sass-4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) 
 
-- 😺 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) 
+- 😺 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
