@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/eryajf/awesome-ops/pull/10) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-2. 🎉 Merged PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-3. 💪 Opened PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-4. 🗣 Commented on [#302](https://github.com/eryajf/go-ldap-admin/issues/302#issuecomment-1901582451) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🔒 Closed issue [#302](https://github.com/eryajf/go-ldap-admin/issues/302) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#302](https://github.com/eryajf/go-ldap-admin/issues/302#issuecomment-1901514014) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🎉 Merged PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+2. 💪 Opened PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+3. 🎉 Merged PR [#10](https://github.com/eryajf/awesome-ops/pull/10) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+4. 🎉 Merged PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+5. 💪 Opened PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+6. 🗣 Commented on [#302](https://github.com/eryajf/go-ldap-admin/issues/302#issuecomment-1901582451) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
