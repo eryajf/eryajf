@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用Github Action自动检测项目中 yaml 或 json 的语法](https://wiki.eryajf.net/pages/dde9ca/) 
+- 🐻 [互联网公司工资保密，爱情中男女不看手机](https://wiki.eryajf.net/pages/9c526d/) 
 
-- 🎃 [2024年重磅开源项目 awesome-ops 已收录项目375个](https://wiki.eryajf.net/pages/9dfb86/) 
+- 🎃 [最近做运开岗位面试官的一些感想](https://wiki.eryajf.net/pages/091f20/) 
 
-- 🚀 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) 
+- 🚀 [利用Github Action自动检测项目中 yaml 或 json 的语法](https://wiki.eryajf.net/pages/dde9ca/) 
 
-- 🌋 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) 
+- 🌋 [2024年重磅开源项目 awesome-ops 已收录项目375个](https://wiki.eryajf.net/pages/9dfb86/) 
 
-- 🌁 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) 
+- 🌁 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) 
 
-- 😺 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) 
+- 😺 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
