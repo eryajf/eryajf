@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/eryajf/awesome-ops/pull/12) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-2. 🎉 Merged PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-3. 💪 Opened PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-4. 🎉 Merged PR [#10](https://github.com/eryajf/awesome-ops/pull/10) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-5. 🎉 Merged PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-6. 💪 Opened PR [#8](https://github.com/eryajf/awesome-ops/pull/8) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+1. 🎉 Merged PR [#13](https://github.com/eryajf/awesome-ops/pull/13) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+2. 💪 Opened PR [#13](https://github.com/eryajf/awesome-ops/pull/13) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+3. 🎉 Merged PR [#12](https://github.com/eryajf/awesome-ops/pull/12) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+4. 🎉 Merged PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+5. 💪 Opened PR [#11](https://github.com/eryajf/awesome-ops/pull/11) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+6. 🎉 Merged PR [#10](https://github.com/eryajf/awesome-ops/pull/10) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
 <!--END_SECTION:activity-->
 
 </td>
