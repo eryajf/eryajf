@@ -122,7 +122,7 @@ width="800"  height="3">
 
 - 🌋 [利用Github Action自动检测项目中 yaml 或 json 的语法](https://wiki.eryajf.net/pages/dde9ca/) 
 
-- 🌁 [2024年重磅开源项目 awesome-ops 已收录项目375个](https://wiki.eryajf.net/pages/9dfb86/) 
+- 🌁 [2024年重磅开源项目 awesome-ops 已收录项目411个](https://wiki.eryajf.net/pages/9dfb86/) 
 
 - 😺 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) 
 <!-- BLOG-POST-LIST:END -->
