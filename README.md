@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#45](https://github.com/saveweb/review-2023/issues/45) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
-2. ❗ Opened issue [#404](https://github.com/GitHubDaily/GitHubDaily/issues/404) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-3. ❗ Opened issue [#163](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo/issues/163) in [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
-4. ❗ Opened issue [#2682](https://github.com/521xueweihan/HelloGitHub/issues/2682) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-5. 🎉 Merged PR [#26](https://github.com/eryajf/awesome-ops/pull/26) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-6. 💪 Opened PR [#26](https://github.com/eryajf/awesome-ops/pull/26) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+1. 🗣 Commented on [#45](https://github.com/saveweb/review-2023/issues/45#issuecomment-1913800263) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
+2. 🔒 Closed issue [#45](https://github.com/saveweb/review-2023/issues/45) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
+3. ❗ Opened issue [#45](https://github.com/saveweb/review-2023/issues/45) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
+4. ❗ Opened issue [#404](https://github.com/GitHubDaily/GitHubDaily/issues/404) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+5. ❗ Opened issue [#163](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo/issues/163) in [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+6. ❗ Opened issue [#2682](https://github.com/521xueweihan/HelloGitHub/issues/2682) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
 </td>
