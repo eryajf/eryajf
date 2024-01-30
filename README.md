@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/eryajf/awesome-ops/pull/27) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-2. 🗣 Commented on [#27](https://github.com/eryajf/awesome-ops/pull/27#issuecomment-1914132004) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-3. 🗣 Commented on [#27](https://github.com/eryajf/awesome-ops/pull/27#issuecomment-1913998235) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-4. 🎉 Merged PR [#29](https://github.com/eryajf/awesome-ops/pull/29) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-5. 🗣 Commented on [#45](https://github.com/saveweb/review-2023/issues/45#issuecomment-1913800263) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
-6. 🔒 Closed issue [#45](https://github.com/saveweb/review-2023/issues/45) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
+1. 🗣 Commented on [#952](https://github.com/eryajf/eryajf.github.io/issues/952#issuecomment-1915990699) in [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)
+2. 🎉 Merged PR [#27](https://github.com/eryajf/awesome-ops/pull/27) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+3. 🗣 Commented on [#27](https://github.com/eryajf/awesome-ops/pull/27#issuecomment-1914132004) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+4. 🗣 Commented on [#27](https://github.com/eryajf/awesome-ops/pull/27#issuecomment-1913998235) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+5. 🎉 Merged PR [#29](https://github.com/eryajf/awesome-ops/pull/29) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+6. 🗣 Commented on [#45](https://github.com/saveweb/review-2023/issues/45#issuecomment-1913800263) in [saveweb/review-2023](https://github.com/saveweb/review-2023)
 <!--END_SECTION:activity-->
 
 </td>
