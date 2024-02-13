@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
-2. 💪 Opened PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
-3. ❗ Opened issue [#7](https://github.com/eryajf/xirang-ui/issues/7) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-4. 🎉 Merged PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-5. 💪 Opened PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-6. 🗣 Commented on [#241](https://github.com/eryajf/go-ldap-admin/issues/241#issuecomment-1926601877) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗ Opened issue [#4225](https://github.com/PanJiaChen/vue-element-admin/issues/4225) in [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+2. 🎉 Merged PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
+3. 💪 Opened PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
+4. ❗ Opened issue [#7](https://github.com/eryajf/xirang-ui/issues/7) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+5. 🎉 Merged PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+6. 💪 Opened PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
 <!--END_SECTION:activity-->
 
 </td>
