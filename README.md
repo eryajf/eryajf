@@ -114,17 +114,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) 
+- 🐻 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) 
 
-- 🎃 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) 
+- 🎃 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) 
 
-- 🚀 [学习周刊-总第143期-2024年第04周](https://wiki.eryajf.net/pages/9661a3/) 
+- 🚀 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) 
 
-- 🌋 [互联网公司工资保密，爱情中男女不看手机](https://wiki.eryajf.net/pages/9c526d/) 
+- 🌋 [学习周刊-总第143期-2024年第04周](https://wiki.eryajf.net/pages/9661a3/) 
 
-- 🌁 [最近做运开岗位面试官的一些感想](https://wiki.eryajf.net/pages/091f20/) 
+- 🌁 [互联网公司工资保密，爱情中男女不看手机](https://wiki.eryajf.net/pages/9c526d/) 
 
-- 😺 [利用Github Action自动检测项目中 yaml 或 json 的语法](https://wiki.eryajf.net/pages/dde9ca/) 
+- 😺 [最近做运开岗位面试官的一些感想](https://wiki.eryajf.net/pages/091f20/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
