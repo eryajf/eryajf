@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4225](https://github.com/PanJiaChen/vue-element-admin/issues/4225) in [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-2. 🎉 Merged PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
-3. 💪 Opened PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
-4. ❗ Opened issue [#7](https://github.com/eryajf/xirang-ui/issues/7) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-5. 🎉 Merged PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
-6. 💪 Opened PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+1. 🗣 Commented on [#191](https://github.com/yingDev/WGestures2-bugs/issues/191#issuecomment-1950995815) in [yingDev/WGestures2-bugs](https://github.com/yingDev/WGestures2-bugs)
+2. ❗ Opened issue [#4225](https://github.com/PanJiaChen/vue-element-admin/issues/4225) in [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+3. 🎉 Merged PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
+4. 💪 Opened PR [#7](https://github.com/eryajf/xirang/pull/7) in [eryajf/xirang](https://github.com/eryajf/xirang)
+5. ❗ Opened issue [#7](https://github.com/eryajf/xirang-ui/issues/7) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
+6. 🎉 Merged PR [#6](https://github.com/eryajf/xirang-ui/pull/6) in [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)
 <!--END_SECTION:activity-->
 
 </td>
