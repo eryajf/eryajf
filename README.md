@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/eryajf/go-ldap-admin/issues/285#issuecomment-1955834538) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#306](https://github.com/eryajf/go-ldap-admin/issues/306#issuecomment-1955831771) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#306](https://github.com/eryajf/go-ldap-admin/issues/306#issuecomment-1954357134) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#4225](https://github.com/PanJiaChen/vue-element-admin/issues/4225#issuecomment-1952585959) in [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-5. 🔒 Closed issue [#4225](https://github.com/PanJiaChen/vue-element-admin/issues/4225) in [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-6. 🎉 Merged PR [#8](https://github.com/eryajf/xirang/pull/8) in [eryajf/xirang](https://github.com/eryajf/xirang)
+1. 🚀 Published release [v0.5.16 2024-02-21 🌈](https://github.com/eryajf/go-ldap-admin/releases/tag/v0.5.16) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🔒 Closed issue [#291](https://github.com/eryajf/go-ldap-admin/issues/291) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🔒 Closed issue [#285](https://github.com/eryajf/go-ldap-admin/issues/285) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🎉 Merged PR [#307](https://github.com/eryajf/go-ldap-admin/pull/307) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🔒 Closed issue [#306](https://github.com/eryajf/go-ldap-admin/issues/306) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 💪 Opened PR [#307](https://github.com/eryajf/go-ldap-admin/pull/307) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
