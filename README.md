@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.16 2024-02-21 🌈](https://github.com/eryajf/go-ldap-admin/releases/tag/v0.5.16) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🔒 Closed issue [#291](https://github.com/eryajf/go-ldap-admin/issues/291) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🔒 Closed issue [#285](https://github.com/eryajf/go-ldap-admin/issues/285) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🎉 Merged PR [#307](https://github.com/eryajf/go-ldap-admin/pull/307) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🔒 Closed issue [#306](https://github.com/eryajf/go-ldap-admin/issues/306) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 💪 Opened PR [#307](https://github.com/eryajf/go-ldap-admin/pull/307) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🎉 Merged PR [#38](https://github.com/eryajf/awesome-ops/pull/38) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+2. 💪 Opened PR [#38](https://github.com/eryajf/awesome-ops/pull/38) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+3. 🚀 Published release [v0.5.16 2024-02-21 🌈](https://github.com/eryajf/go-ldap-admin/releases/tag/v0.5.16) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🔒 Closed issue [#291](https://github.com/eryajf/go-ldap-admin/issues/291) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🔒 Closed issue [#285](https://github.com/eryajf/go-ldap-admin/issues/285) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🎉 Merged PR [#307](https://github.com/eryajf/go-ldap-admin/pull/307) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
