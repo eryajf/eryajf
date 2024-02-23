@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/293) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-2. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960966038) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960819712) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960811403) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🎉 Merged PR [#37](https://github.com/eryajf/awesome-ops/pull/37) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-6. 🎉 Merged PR [#38](https://github.com/eryajf/awesome-ops/pull/38) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
+1. 🎉 Merged PR [#297](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/297) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+2. 🎉 Merged PR [#283](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/283) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+3. 🎉 Merged PR [#293](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/293) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+4. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960966038) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960819712) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+6. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960811403) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
