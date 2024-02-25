@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/eryajf/gitlabCodeSearch/pull/2) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
-2. 💪 Opened PR [#2](https://github.com/eryajf/gitlabCodeSearch/pull/2) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
-3. 🎉 Merged PR [#297](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/297) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-4. 🎉 Merged PR [#283](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/283) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-5. 🎉 Merged PR [#293](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/293) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
-6. 🗣 Commented on [#308](https://github.com/eryajf/go-ldap-admin/issues/308#issuecomment-1960966038) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. ❗ Opened issue [#39](https://github.com/mhkz/blog/issues/39) in [mhkz/blog](https://github.com/mhkz/blog)
+2. 🎉 Merged PR [#2](https://github.com/eryajf/gitlabCodeSearch/pull/2) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+3. 💪 Opened PR [#2](https://github.com/eryajf/gitlabCodeSearch/pull/2) in [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch)
+4. 🎉 Merged PR [#297](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/297) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+5. 🎉 Merged PR [#283](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/283) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+6. 🎉 Merged PR [#293](https://github.com/ConnectAI-E/Dingtalk-OpenAI/pull/293) in [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
 <!--END_SECTION:activity-->
 
 </td>
