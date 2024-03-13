@@ -141,12 +141,12 @@ width="800"  height="3">
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316](https://github.com/eryajf/go-ldap-admin/issues/316#issuecomment-1991251063) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1991052749) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1989727075) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 💪 Opened PR [#6201](https://github.com/alist-org/alist/pull/6201) in [alist-org/alist](https://github.com/alist-org/alist)
-5. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1988143937) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1988087375) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+1. 🔒 Closed issue [#315](https://github.com/eryajf/go-ldap-admin/issues/315) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+2. 🗣 Commented on [#316](https://github.com/eryajf/go-ldap-admin/issues/316#issuecomment-1991251063) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+3. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1991052749) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+4. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1989727075) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
+5. 💪 Opened PR [#6201](https://github.com/alist-org/alist/pull/6201) in [alist-org/alist](https://github.com/alist-org/alist)
+6. 🗣 Commented on [#315](https://github.com/eryajf/go-ldap-admin/issues/315#issuecomment-1988143937) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 <!--END_SECTION:activity-->
 
 </td>
