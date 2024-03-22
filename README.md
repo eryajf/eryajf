@@ -105,6 +105,8 @@ width="800"  height="3">
 | [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
 | [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
 
+</details>
+
 
 ### 📝 博客最近更新
 
@@ -114,73 +116,19 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) 
+- 🐻 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/)
 
-- 🎃 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) 
+- 🎃 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/)
 
-- 🚀 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) 
+- 🚀 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/)
 
-- 🌋 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) 
+- 🌋 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/)
 
-- 🌁 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) 
+- 🌁 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/)
 
-- 😺 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) 
+- 😺 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
-
-</details>
-
-### :basecampy: GitHub最近动态
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#301](https://github.com/eryajf/go-ldap-admin/issues/301) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-2. 🗣 Commented on [#320](https://github.com/eryajf/go-ldap-admin/issues/320#issuecomment-2003323624) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-3. 🗣 Commented on [#320](https://github.com/eryajf/go-ldap-admin/issues/320#issuecomment-2003090429) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-4. 🗣 Commented on [#319](https://github.com/eryajf/go-ldap-admin/issues/319#issuecomment-2001713439) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-5. 🗣 Commented on [#318](https://github.com/eryajf/go-ldap-admin/issues/318#issuecomment-2001713326) in [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
-6. 🎉 Merged PR [#45](https://github.com/eryajf/awesome-ops/pull/45) in [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops)
-<!--END_SECTION:activity-->
-
-</td>
-</tr>
-</table>
-
-</details>
-
-### 🎸 最近在听音乐
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<table align="center">
-<tr>
-<td valign="top">
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=316286554)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-### 🦚 B站与知乎
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<div align="center">
-
-[![](https://stats.justsong.cn/api/bilibili/?id=237149104)](https://space.bilibili.com/237149104)
-[![](https://stats.justsong.cn/api/zhihu?username=eryajf)](https://www.zhihu.com/people/eryajf)
-</div>
 
 </details>
