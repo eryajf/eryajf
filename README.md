@@ -116,17 +116,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) 
+- 🐻 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
 
-- 🎃 [学习周刊-总第151期-2024年第12周](https://wiki.eryajf.net/pages/417af1/) 
+- 🎃 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) 
 
-- 🚀 [对接腾讯云未集成到SDK的接口开发实践小记](https://wiki.eryajf.net/pages/2fb0c2/) 
+- 🚀 [学习周刊-总第151期-2024年第12周](https://wiki.eryajf.net/pages/417af1/) 
 
-- 🌋 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) 
+- 🌋 [对接腾讯云未集成到SDK的接口开发实践小记](https://wiki.eryajf.net/pages/2fb0c2/) 
 
-- 🌁 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) 
+- 🌁 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) 
 
-- 😺 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) 
+- 😺 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
