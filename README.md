@@ -117,17 +117,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/)
+- 🐻 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
 
-- 🎃 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/)
+- 🎃 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) 
 
-- 🚀 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/)
+- 🚀 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/) 
 
-- 🌋 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/)
+- 🌋 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
 
-- 🌁 [学习周刊-总第151期-2024年第12周](https://wiki.eryajf.net/pages/417af1/)
+- 🌁 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/) 
 
-- 😺 [对接腾讯云未集成到SDK的接口开发实践小记](https://wiki.eryajf.net/pages/2fb0c2/)
+- 😺 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
