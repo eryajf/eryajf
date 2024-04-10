@@ -104,6 +104,7 @@ width="800"  height="3">
 | [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
 | [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
 | [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
+| [promwrite](https://github.com/eryajf/promwrite) | ![](https://img.shields.io/github/stars/eryajf/promwrite?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/promwrite?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📹 Prometheus Remote Write GO 库 |
 
 </details>
 
@@ -116,17 +117,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/) 
+- 🐻 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/)
 
-- 🎃 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
+- 🎃 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/)
 
-- 🚀 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/) 
+- 🚀 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/)
 
-- 🌋 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) 
+- 🌋 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/)
 
-- 🌁 [学习周刊-总第151期-2024年第12周](https://wiki.eryajf.net/pages/417af1/) 
+- 🌁 [学习周刊-总第151期-2024年第12周](https://wiki.eryajf.net/pages/417af1/)
 
-- 😺 [对接腾讯云未集成到SDK的接口开发实践小记](https://wiki.eryajf.net/pages/2fb0c2/) 
+- 😺 [对接腾讯云未集成到SDK的接口开发实践小记](https://wiki.eryajf.net/pages/2fb0c2/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
