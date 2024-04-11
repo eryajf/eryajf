@@ -1,0 +1,20 @@
+name: Sync Docker Images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: hhyasdf/image-sync-action@v1.1
+        with:
+          auth_file: ./src/auth.yaml
+          images_file: ./src/nginx-images.yaml
+          version: latest
+          proc: 20
+        env:
+          ALIHUB_TOKEN: ${{ secrets.ALIHUB_TOKEN }}
+          DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}

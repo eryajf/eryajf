@@ -1,0 +1,2 @@
+nginx: "registry.cn-hangzhou.aliyuncs.com/eryajf/nginx"
+getmeili/meilisearch:v1.7: "registry.cn-hangzhou.aliyuncs.com/eryajf/meilisearch:v1.7"
