@@ -117,17 +117,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
+- 🐻 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/) 
 
-- 🎃 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) 
+- 🎃 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
 
-- 🚀 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/) 
+- 🚀 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) 
 
-- 🌋 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
+- 🌋 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/) 
 
-- 🌁 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/) 
+- 🌁 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
 
-- 😺 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) 
+- 😺 [从DockerHub到阿里云镜像仓库：整理汇总我同步过的docker镜像&lpar;公开可匿名pull&rpar;](https://wiki.eryajf.net/pages/0792bd/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
