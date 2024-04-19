@@ -105,6 +105,8 @@ width="800"  height="3">
 | [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
 | [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
 | [promwrite](https://github.com/eryajf/promwrite) | ![](https://img.shields.io/github/stars/eryajf/promwrite?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/promwrite?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📹 Prometheus Remote Write GO 库 |
+| [glactl](https://github.com/eryajf/glactl) | ![](https://img.shields.io/github/stars/eryajf/glactl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/glactl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠 go-ldap-admin 项目对应的IM测试工具 |
+| [langchaingo-ollama-rag](https://github.com/eryajf/langchaingo-ollama-rag) | ![](https://img.shields.io/github/stars/eryajf/langchaingo-ollama-rag?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/langchaingo-ollama-rag?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖 学习基于langchaingo结合ollama实现的rag应用流程 |
 
 </details>
 
@@ -117,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) 
+- 🐻 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/)
 
-- 🎃 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/) 
+- 🎃 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/)
 
-- 🚀 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
+- 🚀 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/)
 
-- 🌋 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) 
+- 🌋 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/)
 
-- 🌁 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/) 
+- 🌁 [kubectl-krew插件离线安装方案&lpar;保你成功&rpar;](https://wiki.eryajf.net/pages/ca463b/)
 
-- 😺 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) 
+- 😺 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
