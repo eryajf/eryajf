@@ -38,7 +38,7 @@ width="800"  height="3">
 
 ### 🧰 语言工具
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,obsidian,ansible,prometheus,wordpress&theme=light&perline=12)](https://github.com/eryajf)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress&theme=light)](https://github.com/eryajf)
 
 ### 💻 Stats
 
