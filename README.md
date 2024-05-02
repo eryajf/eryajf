@@ -117,17 +117,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) 
+- 🐻 [学习周刊-总第157期-2024年第18周](https://wiki.eryajf.net/pages/1b7cd5/) 
 
-- 🎃 [基于langchaingo实现知识库对接本地模型ollama的分步探索](https://wiki.eryajf.net/pages/6bd394/) 
+- 🎃 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) 
 
-- 🚀 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) 
+- 🚀 [基于langchaingo实现知识库对接本地模型ollama的分步探索](https://wiki.eryajf.net/pages/6bd394/) 
 
-- 🌋 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/) 
+- 🌋 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) 
 
-- 🌁 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
+- 🌁 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/) 
 
-- 😺 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) 
+- 😺 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
