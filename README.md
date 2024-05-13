@@ -30,7 +30,7 @@ width="800"  height="3">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)
 [![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
-[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
+[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
@@ -48,7 +48,7 @@ width="800"  height="3">
 <div align="center">
 
 
-[![二丫讲梵's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
 
@@ -117,17 +117,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第158期-2024年第19周](https://wiki.eryajf.net/pages/89722e/) 
+- 🐻 [学习周刊-总第158期-2024年第19周](https://wiki.eryajf.net/pages/89722e/)
 
-- 🎃 [记五一归家二童争爸](https://wiki.eryajf.net/pages/c4bf7d/) 
+- 🎃 [记五一归家二童争爸](https://wiki.eryajf.net/pages/c4bf7d/)
 
-- 🚀 [学习周刊-总第157期-2024年第18周](https://wiki.eryajf.net/pages/1b7cd5/) 
+- 🚀 [学习周刊-总第157期-2024年第18周](https://wiki.eryajf.net/pages/1b7cd5/)
 
-- 🌋 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) 
+- 🌋 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/)
 
-- 🌁 [基于langchaingo实现知识库对接本地模型ollama的分步探索](https://wiki.eryajf.net/pages/6bd394/) 
+- 🌁 [基于langchaingo实现知识库对接本地模型ollama的分步探索](https://wiki.eryajf.net/pages/6bd394/)
 
-- 😺 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) 
+- 😺 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
