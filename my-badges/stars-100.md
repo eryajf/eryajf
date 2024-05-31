@@ -25,6 +25,7 @@ Repos:
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/athul">eryajf/athul: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
+* <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★1</a>
 * <a href="https://github.com/eryajf/yaml-readme">eryajf/yaml-readme: ★1</a>
 * <a href="https://github.com/eryajf/xingcxb">eryajf/xingcxb: ★1</a>
 * <a href="https://github.com/eryajf/wxwork-bot-go">eryajf/wxwork-bot-go: ★1</a>

@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★207</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★214</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★174</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★144</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★125</a>
@@ -24,8 +24,8 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★10</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★9</a>
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★9</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★9</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★8</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★8</a>
@@ -53,6 +53,7 @@ Repos:
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/athul">eryajf/athul: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
+* <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★1</a>
 * <a href="https://github.com/eryajf/yaml-readme">eryajf/yaml-readme: ★1</a>
 * <a href="https://github.com/eryajf/xingcxb">eryajf/xingcxb: ★1</a>
 * <a href="https://github.com/eryajf/wxwork-bot-go">eryajf/wxwork-bot-go: ★1</a>

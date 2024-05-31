@@ -23,7 +23,6 @@ Issues:
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/681">#681</a>: [Vssue]-[Comment]-学习周刊-2021年第45周
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/682">#682</a>: [Vssue]-[Comment]-学习周刊-2021年第47周
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/683">#683</a>: [Vssue]-[Comment]-我的Obsidian入门之旅
-- <a href="https://github.com/eryajf/eryajf.github.io/issues/640">#640</a>: [Vssue]-[Comment]-Linux好用命令之gzip保留原文件解压缩
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/641">#641</a>: [Vssue]-[Comment]-jenkins作为ci检测代码是否合并的实践
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/642">#642</a>: [Vssue]-[Comment]-Linux好用命令之dig命令
 - <a href="https://github.com/eryajf/eryajf.github.io/issues/643">#643</a>: [Vssue]-[Comment]-Linux好用命令之expect命令
