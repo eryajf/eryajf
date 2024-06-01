@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1378</a>
+* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1379</a>
 * <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★875</a>
-* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★629</a>
-* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★445</a>
+* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★631</a>
+* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★446</a>
 * <a href="https://github.com/eryajf/eryajf.github.io">eryajf/eryajf.github.io: ★309</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★276</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★224</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★217</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★218</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★214</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★174</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★144</a>
