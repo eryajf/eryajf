@@ -118,17 +118,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [302，在你需要的时候带你中转到AI](https://wiki.eryajf.net/pages/594dc2/) 
+- 🐻 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) 
 
-- 🎃 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) 
+- 🎃 [302，在你需要的时候带你中转到AI](https://wiki.eryajf.net/pages/594dc2/) 
 
-- 🚀 [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/) 
+- 🚀 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) 
 
-- 🌋 [Jenkins-pipeline语法之错误处理详解&lpar;文末有干货&rpar;](https://wiki.eryajf.net/pages/6007bf/) 
+- 🌋 [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/) 
 
-- 🌁 [学习周刊-总第159期-2024年第20周](https://wiki.eryajf.net/pages/e4bd82/) 
+- 🌁 [Jenkins-pipeline语法之错误处理详解&lpar;文末有干货&rpar;](https://wiki.eryajf.net/pages/6007bf/) 
 
-- 😺 [进来听歌-顺便唠点磕](https://wiki.eryajf.net/pages/8298cf/) 
+- 😺 [学习周刊-总第159期-2024年第20周](https://wiki.eryajf.net/pages/e4bd82/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
