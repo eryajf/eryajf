@@ -4,8 +4,8 @@
 
 Repos:
 
+* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★6</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★6</a>
-* <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★5</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★5</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★5</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>
