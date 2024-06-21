@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/eryajf/go-ldap-admin/pull/187">#187</a>: docs(contributor): contributors readme action update
 - <a href="https://github.com/eryajf/chatgpt-wecom/pull/2">#2</a>: fix: 修复升级go-openai版本之后azure不可用的问题
 - <a href="https://github.com/eryajf/awesome-ops/pull/40">#40</a>: add some repo
 
