@@ -118,17 +118,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第164期-2024年第25周](https://wiki.eryajf.net/pages/617acd/) 
+- 🐻 [学习周刊-总第165期-2024年第26周](https://wiki.eryajf.net/pages/48f2ad/) 
 
-- 🎃 [学习周刊-总第163期-2024年第24周](https://wiki.eryajf.net/pages/722107/) 
+- 🎃 [学习周刊-总第164期-2024年第25周](https://wiki.eryajf.net/pages/617acd/) 
 
-- 🚀 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) 
+- 🚀 [学习周刊-总第163期-2024年第24周](https://wiki.eryajf.net/pages/722107/) 
 
-- 🌋 [302，在你需要的时候带你中转到AI](https://wiki.eryajf.net/pages/594dc2/) 
+- 🌋 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) 
 
-- 🌁 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) 
+- 🌁 [302，在你需要的时候带你中转到AI](https://wiki.eryajf.net/pages/594dc2/) 
 
-- 😺 [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/) 
+- 😺 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
