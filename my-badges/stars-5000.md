@@ -4,19 +4,19 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1408</a>
-* <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★875</a>
-* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★652</a>
+* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1420</a>
+* <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★874</a>
+* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★657</a>
 * <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★456</a>
-* <a href="https://github.com/eryajf/eryajf.github.io">eryajf/eryajf.github.io: ★311</a>
+* <a href="https://github.com/eryajf/eryajf.github.io">eryajf/eryajf.github.io: ★310</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★277</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★234</a>
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★229</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★240</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★231</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★216</a>
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★174</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★176</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★145</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★128</a>
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★55</a>
+* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★45</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★35</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>

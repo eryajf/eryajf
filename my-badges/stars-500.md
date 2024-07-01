@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★55</a>
+* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★45</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★35</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>
