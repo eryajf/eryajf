@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/bad-words/bad-words.png?raw=true" alt="I used a word &quot;fuck&quot; in my commit message." title="I used a word &quot;fuck&quot; in my commit message." width="128">
+<img src="https://my-badges.github.io/my-badges/bad-words.png" alt="I used a word &quot;fuck&quot; in my commit message." title="I used a word &quot;fuck&quot; in my commit message." width="128">
 <strong>I used a word &quot;fuck&quot; in my commit message.</strong>
 <br><br>
 

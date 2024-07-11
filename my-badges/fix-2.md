@@ -1,11 +1,11 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
+<img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
 <strong>I did 2 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
-- <a href="https://github.com/eryajf/yaml-readme/commit/ae5d0d85ec41cbe884ded202add5fc3c4c0f450c">ae5d0d8</a>: fix: include-header
-- <a href="https://github.com/eryajf/yaml-readme/commit/c5693e6456045f1c78a8a24fe59d8e52f2da64b5">c5693e6</a>: fix: include-header
+- <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese/commit/15c8be83e09b7e08d15fc07ec9f8c91fa4d7a9e1">15c8be8</a>: fix pic
+- <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese/commit/6d700aa2025452f4f688324f63a09496cc417c54">6d700aa</a>: fix pic
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

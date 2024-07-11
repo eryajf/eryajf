@@ -1,24 +1,24 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-5000.png?raw=true" alt="I collected 5000 stars." title="I collected 5000 stars." width="128">
+<img src="https://my-badges.github.io/my-badges/stars-5000.png" alt="I collected 5000 stars." title="I collected 5000 stars." width="128">
 <strong>I collected 5000 stars.</strong>
 <br><br>
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1420</a>
-* <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★874</a>
-* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★657</a>
+* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1445</a>
+* <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★873</a>
+* <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★672</a>
 * <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★456</a>
-* <a href="https://github.com/eryajf/eryajf.github.io">eryajf/eryajf.github.io: ★310</a>
+* <a href="https://github.com/eryajf/eryajf.github.io">eryajf/eryajf.github.io: ★309</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★277</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★240</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★246</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★231</a>
-* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★216</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★215</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★176</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★145</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★148</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★128</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★45</a>
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★35</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★36</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
@@ -27,15 +27,15 @@ Repos:
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★14</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★14</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★14</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★12</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
+* <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★11</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★11</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
-* <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★9</a>
-* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★9</a>
+* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★10</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★8</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
