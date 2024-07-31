@@ -5,9 +5,9 @@
 Repos:
 
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★57</a>
-* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★45</a>
+* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★46</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★36</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★19</a>
@@ -37,17 +37,16 @@ Repos:
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★4</a>
 * <a href="https://github.com/eryajf/Learning-Weekly-old">eryajf/Learning-Weekly-old: ★4</a>
+* <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★4</a>
 * <a href="https://github.com/eryajf/docsify-template">eryajf/docsify-template: ★4</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
-* <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★3</a>
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★3</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
 * <a href="https://github.com/eryajf/rfyiamcool">eryajf/rfyiamcool: ★2</a>
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
-* <a href="https://github.com/eryajf/athul">eryajf/athul: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★1</a>
 * <a href="https://github.com/eryajf/yaml-readme">eryajf/yaml-readme: ★1</a>
