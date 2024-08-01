@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1478</a>
+* <a href="https://github.com/eryajf/go-ldap-admin">eryajf/go-ldap-admin: ★1480</a>
 * <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★874</a>
 * <a href="https://github.com/eryajf/awesome-ops">eryajf/awesome-ops: ★696</a>
 * <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★460</a>
