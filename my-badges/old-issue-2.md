@@ -5,6 +5,7 @@
 Issues:
 
 - <a href="https://github.com/go-shiori/shiori/issues/213">#213</a>: json: cannot unmarshal bool into Go struct field .remember of type int
+- <a href="https://github.com/yihong0618/yihong0618/issues/1">#1</a>: 邀请收录进： awesome-github-profile-readme-chinese
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
