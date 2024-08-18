@@ -118,17 +118,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/) 
+- 🐻 [音乐节惊魂，铭记安全大于一切](https://wiki.eryajf.net/pages/6baaa2/) 
 
-- 🎃 [学习周刊-总第171期-2024年第32周](https://wiki.eryajf.net/pages/18f52a/) 
+- 🎃 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/) 
 
-- 🚀 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) 
+- 🚀 [学习周刊-总第171期-2024年第32周](https://wiki.eryajf.net/pages/18f52a/) 
 
-- 🌋 [学习周刊-总第169期-2024年第30周](https://wiki.eryajf.net/pages/627a24/) 
+- 🌋 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) 
 
-- 🌁 [使用docker快速部署rancher-2.8.5并投入生产实践](https://wiki.eryajf.net/pages/7adcae/) 
+- 🌁 [学习周刊-总第169期-2024年第30周](https://wiki.eryajf.net/pages/627a24/) 
 
-- 😺 [学习周刊-总第168期-2024年第29周](https://wiki.eryajf.net/pages/68030a/) 
+- 😺 [使用docker快速部署rancher-2.8.5并投入生产实践](https://wiki.eryajf.net/pages/7adcae/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
