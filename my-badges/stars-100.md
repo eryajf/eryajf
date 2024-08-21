@@ -6,12 +6,12 @@ Repos:
 
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★6</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★6</a>
+* <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★5</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★5</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>
 * <a href="https://github.com/eryajf/t">eryajf/t: ★4</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
-* <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★4</a>
 * <a href="https://github.com/eryajf/Learning-Weekly-old">eryajf/Learning-Weekly-old: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★4</a>

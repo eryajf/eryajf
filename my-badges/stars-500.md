@@ -4,17 +4,17 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★57</a>
-* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★46</a>
+* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★58</a>
+* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★47</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★36</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
-* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★20</a>
+* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★17</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★15</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★15</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★14</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
@@ -30,12 +30,12 @@ Repos:
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★6</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★6</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★6</a>
+* <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★5</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★5</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>
 * <a href="https://github.com/eryajf/t">eryajf/t: ★4</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
-* <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★4</a>
 * <a href="https://github.com/eryajf/Learning-Weekly-old">eryajf/Learning-Weekly-old: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★4</a>
