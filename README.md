@@ -106,6 +106,7 @@ width="800"  height="3">
 | [promwrite](https://github.com/eryajf/promwrite) | ![](https://img.shields.io/github/stars/eryajf/promwrite?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/promwrite?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📹 Prometheus Remote Write GO 库 |
 | [glactl](https://github.com/eryajf/glactl) | ![](https://img.shields.io/github/stars/eryajf/glactl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/glactl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠 go-ldap-admin 项目对应的IM测试工具 |
 | [langchaingo-ollama-rag](https://github.com/eryajf/langchaingo-ollama-rag) | ![](https://img.shields.io/github/stars/eryajf/langchaingo-ollama-rag?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/langchaingo-ollama-rag?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖学习基于langchaingo结合ollama实现的rag应用流程 |
+| [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/eryajf/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloud_dns_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息。 |
 
 </details>
 
@@ -118,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) 
+- 🐻 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/)
 
-- 🎃 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/) 
+- 🎃 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/)
 
-- 🚀 [音乐节惊魂，铭记安全大于一切](https://wiki.eryajf.net/pages/6baaa2/) 
+- 🚀 [音乐节惊魂，铭记安全大于一切](https://wiki.eryajf.net/pages/6baaa2/)
 
-- 🌋 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/) 
+- 🌋 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/)
 
-- 🌁 [学习周刊-总第171期-2024年第32周](https://wiki.eryajf.net/pages/18f52a/) 
+- 🌁 [学习周刊-总第171期-2024年第32周](https://wiki.eryajf.net/pages/18f52a/)
 
-- 😺 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) 
+- 😺 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
