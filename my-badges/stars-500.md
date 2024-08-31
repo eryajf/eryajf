@@ -6,17 +6,17 @@ Repos:
 
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★58</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★47</a>
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★36</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★37</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★18</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★17</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
+* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★15</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★15</a>
-* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★14</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★11</a>
