@@ -28,6 +28,7 @@ Repos:
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★10</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★8</a>
+* <a href="https://github.com/eryajf/cloud_dns_exporter">eryajf/cloud_dns_exporter: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★6</a>

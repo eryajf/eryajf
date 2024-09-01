@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★293</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★294</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★279</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★244</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★218</a>
@@ -32,6 +32,7 @@ Repos:
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★10</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★8</a>
+* <a href="https://github.com/eryajf/cloud_dns_exporter">eryajf/cloud_dns_exporter: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★6</a>
