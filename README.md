@@ -119,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第177期-2024年第38周](https://wiki.eryajf.net/pages/91004b/) 
+- 🐻 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/) 
 
-- 🎃 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) 
+- 🎃 [学习周刊-总第177期-2024年第38周](https://wiki.eryajf.net/pages/91004b/) 
 
-- 🚀 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) 
+- 🚀 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) 
 
-- 🌋 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/) 
+- 🌋 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) 
 
-- 🌁 [分享我的开源项目CloudDnsExporter，妈妈再也不担心我忘换证书了](https://wiki.eryajf.net/pages/a47486/) 
+- 🌁 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/) 
 
-- 😺 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) 
+- 😺 [分享我的开源项目CloudDnsExporter，妈妈再也不担心我忘换证书了](https://wiki.eryajf.net/pages/a47486/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
