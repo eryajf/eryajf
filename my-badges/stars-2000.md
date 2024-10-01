@@ -5,11 +5,11 @@
 Repos:
 
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★280</a>
-* <a href="https://github.com/eryajf/cloud_dns_exporter">eryajf/cloud_dns_exporter: ★261</a>
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★247</a>
-* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★218</a>
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★185</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★157</a>
+* <a href="https://github.com/eryajf/cloud_dns_exporter">eryajf/cloud_dns_exporter: ★279</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★249</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★220</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★186</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★158</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★131</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★58</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★49</a>
@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★20</a>
-* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★17</a>
+* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★18</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★15</a>
@@ -30,8 +30,8 @@ Repos:
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★11</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
-* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★10</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★9</a>
+* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
