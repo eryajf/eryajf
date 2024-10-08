@@ -107,6 +107,7 @@ width="800"  height="3">
 | [glactl](https://github.com/eryajf/glactl) | ![](https://img.shields.io/github/stars/eryajf/glactl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/glactl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠 go-ldap-admin 项目对应的IM测试工具 |
 | [langchaingo-ollama-rag](https://github.com/eryajf/langchaingo-ollama-rag) | ![](https://img.shields.io/github/stars/eryajf/langchaingo-ollama-rag?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/langchaingo-ollama-rag?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖学习基于langchaingo结合ollama实现的rag应用流程 |
 | [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/eryajf/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloud_dns_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息。 |
+| [go-alimail](https://github.com/eryajf/go-alimail) | ![](https://img.shields.io/github/stars/eryajf/go-alimail?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-alimail?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💌 阿里企业邮箱 GO 语言 SDK 📬 |
 
 </details>
 
@@ -119,17 +120,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) 
+- 🐻 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/)
 
-- 🎃 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/) 
+- 🎃 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/)
 
-- 🚀 [学习周刊-总第177期-2024年第38周](https://wiki.eryajf.net/pages/91004b/) 
+- 🚀 [学习周刊-总第177期-2024年第38周](https://wiki.eryajf.net/pages/91004b/)
 
-- 🌋 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) 
+- 🌋 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/)
 
-- 🌁 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) 
+- 🌁 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/)
 
-- 😺 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/) 
+- 😺 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
