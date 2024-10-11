@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★6</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★6</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
@@ -18,6 +17,7 @@ Repos:
 * <a href="https://github.com/eryajf/docsify-template">eryajf/docsify-template: ★4</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★3</a>
+* <a href="https://github.com/eryajf/go-alimail">eryajf/go-alimail: ★3</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>

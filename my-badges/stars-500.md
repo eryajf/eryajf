@@ -4,9 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★58</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★49</a>
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★38</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★39</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
@@ -18,13 +17,13 @@ Repos:
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★15</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★15</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★12</a>
+* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★12</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★11</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★9</a>
-* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
@@ -42,6 +41,7 @@ Repos:
 * <a href="https://github.com/eryajf/docsify-template">eryajf/docsify-template: ★4</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★3</a>
+* <a href="https://github.com/eryajf/go-alimail">eryajf/go-alimail: ★3</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
