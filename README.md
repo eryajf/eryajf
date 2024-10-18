@@ -120,17 +120,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第181期-2024年第42周](https://wiki.eryajf.net/pages/4abe84/) 
+- 🐻 [AWS运维部署实践--快速拉起生产可用的EKS集群](https://wiki.eryajf.net/pages/889396/) 
 
-- 🎃 [学习周刊-总第180期-2024年第41周](https://wiki.eryajf.net/pages/6dc85f/) 
+- 🎃 [AWS运维部署实践--使用sigma自建镜像仓库代替ECR](https://wiki.eryajf.net/pages/cb98ea/) 
 
-- 🚀 [整理宛遇宝贝在24年十一期间的言行](https://wiki.eryajf.net/pages/31f861/) 
+- 🚀 [AWS运维部署实践--route53私有域跨账号共享](https://wiki.eryajf.net/pages/027a0e/) 
 
-- 🌋 [vuepress-vdoing主题配置LxgwWenKai字体](https://wiki.eryajf.net/pages/90fa4b/) 
+- 🌋 [AWS运维部署实践--网络环境规划](https://wiki.eryajf.net/pages/97bdc5/) 
 
-- 🌁 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) 
+- 🌁 [学习周刊-总第181期-2024年第42周](https://wiki.eryajf.net/pages/4abe84/) 
 
-- 😺 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/) 
+- 😺 [学习周刊-总第180期-2024年第41周](https://wiki.eryajf.net/pages/6dc85f/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
