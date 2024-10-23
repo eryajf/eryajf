@@ -120,17 +120,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [AWS运维部署实践--EKS集群结合metrics-server配置HPA的功能](https://wiki.eryajf.net/pages/3c5535/) 
+- 🐻 [四看](https://wiki.eryajf.net/pages/20777b/) 
 
-- 🎃 [AWS运维部署实践--内外网Ingress配置验证实践](https://wiki.eryajf.net/pages/2ff4aa/) 
+- 🎃 [AWS运维部署实践--给EKS集群安装Ingress-Controller](https://wiki.eryajf.net/pages/dea2ae/) 
 
-- 🚀 [AWS运维部署实践--配置跨账号通过kubectl管理EKS集群](https://wiki.eryajf.net/pages/a2dd9f/) 
+- 🚀 [AWS运维部署实践--EKS集群结合metrics-server配置HPA的功能](https://wiki.eryajf.net/pages/3c5535/) 
 
-- 🌋 [AWS运维部署实践--快速拉起生产可用的EKS集群](https://wiki.eryajf.net/pages/889396/) 
+- 🌋 [AWS运维部署实践--内外网Ingress配置验证实践](https://wiki.eryajf.net/pages/2ff4aa/) 
 
-- 🌁 [AWS运维部署实践--使用sigma自建镜像仓库代替ECR](https://wiki.eryajf.net/pages/cb98ea/) 
+- 🌁 [AWS运维部署实践--配置跨账号通过kubectl管理EKS集群](https://wiki.eryajf.net/pages/a2dd9f/) 
 
-- 😺 [AWS运维部署实践--route53私有域跨账号共享](https://wiki.eryajf.net/pages/027a0e/) 
+- 😺 [AWS运维部署实践--快速拉起生产可用的EKS集群](https://wiki.eryajf.net/pages/889396/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
