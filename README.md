@@ -120,17 +120,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/) 
+- 🐻 [敬告本站拷贝者，立即停止侵权行为](https://wiki.eryajf.net/pages/a6eaa4/) 
 
-- 🎃 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/) 
+- 🎃 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/) 
 
-- 🚀 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) 
+- 🚀 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/) 
 
-- 🌋 [四看](https://wiki.eryajf.net/pages/20777b/) 
+- 🌋 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) 
 
-- 🌁 [AWS运维部署实践--给EKS集群安装Ingress-Controller](https://wiki.eryajf.net/pages/dea2ae/) 
+- 🌁 [四看](https://wiki.eryajf.net/pages/20777b/) 
 
-- 😺 [AWS运维部署实践--EKS集群结合metrics-server配置HPA的功能](https://wiki.eryajf.net/pages/3c5535/) 
+- 😺 [AWS运维部署实践--给EKS集群安装Ingress-Controller](https://wiki.eryajf.net/pages/dea2ae/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
