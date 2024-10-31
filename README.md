@@ -120,17 +120,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [敬告本站拷贝者，立即停止侵权行为](https://wiki.eryajf.net/pages/a6eaa4/) 
+- 🐻 [xq-不识，邂逅，初识](https://wiki.eryajf.net/pages/ee6eb5/) 
 
-- 🎃 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/) 
+- 🎃 [学习周刊-总第183期-2024年第44周](https://wiki.eryajf.net/pages/ad9674/) 
 
-- 🚀 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/) 
+- 🚀 [敬告本站拷贝者，立即停止侵权行为](https://wiki.eryajf.net/pages/a6eaa4/) 
 
-- 🌋 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) 
+- 🌋 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/) 
 
-- 🌁 [四看](https://wiki.eryajf.net/pages/20777b/) 
+- 🌁 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/) 
 
-- 😺 [AWS运维部署实践--给EKS集群安装Ingress-Controller](https://wiki.eryajf.net/pages/dea2ae/) 
+- 😺 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
