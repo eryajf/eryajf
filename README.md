@@ -77,7 +77,6 @@ width="800"  height="3">
 | [learning-weekly](https://github.com/eryajf/learning-weekly) | ![](https://img.shields.io/github/stars/eryajf/learning-weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/learning-weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习周刊，开源项目,优秀博客  |
 | [xirang](https://github.com/eryajf/xirang) | ![](https://img.shields.io/github/stars/eryajf/xirang?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架后端  |
 | [xirang-ui](https://github.com/eryajf/xirang-ui) | ![](https://img.shields.io/github/stars/eryajf/xirang-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架前端  |
-| [eryajf.github.io](https://github.com/eryajf/eryajf.github.io) | ![](https://img.shields.io/github/stars/eryajf/eryajf.github.io?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf.github.io?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 当前博客全部源码  |
 | [Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) | ![](https://img.shields.io/github/stars/eryajf/Obsidian-Plugin-Weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Obsidian-Plugin-Weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Obsidian插件周刊  |
 | [ldapctl](https://github.com/eryajf/ldapctl) | ![](https://img.shields.io/github/stars/eryajf/ldapctl?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/ldapctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | OpenLDAP Controller  |
 | [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | ![](https://img.shields.io/github/stars/eryajf/Thanks-Mirror?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Thanks-Mirror?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 各个包管理器，系统镜像，以及常用软件的镜像  |
@@ -120,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [xq-不识，邂逅，初识](https://wiki.eryajf.net/pages/ee6eb5/) 
+- 🐻 [xq-不识，邂逅，初识](https://wiki.eryajf.net/pages/ee6eb5/)
 
-- 🎃 [学习周刊-总第183期-2024年第44周](https://wiki.eryajf.net/pages/ad9674/) 
+- 🎃 [学习周刊-总第183期-2024年第44周](https://wiki.eryajf.net/pages/ad9674/)
 
-- 🚀 [敬告本站拷贝者，立即停止侵权行为](https://wiki.eryajf.net/pages/a6eaa4/) 
+- 🚀 [敬告本站拷贝者，立即停止侵权行为](https://wiki.eryajf.net/pages/a6eaa4/)
 
-- 🌋 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/) 
+- 🌋 [AWS运维部署实践--EKS多集群监控指标集中采集到集群外一个Prometheus的实践](https://wiki.eryajf.net/pages/63fd1d/)
 
-- 🌁 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/) 
+- 🌁 [prometheus结合nginx-lua-prometheus监控openresty](https://wiki.eryajf.net/pages/0ce65a/)
 
-- 😺 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) 
+- 😺 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
