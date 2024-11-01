@@ -544,6 +544,7 @@ Issues:
 - <a href="https://github.com/lycheeverse/lychee-action/issues/153">#153</a>: lychee checks the content of the output Markdown format, and the content is output as a task list.
 - <a href="https://github.com/holic-x/holic-x/issues/1">#1</a>: 邀请收录进： awesome-github-profile-readme-chinese
 - <a href="https://github.com/gebilxs/gebilxs/issues/1">#1</a>: 邀请收录进： awesome-github-profile-readme-chinese
+- <a href="https://github.com/go-ldap/ldap/issues/404">#404</a>: Request to add ldapctl tools to the go-ldap organization
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
