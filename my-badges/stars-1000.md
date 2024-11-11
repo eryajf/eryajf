@@ -4,23 +4,23 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★186</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★158</a>
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★132</a>
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★60</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★188</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★159</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★134</a>
+* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★61</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★49</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★39</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★23</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★18</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
+* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★15</a>
-* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★15</a>
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★13</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★15</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★12</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
@@ -31,9 +31,9 @@ Repos:
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★7</a>
+* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
-* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★6</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★5</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>
@@ -42,14 +42,16 @@ Repos:
 * <a href="https://github.com/eryajf/Learning-Weekly-old">eryajf/Learning-Weekly-old: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★4</a>
+* <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★4</a>
 * <a href="https://github.com/eryajf/docsify-template">eryajf/docsify-template: ★4</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
-* <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★3</a>
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★3</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
 * <a href="https://github.com/eryajf/rfyiamcool">eryajf/rfyiamcool: ★2</a>
+* <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★2</a>
+* <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★2</a>
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★1</a>
@@ -63,7 +65,6 @@ Repos:
 * <a href="https://github.com/eryajf/syncd">eryajf/syncd: ★1</a>
 * <a href="https://github.com/eryajf/review-2022">eryajf/review-2022: ★1</a>
 * <a href="https://github.com/eryajf/reference">eryajf/reference: ★1</a>
-* <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★1</a>
 * <a href="https://github.com/eryajf/prometheus-book">eryajf/prometheus-book: ★1</a>
 * <a href="https://github.com/eryajf/learning_notes">eryajf/learning_notes: ★1</a>
 * <a href="https://github.com/eryajf/lark">eryajf/lark: ★1</a>
@@ -71,7 +72,6 @@ Repos:
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/gonote">eryajf/gonote: ★1</a>
 * <a href="https://github.com/eryajf/golang-open-source-projects">eryajf/golang-open-source-projects: ★1</a>
-* <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★1</a>
 * <a href="https://github.com/eryajf/git">eryajf/git: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
 * <a href="https://github.com/eryajf/feishu">eryajf/feishu: ★1</a>
