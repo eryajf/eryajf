@@ -30,7 +30,7 @@ width="800"  height="3">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)
 [![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
-[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/opsre?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
@@ -119,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [再恋XQ-我开始妄想起来了](https://wiki.eryajf.net/pages/d0df10/) 
+- 🐻 [再恋XQ-我开始妄想起来了](https://wiki.eryajf.net/pages/d0df10/)
 
-- 🎃 [学习周刊-总第185期-2024年第46周](https://wiki.eryajf.net/pages/068556/) 
+- 🎃 [学习周刊-总第185期-2024年第46周](https://wiki.eryajf.net/pages/068556/)
 
-- 🚀 [再恋XQ-暗恋钩沉](https://wiki.eryajf.net/pages/c4eaab/) 
+- 🚀 [再恋XQ-暗恋钩沉](https://wiki.eryajf.net/pages/c4eaab/)
 
-- 🌋 [再恋XQ-别心虚，要虚心](https://wiki.eryajf.net/pages/a2a2cd/) 
+- 🌋 [再恋XQ-别心虚，要虚心](https://wiki.eryajf.net/pages/a2a2cd/)
 
-- 🌁 [再恋XQ-如果我对你的爱消失了](https://wiki.eryajf.net/pages/79c439/) 
+- 🌁 [再恋XQ-如果我对你的爱消失了](https://wiki.eryajf.net/pages/79c439/)
 
-- 😺 [再恋XQ-秀发，吃醋，赞美，表现](https://wiki.eryajf.net/pages/1e6ee4/) 
+- 😺 [再恋XQ-秀发，吃醋，赞美，表现](https://wiki.eryajf.net/pages/1e6ee4/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
