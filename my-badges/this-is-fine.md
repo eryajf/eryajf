@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/eryajf/awesome-ops/pull/40">#40</a>: add some repo
+- <a href="https://github.com/opsre/awesome-ops/pull/40">#40</a>: add some repo
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

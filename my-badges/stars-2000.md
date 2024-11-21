@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/cloud_dns_exporter">eryajf/cloud_dns_exporter: ★298</a>
+* <a href="https://github.com/opsre/cloud_dns_exporter">opsre/cloud_dns_exporter: ★301</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★280</a>
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★251</a>
-* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★220</a>
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★188</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-ui">eryajf/go-ldap-admin-ui: ★159</a>
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★134</a>
-* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★61</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★253</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★224</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★190</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★162</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★135</a>
+* <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★62</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★49</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★39</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
@@ -20,15 +20,15 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★22</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★18</a>
+* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★17</a>
+* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★16</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
-* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
-* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★15</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★15</a>
+* <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★13</a>
+* <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★12</a>
-* <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
-* <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★11</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★10</a>
