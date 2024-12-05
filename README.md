@@ -119,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) 
+- 🐻 [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/) 
 
-- 🎃 [独身者在独身日里的独身宣言](https://wiki.eryajf.net/pages/5660fe/) 
+- 🎃 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) 
 
-- 🚀 [302AI，包揽你的AI需求](https://wiki.eryajf.net/pages/831959/) 
+- 🚀 [独身者在独身日里的独身宣言](https://wiki.eryajf.net/pages/5660fe/) 
 
-- 🌋 [学习周刊-总第186期-2024年第47周](https://wiki.eryajf.net/pages/6c583e/) 
+- 🌋 [302AI，包揽你的AI需求](https://wiki.eryajf.net/pages/831959/) 
 
-- 🌁 [再恋XQ-最后一封](https://wiki.eryajf.net/pages/92d5ee/) 
+- 🌁 [学习周刊-总第186期-2024年第47周](https://wiki.eryajf.net/pages/6c583e/) 
 
-- 😺 [再恋XQ-诚实的人，考试不作弊](https://wiki.eryajf.net/pages/c70bad/) 
+- 😺 [再恋XQ-最后一封](https://wiki.eryajf.net/pages/92d5ee/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
