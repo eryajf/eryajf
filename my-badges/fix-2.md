@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese/commit/15c8be83e09b7e08d15fc07ec9f8c91fa4d7a9e1">15c8be8</a>: fix pic
-- <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese/commit/6d700aa2025452f4f688324f63a09496cc417c54">6d700aa</a>: fix pic
+- <a href="https://github.com/opsre/cloud_dns_exporter/commit/b718ece9a21a177453adcfa3c9526c3ce0c3229a">b718ece</a>: fix: 当id为空时,通过uuid填充
+- <a href="https://github.com/opsre/cloud_dns_exporter/commit/80e6e8fe5316cc1a3fd7c04c095c677e0a2d6d13">80e6e8f</a>: fix: 修复lint检查
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/awesome-stars-eryajf/commit/fd2616c8bbac3b20c4adf788f560d4272fcdff62">fd2616c</a>: chore(updates): updated entries in files
+- <a href="https://github.com/eryajf/chatgpt-wecom/commit/4fd4b4778d8d02b11d4da81720718aa00f95868e">4fd4b47</a>: chore(docs): update TOC
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

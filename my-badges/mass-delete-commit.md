@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/awesome-stars-eryajf/commit/65f352c35d1f1a34356ad7d7521aba2fe3acfe1a">65f352c</a>
+- <a href="https://github.com/eryajf/huntly/commit/6638383c650ce2a0e9c73b8c757815f060edc833">6638383</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
