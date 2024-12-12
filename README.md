@@ -119,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [恶人的理在哪里](https://wiki.eryajf.net/pages/cc1fb5/) 
+- 🐻 [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/) 
 
-- 🎃 [见美](https://wiki.eryajf.net/pages/ff6314/) 
+- 🎃 [恶人的理在哪里](https://wiki.eryajf.net/pages/cc1fb5/) 
 
-- 🚀 [AWS运维部署实践--EKS集群事件采集](https://wiki.eryajf.net/pages/0d011d/) 
+- 🚀 [见美](https://wiki.eryajf.net/pages/ff6314/) 
 
-- 🌋 [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/) 
+- 🌋 [AWS运维部署实践--EKS集群事件采集](https://wiki.eryajf.net/pages/0d011d/) 
 
-- 🌁 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) 
+- 🌁 [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/) 
 
-- 😺 [独身者在独身日里的独身宣言](https://wiki.eryajf.net/pages/5660fe/) 
+- 😺 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
