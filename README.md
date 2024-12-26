@@ -119,17 +119,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第190期-2024年第51周](https://wiki.eryajf.net/pages/f01fbd/) 
+- 🐻 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) 
 
-- 🎃 [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/) 
+- 🎃 [rancher如何重新注册托管集群](https://wiki.eryajf.net/pages/80d8de/) 
 
-- 🚀 [恶人的理在哪里](https://wiki.eryajf.net/pages/cc1fb5/) 
+- 🚀 [学习周刊-总第190期-2024年第51周](https://wiki.eryajf.net/pages/f01fbd/) 
 
-- 🌋 [见美](https://wiki.eryajf.net/pages/ff6314/) 
+- 🌋 [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/) 
 
-- 🌁 [AWS运维部署实践--EKS集群事件采集](https://wiki.eryajf.net/pages/0d011d/) 
+- 🌁 [恶人的理在哪里](https://wiki.eryajf.net/pages/cc1fb5/) 
 
-- 😺 [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/) 
+- 😺 [见美](https://wiki.eryajf.net/pages/ff6314/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
