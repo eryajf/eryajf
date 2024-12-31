@@ -4,15 +4,15 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★191</a>
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★164</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★193</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★166</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★138</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★61</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★49</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★40</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★26</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★23</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★22</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★18</a>
