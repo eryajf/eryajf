@@ -42,6 +42,8 @@ width="800"  height="3">
 
 ### 💻 Stats
 
+<a href="https://trendshift.io/developers/1903" target="_blank"><img src="https://trendshift.io/api/badge/developers/1903" alt="eryajf | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 <details open>
 <summary>点击展开 ...</summary>
 
@@ -119,17 +121,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [身心脆弱的时候守藏](https://wiki.eryajf.net/pages/719391/) 
+- 🐻 [身心脆弱的时候守藏](https://wiki.eryajf.net/pages/719391/)
 
-- 🎃 [大伯走了](https://wiki.eryajf.net/pages/ba6fbf/) 
+- 🎃 [大伯走了](https://wiki.eryajf.net/pages/ba6fbf/)
 
-- 🚀 [学习周刊-总第193期-2025年第02周](https://wiki.eryajf.net/pages/16a30c/) 
+- 🚀 [学习周刊-总第193期-2025年第02周](https://wiki.eryajf.net/pages/16a30c/)
 
-- 🌋 [学习周刊-总第192期-2025年第01周](https://wiki.eryajf.net/pages/16a30b/) 
+- 🌋 [学习周刊-总第192期-2025年第01周](https://wiki.eryajf.net/pages/16a30b/)
 
-- 🌁 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) 
+- 🌁 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/)
 
-- 😺 [rancher如何重新注册托管集群](https://wiki.eryajf.net/pages/80d8de/) 
+- 😺 [rancher如何重新注册托管集群](https://wiki.eryajf.net/pages/80d8de/)
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
