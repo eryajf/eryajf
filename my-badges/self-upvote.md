@@ -9,6 +9,7 @@
 * <a href="https://github.com/opsre/go-ldap-admin/discussions/16#discussioncomment-2921445">👀</a>
 * <a href="https://github.com/opsre/go-ldap-admin/discussions/41#discussioncomment-2998039">👍</a>
 * <a href="https://github.com/opsre/go-ldap-admin/discussions/41#discussioncomment-2998039">🎉</a>
+* <a href="https://github.com/bosichong/suiyanblog/discussions/2#discussioncomment-11872692">🎉</a>
 * <a href="https://github.com/typora/typora-issues/issues/290#issuecomment-501274089">❤️</a>
 * <a href="https://github.com/jenkinsci/gitlab-plugin/issues/981#issuecomment-533066083">👍</a>
 * <a href="https://github.com/eryajf/learning-weekly/issues/1#issuecomment-851362644">❤️</a>

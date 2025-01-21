@@ -44,11 +44,11 @@ Repos:
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★3</a>
+* <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★3</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
 * <a href="https://github.com/eryajf/rfyiamcool">eryajf/rfyiamcool: ★2</a>
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
-* <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★2</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
