@@ -12,9 +12,9 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★23</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★22</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★19</a>
+* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★17</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
-* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★16</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★13</a>
