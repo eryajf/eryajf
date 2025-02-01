@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★192</a>
 * <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★166</a>
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★144</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★145</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★62</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★50</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★40</a>
