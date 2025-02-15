@@ -121,17 +121,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) 
+- 🐻 [近期与DeepSeek相关的羊毛与折腾](https://wiki.eryajf.net/pages/6fac1e/) 
 
-- 🎃 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) 
+- 🎃 [整理我的信息源](https://wiki.eryajf.net/pages/5bc816/) 
 
-- 🚀 [我的2024年](https://wiki.eryajf.net/pages/5f5910/) 
+- 🚀 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) 
 
-- 🌋 [学习周刊-总第196期-2025年第05周](https://wiki.eryajf.net/pages/4fb5cc/) 
+- 🌋 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) 
 
-- 🌁 [学习周刊-总第195期-2025年第04周](https://wiki.eryajf.net/pages/892f1a/) 
+- 🌁 [我的2024年](https://wiki.eryajf.net/pages/5f5910/) 
 
-- 😺 [针对我昨天的言论被使者同步给开发商这件事儿做一些回应](https://wiki.eryajf.net/pages/82d296/) 
+- 😺 [学习周刊-总第196期-2025年第05周](https://wiki.eryajf.net/pages/4fb5cc/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
