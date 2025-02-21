@@ -6,13 +6,13 @@ Repos:
 
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★50</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★40</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★30</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★23</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★22</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★19</a>
-* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★17</a>
+* <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★18</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★16</a>
@@ -21,9 +21,9 @@ Repos:
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★13</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★12</a>
+* <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★11</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
-* <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★10</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★7</a>
