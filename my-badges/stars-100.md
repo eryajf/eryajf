@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/luban">eryajf/luban: ★6</a>
+* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
@@ -25,6 +25,7 @@ Repos:
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★2</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★2</a>
+* <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
 * <a href="https://github.com/eryajf/gonote">eryajf/gonote: ★1</a>
@@ -47,10 +48,13 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-chatgpt">eryajf/awesome-chatgpt: ★1</a>
 * <a href="https://github.com/eryajf/review-2022">eryajf/review-2022: ★1</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-1">eryajf/awesome-chatgpt-1: ★1</a>
+* <a href="https://github.com/eryajf/review-2023">eryajf/review-2023: ★1</a>
 * <a href="https://github.com/eryajf/yaml-readme">eryajf/yaml-readme: ★1</a>
 * <a href="https://github.com/eryajf/chatgpt-wechat">eryajf/chatgpt-wechat: ★1</a>
+* <a href="https://github.com/eryajf/alist">eryajf/alist: ★1</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★1</a>
 * <a href="https://github.com/eryajf/xirang-web">eryajf/xirang-web: ★1</a>
+* <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
