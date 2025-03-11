@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
@@ -39,6 +38,7 @@ Repos:
 * <a href="https://github.com/eryajf/git">eryajf/git: ★1</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★1</a>
 * <a href="https://github.com/eryajf/wxwork-bot-go">eryajf/wxwork-bot-go: ★1</a>
+* <a href="https://github.com/eryajf/vuepress-theme-vdoing">eryajf/vuepress-theme-vdoing: ★1</a>
 * <a href="https://github.com/eryajf/feishu">eryajf/feishu: ★1</a>
 * <a href="https://github.com/eryajf/anqiansong">eryajf/anqiansong: ★1</a>
 * <a href="https://github.com/eryajf/wepush">eryajf/wepush: ★1</a>

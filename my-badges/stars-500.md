@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★41</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★31</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★33</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★23</a>
@@ -13,15 +13,15 @@ Repos:
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★19</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★18</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★17</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★14</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★13</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★13</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★12</a>
-* <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
+* <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★12</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★7</a>
@@ -63,6 +63,7 @@ Repos:
 * <a href="https://github.com/eryajf/git">eryajf/git: ★1</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★1</a>
 * <a href="https://github.com/eryajf/wxwork-bot-go">eryajf/wxwork-bot-go: ★1</a>
+* <a href="https://github.com/eryajf/vuepress-theme-vdoing">eryajf/vuepress-theme-vdoing: ★1</a>
 * <a href="https://github.com/eryajf/feishu">eryajf/feishu: ★1</a>
 * <a href="https://github.com/eryajf/anqiansong">eryajf/anqiansong: ★1</a>
 * <a href="https://github.com/eryajf/wepush">eryajf/wepush: ★1</a>
