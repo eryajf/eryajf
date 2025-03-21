@@ -6,12 +6,12 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+<img src="https://cnb.cool/eryajf/eryajf/-/git/raw/main/src/image_20240420_214408.gif"
 width="800"  height="3">
 
 </div>
 
-<img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
+<img align='right' src="https://cnb.cool/eryajf/eryajf/-/git/raw/main/src/image_20220626_200153.gif?raw=true" width="450" height="390" />
 
 有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢以一种跳出去回望这个群体的样子，常常别有一番滋味。
 
@@ -118,7 +118,7 @@ width="800"  height="3">
 <details open>
 <summary>点击展开 ...</summary>
 
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+<img align='right' src="https://cnb.cool/eryajf/eryajf/-/git/raw/main/src/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
 - 🐻 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) 
