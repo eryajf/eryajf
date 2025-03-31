@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★41</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★40</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★35</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
@@ -21,7 +21,7 @@ Repos:
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★13</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★12</a>
-* <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★12</a>
+* <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★7</a>
