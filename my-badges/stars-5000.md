@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/opsre/awesome-ops">opsre/awesome-ops: ★1038</a>
+* <a href="https://github.com/opsre/awesome-ops">opsre/awesome-ops: ★1041</a>
 * <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★900</a>
-* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★521</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★465</a>
+* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★522</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★467</a>
 * <a href="https://github.com/opsre/cloud_dns_exporter">opsre/cloud_dns_exporter: ★327</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★285</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★263</a>
