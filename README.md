@@ -121,17 +121,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [用上赛博菩萨CNB，咱直接起飞](https://wiki.eryajf.net/pages/309a95/) 
+- 🐻 [记大宝参加幼儿园组织的清明烈士陵园扫墓活动](https://wiki.eryajf.net/pages/3734eb/) 
 
-- 🎃 [学习周刊-总第204期-2025年第13周](https://wiki.eryajf.net/pages/44eb60/) 
+- 🎃 [学习周刊-总第205期-2025年第14周](https://wiki.eryajf.net/pages/df6d73/) 
 
-- 🚀 [前端开发小笔记--在数组中给字段添加值与删除字段的操作](https://wiki.eryajf.net/pages/35167d/) 
+- 🚀 [用上赛博菩萨CNB，咱直接起飞](https://wiki.eryajf.net/pages/309a95/) 
 
-- 🌋 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) 
+- 🌋 [学习周刊-总第204期-2025年第13周](https://wiki.eryajf.net/pages/44eb60/) 
 
-- 🌁 [人生实苦，何以自渡](https://wiki.eryajf.net/pages/247697/) 
+- 🌁 [前端开发小笔记--在数组中给字段添加值与删除字段的操作](https://wiki.eryajf.net/pages/35167d/) 
 
-- 😺 [学习周刊-总第202期-2025年第11周](https://wiki.eryajf.net/pages/961b20/) 
+- 😺 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
