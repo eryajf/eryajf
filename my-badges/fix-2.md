@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/opsre/cloud_dns_exporter/commit/b718ece9a21a177453adcfa3c9526c3ce0c3229a">b718ece</a>: fix: 当id为空时,通过uuid填充
-- <a href="https://github.com/opsre/cloud_dns_exporter/commit/80e6e8fe5316cc1a3fd7c04c095c677e0a2d6d13">80e6e8f</a>: fix: 修复lint检查
+- <a href="https://github.com/eryajf/k8m/commit/51e4f81be02c28a8ba304fbc63861a74bac88e5f">51e4f81</a>: fix: build and push binary to release
+- <a href="https://github.com/eryajf/k8m/commit/3000e9f220c4018c8287599edf5be5be621f7bd4">3000e9f</a>: fix: env
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

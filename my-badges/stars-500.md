@@ -4,16 +4,16 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★40</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★35</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★41</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★36</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★23</a>
-* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★22</a>
+* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★19</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★19</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★18</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★17</a>
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★17</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★14</a>
@@ -24,11 +24,11 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
+* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★8</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★7</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★7</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
-* <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★7</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★6</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
