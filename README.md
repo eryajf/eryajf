@@ -122,7 +122,7 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [golang开发实践之gin框架将前端的dist目录embed到二进制](https://wiki.eryajf.net/pages/5d6f15/) 
+- 🐻 [Go开发实践之Gin框架将前端的dist目录embed到二进制](https://wiki.eryajf.net/pages/5d6f15/) 
 
 - 🎃 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) 
 
