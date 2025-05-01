@@ -6,10 +6,10 @@ Repos:
 
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★37</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
-* <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
-* <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★24</a>
+* <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
+* <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
-* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★20</a>
+* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★21</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★20</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★18</a>

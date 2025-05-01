@@ -4,29 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/alist/commit/cc752316c1e300a3f20c51608610d355565d3af6">cc75231</a>: fix: 修复容器运行环境时区的问题
-- <a href="https://github.com/eryajf/alist/commit/0e86036874a7576c99991dcf6b462a0cce51bb8b">0e86036</a>: fix(doge): reget client after refresh session (#6277)
-- <a href="https://github.com/eryajf/alist/commit/8a18f47e68d145b3c5287c7767dc3a33a54ae083">8a18f47</a>: fix(doge): the temporary access key is only valid for two hours (#6273)
-
-* feat: add doge driver
-
-* doc: 补充readme文档
-
-* fix: 对齐meta信息
-
-* fix: 调整结构体名字,与driver保持一致
-
-* perf: merge to s3
-
-* Rename goge.go to doge.go
-
-* fix: 解决多吉云临时秘钥两个小时过期的问题
-
-* fix: 定时任务在Drop中Stop
-
----------
-
-Co-authored-by: Andy Hsu <i@nn.ci>
+- <a href="https://github.com/eryajf/WatchAlert/commit/9066b6971fdf6ef17cb5dcae6d8772dd245c982c">9066b69</a>: fix: 修复action变量
+- <a href="https://github.com/eryajf/WatchAlert/commit/4043a934e906281a707f355adfb9c46ac99abbfd">4043a93</a>: fix: 修复action变量
+- <a href="https://github.com/eryajf/WatchAlert/commit/5298ce2e1a15f5cd7f3171a8faafbab8d4c57b35">5298ce2</a>: fix: 修复action变量
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
