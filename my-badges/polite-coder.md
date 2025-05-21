@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/GitHubDaily/GitHubDaily/issues/191">#191</a>: 【开源自荐】各种语言，软件，系统的国内镜像，收藏这一个仓库就够了： Thanks-Mirror
 - <a href="https://github.com/NYIST-CIPS/mirror-help/issues/4">#4</a>: fedora镜像没了
 - <a href="https://github.com/z3by/vuepress-tools/issues/274">#274</a>: How can I refer to this project to complete my own website construction
-- <a href="https://github.com/521xueweihan/HelloGitHub/issues/2196">#2196</a>: 自荐项目：Thanks-Mirror
+- <a href="https://github.com/eryajf/talk-opsre/issues/95">#95</a>: noovertime7/gin-mysqlbak: 一款分布式高性能的备份系统，支持 MySQL、ElasticSearch 备份，多集群任务统一，数据集中存储
 
  And many more...
 

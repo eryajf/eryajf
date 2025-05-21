@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★174</a>
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★156</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★176</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★158</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★63</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★51</a>
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★42</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★37</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★44</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★38</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
-* <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
+* <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★27</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★21</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★21</a>
@@ -28,8 +28,8 @@ Repos:
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★10</a>
+* <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
-* <a href="https://github.com/eryajf/luban">eryajf/luban: ★8</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★8</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★7</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★7</a>
@@ -98,6 +98,7 @@ Repos:
 * <a href="https://github.com/eryajf/smart-api">eryajf/smart-api: ★1</a>
 * <a href="https://github.com/eryajf/k8m">eryajf/k8m: ★1</a>
 * <a href="https://github.com/eryajf/doge-cdn-refresh">eryajf/doge-cdn-refresh: ★1</a>
+* <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
