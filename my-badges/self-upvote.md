@@ -2,9 +2,9 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/glidea/zenfeed/issues/1">👍</a>
 * <a href="https://github.com/opsre/go-ldap-admin/issues/10">👍</a>
 * <a href="https://github.com/CH563/shot-easy-website/issues/1">👍</a>
+* <a href="https://github.com/glidea/zenfeed/issues/1">👍</a>
 * <a href="https://github.com/AlistGo/alist/pull/6201">👀</a>
 * <a href="https://github.com/vuepress-reco/vuepress-theme-reco/discussions/1#discussioncomment-654633">👍</a>
 * <a href="https://github.com/opsre/go-ldap-admin/discussions/16#discussioncomment-2921445">👀</a>
