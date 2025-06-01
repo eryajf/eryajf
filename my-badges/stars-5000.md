@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/opsre/awesome-ops">opsre/awesome-ops: ★1255</a>
+* <a href="https://github.com/opsre/awesome-ops">opsre/awesome-ops: ★1257</a>
 * <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★904</a>
 * <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★540</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★512</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★513</a>
 * <a href="https://github.com/opsre/cloud_dns_exporter">opsre/cloud_dns_exporter: ★332</a>
-* <a href="https://github.com/weibaohui/k8m">weibaohui/k8m: ★298</a>
+* <a href="https://github.com/weibaohui/k8m">weibaohui/k8m: ★301</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★287</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★271</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★234</a>
@@ -61,6 +61,7 @@ Repos:
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★3</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★3</a>
 * <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★3</a>
+* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★3</a>
 * <a href="https://github.com/eryajf/learning_notes">eryajf/learning_notes: ★2</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★2</a>
@@ -71,7 +72,6 @@ Repos:
 * <a href="https://github.com/eryajf/chatgpt-wechat">eryajf/chatgpt-wechat: ★2</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★2</a>
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>

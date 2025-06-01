@@ -46,6 +46,7 @@ Repos:
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★3</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★3</a>
 * <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★3</a>
+* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★3</a>
 * <a href="https://github.com/eryajf/learning_notes">eryajf/learning_notes: ★2</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★2</a>
@@ -56,7 +57,6 @@ Repos:
 * <a href="https://github.com/eryajf/chatgpt-wechat">eryajf/chatgpt-wechat: ★2</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★2</a>
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
