@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★22</a>
-* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★21</a>
+* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★20</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★18</a>
