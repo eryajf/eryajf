@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★39</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★40</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
@@ -18,8 +18,8 @@ Repos:
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★14</a>
 * <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★14</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★13</a>
+* <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★13</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
-* <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★12</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★10</a>
