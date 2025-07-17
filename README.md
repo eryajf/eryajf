@@ -122,17 +122,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [从claude cli的体验聊聊最大的敌人是我们自己的成见](https://wiki.eryajf.net/pages/d89910/) 
+- 🐻 [写在博客发表文章1000篇的节点](https://wiki.eryajf.net/pages/4a3483/) 
 
-- 🎃 [学习周刊-总第219期-2025年第28周](https://wiki.eryajf.net/pages/51b4db/) 
+- 🎃 [从claude cli的体验聊聊最大的敌人是我们自己的成见](https://wiki.eryajf.net/pages/d89910/) 
 
-- 🚀 [学习周刊-总第218期-2025年第27周](https://wiki.eryajf.net/pages/e7d8be/) 
+- 🚀 [学习周刊-总第219期-2025年第28周](https://wiki.eryajf.net/pages/51b4db/) 
 
-- 🌋 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) 
+- 🌋 [学习周刊-总第218期-2025年第27周](https://wiki.eryajf.net/pages/e7d8be/) 
 
-- 🌁 [理论正确，事实错误](https://wiki.eryajf.net/pages/681e50/) 
+- 🌁 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) 
 
-- 😺 [学习周刊-总第216期-2025年第25周](https://wiki.eryajf.net/pages/e5cffc/) 
+- 😺 [理论正确，事实错误](https://wiki.eryajf.net/pages/681e50/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
