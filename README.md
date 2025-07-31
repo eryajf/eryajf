@@ -122,17 +122,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) 
+- 🐻 [学习周刊-总第222期-2025年第31周](https://wiki.eryajf.net/pages/300813/) 
 
-- 🎃 [CNB云原生开发环境届的瑞士军刀，详解qifei项目](https://wiki.eryajf.net/pages/001f23/) 
+- 🎃 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) 
 
-- 🚀 [vuepress-vdoing主题配置自建不蒜子统计](https://wiki.eryajf.net/pages/c323b1/) 
+- 🚀 [CNB云原生开发环境届的瑞士军刀，详解qifei项目](https://wiki.eryajf.net/pages/001f23/) 
 
-- 🌋 [学习周刊-总第220期-2025年第29周](https://wiki.eryajf.net/pages/44ed45/) 
+- 🌋 [vuepress-vdoing主题配置自建不蒜子统计](https://wiki.eryajf.net/pages/c323b1/) 
 
-- 🌁 [写在博客发表文章1000篇的节点](https://wiki.eryajf.net/pages/4a3483/) 
+- 🌁 [学习周刊-总第220期-2025年第29周](https://wiki.eryajf.net/pages/44ed45/) 
 
-- 😺 [从claude cli的体验聊聊最大的敌人是我们自己的成见](https://wiki.eryajf.net/pages/d89910/) 
+- 😺 [写在博客发表文章1000篇的节点](https://wiki.eryajf.net/pages/4a3483/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
