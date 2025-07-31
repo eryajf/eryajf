@@ -56,7 +56,7 @@
 - <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag</a>
 - <a href="https://github.com/eryajf/glactl">eryajf/glactl</a>
 - <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk</a>
-- <a href="https://github.com/eryajf/doge-cdn-refresh">eryajf/doge-cdn-refresh</a>
+- <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

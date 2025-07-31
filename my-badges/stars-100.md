@@ -25,6 +25,7 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-chatgpt-1">eryajf/awesome-chatgpt-1: ★2</a>
 * <a href="https://github.com/eryajf/chatgpt-wechat">eryajf/chatgpt-wechat: ★2</a>
 * <a href="https://github.com/eryajf/zze-admin-go">eryajf/zze-admin-go: ★2</a>
+* <a href="https://github.com/eryajf/xirang-web">eryajf/xirang-web: ★2</a>
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
@@ -59,10 +60,9 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-ui-pure">eryajf/xirang-ui-pure: ★1</a>
 * <a href="https://github.com/eryajf/ollama">eryajf/ollama: ★1</a>
 * <a href="https://github.com/eryajf/alist">eryajf/alist: ★1</a>
-* <a href="https://github.com/eryajf/xirang-web">eryajf/xirang-web: ★1</a>
 * <a href="https://github.com/eryajf/smart-api">eryajf/smart-api: ★1</a>
 * <a href="https://github.com/eryajf/k8m">eryajf/k8m: ★1</a>
-* <a href="https://github.com/eryajf/doge-cdn-refresh">eryajf/doge-cdn-refresh: ★1</a>
+* <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★1</a>
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
