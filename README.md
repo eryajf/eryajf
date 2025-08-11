@@ -110,6 +110,7 @@ width="100%"  height="2">
 | [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/eryajf/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloud_dns_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息。 |
 | [go-enterprise-email-sdk](https://github.com/eryajf/go-enterprise-email-sdk) | ![](https://img.shields.io/github/stars/eryajf/go-enterprise-email-sdk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-enterprise-email-sdk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💌 阿里企业邮箱 GO 语言 SDK 📬 |
 | [JenkinsGuide](https://github.com/opsre/JenkinsGuide) | ![](https://img.shields.io/github/stars/opsre/JenkinsGuide?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/JenkinsGuide?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📜 Jenkins全知全解。 |
+| [awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) | ![](https://img.shields.io/github/stars/eryajf/awesome-utools-plugins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-utools-plugins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦄 汇集优秀的uTools开源插件 |
 
 </details>
 
