@@ -123,17 +123,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) 
+- 🐻 [学习周刊-总第224期-2025年第33周](https://wiki.eryajf.net/pages/7d1d90/) 
 
-- 🎃 [学习周刊-总第222期-2025年第31周](https://wiki.eryajf.net/pages/300813/) 
+- 🎃 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) 
 
-- 🚀 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) 
+- 🚀 [学习周刊-总第222期-2025年第31周](https://wiki.eryajf.net/pages/300813/) 
 
-- 🌋 [CNB云原生开发环境届的瑞士军刀，详解qifei项目](https://wiki.eryajf.net/pages/001f23/) 
+- 🌋 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) 
 
-- 🌁 [vuepress-vdoing主题配置自建不蒜子统计](https://wiki.eryajf.net/pages/c323b1/) 
+- 🌁 [CNB云原生开发环境届的瑞士军刀，详解qifei项目](https://wiki.eryajf.net/pages/001f23/) 
 
-- 😺 [学习周刊-总第220期-2025年第29周](https://wiki.eryajf.net/pages/44ed45/) 
+- 😺 [vuepress-vdoing主题配置自建不蒜子统计](https://wiki.eryajf.net/pages/c323b1/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
