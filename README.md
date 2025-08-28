@@ -130,17 +130,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [带你认识我之看看我的高中同学录&lpar;其一&rpar;](https://wiki.eryajf.net/pages/0c9e77/) 
+- 🐻 [带你认识我之看看我的高中同学录&lpar;其二&rpar;](https://wiki.eryajf.net/pages/b2247a/) 
 
-- 🎃 [认识神级MCP工具系列--用anyquery和数据库交互](https://wiki.eryajf.net/pages/dc1861/) 
+- 🎃 [学习周刊-总第226期-2025年第35周](https://wiki.eryajf.net/pages/003525/) 
 
-- 🚀 [学习周刊-总第225期-2025年第34周](https://wiki.eryajf.net/pages/2b8afa/) 
+- 🚀 [带你认识我之看看我的高中同学录&lpar;其一&rpar;](https://wiki.eryajf.net/pages/0c9e77/) 
 
-- 🌋 [&lpar;gaccode&rpar;国内通过镜像安装Claude Code以及使用gaccode稳定服务](https://wiki.eryajf.net/pages/613a78/) 
+- 🌋 [认识神级MCP工具系列--用anyquery和数据库交互](https://wiki.eryajf.net/pages/dc1861/) 
 
-- 🌁 [学习周刊-总第224期-2025年第33周](https://wiki.eryajf.net/pages/7d1d90/) 
+- 🌁 [学习周刊-总第225期-2025年第34周](https://wiki.eryajf.net/pages/2b8afa/) 
 
-- 😺 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) 
+- 😺 [&lpar;gaccode&rpar;国内通过镜像安装Claude Code以及使用gaccode稳定服务](https://wiki.eryajf.net/pages/613a78/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
