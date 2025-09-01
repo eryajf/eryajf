@@ -5,8 +5,8 @@
 Repos:
 
 * <a href="https://github.com/eryajf/HowToStartOpenSource">eryajf/HowToStartOpenSource: ★909</a>
-* <a href="https://github.com/weibaohui/k8m">weibaohui/k8m: ★629</a>
-* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★562</a>
+* <a href="https://github.com/weibaohui/k8m">weibaohui/k8m: ★630</a>
+* <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★563</a>
 * <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★561</a>
 * <a href="https://github.com/opsre/cloud_dns_exporter">opsre/cloud_dns_exporter: ★343</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★288</a>
