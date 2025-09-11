@@ -130,17 +130,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [父亲善行录](https://wiki.eryajf.net/pages/6e068d/) 
+- 🐻 [学习周刊-总第228期-2025年第37周](https://wiki.eryajf.net/pages/d0dd08/) 
 
-- 🎃 [gitlab备份恢复之后出现500错误之轻解](https://wiki.eryajf.net/pages/bfdc85/) 
+- 🎃 [父亲善行录](https://wiki.eryajf.net/pages/6e068d/) 
 
-- 🚀 [学习周刊-总第227期-2025年第36周](https://wiki.eryajf.net/pages/e9f370/) 
+- 🚀 [gitlab备份恢复之后出现500错误之轻解](https://wiki.eryajf.net/pages/bfdc85/) 
 
-- 🌋 [带你认识我之看看我的高中同学录&lpar;其二&rpar;](https://wiki.eryajf.net/pages/b2247a/) 
+- 🌋 [学习周刊-总第227期-2025年第36周](https://wiki.eryajf.net/pages/e9f370/) 
 
-- 🌁 [学习周刊-总第226期-2025年第35周](https://wiki.eryajf.net/pages/003525/) 
+- 🌁 [带你认识我之看看我的高中同学录&lpar;其二&rpar;](https://wiki.eryajf.net/pages/b2247a/) 
 
-- 😺 [带你认识我之看看我的高中同学录&lpar;其一&rpar;](https://wiki.eryajf.net/pages/0c9e77/) 
+- 😺 [学习周刊-总第226期-2025年第35周](https://wiki.eryajf.net/pages/003525/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
