@@ -130,17 +130,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [手抄《与妻书》](https://wiki.eryajf.net/pages/5fea56/) 
+- 🐻 [学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/) 
 
-- 🎃 [CNB开发与构建基于docker-cache缓存复用的配置实践心得](https://wiki.eryajf.net/pages/1a817f/) 
+- 🎃 [手抄《与妻书》](https://wiki.eryajf.net/pages/5fea56/) 
 
-- 🚀 [学习周刊-总第228期-2025年第37周](https://wiki.eryajf.net/pages/d0dd08/) 
+- 🚀 [CNB开发与构建基于docker-cache缓存复用的配置实践心得](https://wiki.eryajf.net/pages/1a817f/) 
 
-- 🌋 [父亲善行录](https://wiki.eryajf.net/pages/6e068d/) 
+- 🌋 [学习周刊-总第228期-2025年第37周](https://wiki.eryajf.net/pages/d0dd08/) 
 
-- 🌁 [gitlab备份恢复之后出现500错误之轻解](https://wiki.eryajf.net/pages/bfdc85/) 
+- 🌁 [父亲善行录](https://wiki.eryajf.net/pages/6e068d/) 
 
-- 😺 [学习周刊-总第227期-2025年第36周](https://wiki.eryajf.net/pages/e9f370/) 
+- 😺 [gitlab备份恢复之后出现500错误之轻解](https://wiki.eryajf.net/pages/bfdc85/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
