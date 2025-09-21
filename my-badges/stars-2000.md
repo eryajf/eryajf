@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★288</a>
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★280</a>
+* <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★290</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★281</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★235</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★201</a>
 * <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★187</a>
@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★51</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★41</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★29</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>

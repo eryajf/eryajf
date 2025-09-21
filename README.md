@@ -191,5 +191,6 @@ width="100%"  height="2">
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
 <!-- my-badges end -->
 
