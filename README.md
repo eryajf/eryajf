@@ -130,17 +130,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) 
+- 🐻 [学习周刊-总第231期-2025年第40周](https://wiki.eryajf.net/pages/58366d/) 
 
-- 🎃 [西湖毅行](https://wiki.eryajf.net/pages/97c5e8/) 
+- 🎃 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) 
 
-- 🚀 [2025年开源世界逸闻三则](https://wiki.eryajf.net/pages/423e8f/) 
+- 🚀 [西湖毅行](https://wiki.eryajf.net/pages/97c5e8/) 
 
-- 🌋 [手抄《钱神论》](https://wiki.eryajf.net/pages/3af8c6/) 
+- 🌋 [2025年开源世界逸闻三则](https://wiki.eryajf.net/pages/423e8f/) 
 
-- 🌁 [学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/) 
+- 🌁 [手抄《钱神论》](https://wiki.eryajf.net/pages/3af8c6/) 
 
-- 😺 [手抄《与妻书》](https://wiki.eryajf.net/pages/5fea56/) 
+- 😺 [学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
