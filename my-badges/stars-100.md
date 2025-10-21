@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/Learning-Weekly-old">eryajf/Learning-Weekly-old: ★4</a>
 * <a href="https://github.com/eryajf/docsify-template">eryajf/docsify-template: ★4</a>
 * <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★4</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★4</a>
@@ -64,6 +63,7 @@ Repos:
 * <a href="https://github.com/eryajf/k8m">eryajf/k8m: ★1</a>
 * <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★1</a>
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
+* <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
