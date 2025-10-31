@@ -9,13 +9,13 @@ Repos:
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★64</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★53</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★51</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★42</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★43</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
-* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★28</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★25</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★22</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★18</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★17</a>
@@ -102,6 +102,7 @@ Repos:
 * <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★1</a>
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
+* <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
