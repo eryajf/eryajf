@@ -5,15 +5,15 @@
 Repos:
 
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★293</a>
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★282</a>
-* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★233</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★283</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★234</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★202</a>
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★190</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★191</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★164</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★64</a>
-* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★53</a>
+* <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★54</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★51</a>
-* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★43</a>
+* <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★44</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★28</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
@@ -34,9 +34,9 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★10</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
+* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★8</a>
-* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★8</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★8</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★6</a>

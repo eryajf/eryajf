@@ -24,9 +24,9 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★10</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
+* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★8</a>
-* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★8</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★8</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★6</a>
