@@ -11,7 +11,7 @@ Repos:
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★25</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
-* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★18</a>
+* <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★19</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★16</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
@@ -21,7 +21,7 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★13</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★12</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
-* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★10</a>
+* <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★11</a>
 * <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★10</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
