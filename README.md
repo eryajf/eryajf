@@ -130,17 +130,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [开源项目ZenOps：带你领略禅意运维](https://wiki.eryajf.net/pages/a908c5/) 
+- 🐻 [学习周刊-总第242期-2025年第51周](https://wiki.eryajf.net/pages/131566/) 
 
-- 🎃 [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) 
+- 🎃 [开源项目ZenOps：带你领略禅意运维](https://wiki.eryajf.net/pages/a908c5/) 
 
-- 🚀 [用京东金融，享负债人生](https://wiki.eryajf.net/pages/7c119e/) 
+- 🚀 [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) 
 
-- 🌋 [学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/) 
+- 🌋 [用京东金融，享负债人生](https://wiki.eryajf.net/pages/7c119e/) 
 
-- 🌁 [学习周刊-总第239期-2025年第48周](https://wiki.eryajf.net/pages/7b0c3c/) 
+- 🌁 [学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/) 
 
-- 😺 [整理我在静态服务透明代理上的极致求索之路，最后一个你绝想不到](https://wiki.eryajf.net/pages/4b57e5/) 
+- 😺 [学习周刊-总第239期-2025年第48周](https://wiki.eryajf.net/pages/7b0c3c/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
