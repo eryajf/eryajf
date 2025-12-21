@@ -5,8 +5,9 @@
 Repos:
 
 * <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★190</a>
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★166</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★167</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★65</a>
+* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★63</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★54</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★52</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★45</a>

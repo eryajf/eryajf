@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/opsre/ZenOps/commit/d3b76c57e86eb25ff84acdff5afe14331bc2eb5b">d3b76c5</a>
 - <a href="https://github.com/opsre/go-ldap-admin/commit/223e64c500051e506bd3793b9a8901818afaad5b">223e64c</a>
 
 
