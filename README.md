@@ -118,6 +118,7 @@ width="100%"  height="2">
 | [go-enterprise-email-sdk](https://github.com/eryajf/go-enterprise-email-sdk) | ![](https://img.shields.io/github/stars/eryajf/go-enterprise-email-sdk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-enterprise-email-sdk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💌 阿里企业邮箱 GO 语言 SDK 📬 |
 | [JenkinsGuide](https://github.com/opsre/JenkinsGuide) | ![](https://img.shields.io/github/stars/opsre/JenkinsGuide?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/JenkinsGuide?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📜 Jenkins全知全解。 |
 | [awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) | ![](https://img.shields.io/github/stars/eryajf/awesome-utools-plugins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-utools-plugins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦄 汇集优秀的uTools开源插件 |
+| [ZenOps](https://github.com/eryajf/ZenOps) | ![](https://img.shields.io/github/stars/eryajf/ZenOps?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/ZenOps?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧘 通过钉钉、飞书、企微智能机器人用自然语言查询运维资源的工具 |
 
 </details>
 
