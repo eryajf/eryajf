@@ -36,7 +36,9 @@ width="100%"  height="2">
 
 ### 🧰 语言工具
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws&theme=light)](https://github.com/eryajf)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws)](https://github.com/eryajf)
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" /></div>
 
 ### 💻 Stats
 
@@ -49,7 +51,6 @@ width="100%"  height="2">
 
 ![](https://github-immortality.vercel.app/api?username=eryajf)
 
-[![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 <picture>
   <source
