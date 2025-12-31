@@ -26,6 +26,7 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-web">eryajf/xirang-web: ★2</a>
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
 * <a href="https://github.com/eryajf/smart-api">eryajf/smart-api: ★2</a>
+* <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
@@ -61,7 +62,6 @@ Repos:
 * <a href="https://github.com/eryajf/alist">eryajf/alist: ★1</a>
 * <a href="https://github.com/eryajf/ops-api">eryajf/ops-api: ★1</a>
 * <a href="https://github.com/eryajf/k8m">eryajf/k8m: ★1</a>
-* <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★1</a>
 * <a href="https://github.com/eryajf/WatchAlert">eryajf/WatchAlert: ★1</a>
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>

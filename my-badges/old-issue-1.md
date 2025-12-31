@@ -5,6 +5,7 @@
 Issues:
 
 - <a href="https://github.com/opsre/go-ldap-admin/issues/14">#14</a>: 🧐功能或BUG优先级，欢迎大家投票
+- <a href="https://github.com/opsre/go-ldap-admin/issues/18">#18</a>: 🥳谁在使用 go-ldap-admin
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
