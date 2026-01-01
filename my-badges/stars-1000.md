@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★168</a>
-* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★76</a>
+* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★77</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★66</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★53</a>
