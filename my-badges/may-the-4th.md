@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you! Commits of force:" title="May the 4th be with you! Commits of force:" width="128">
-<strong>May the 4th be with you! Commits of force:</strong>
+<img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="128">
+<strong>May the 4th be with you!</strong>
 <br><br>
 
 Commits:

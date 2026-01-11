@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★168</a>
-* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★77</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★169</a>
+* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★118</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★66</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★53</a>
@@ -18,11 +18,11 @@ Repos:
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★23</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★19</a>
+* <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★17</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★16</a>
-* <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★16</a>
+* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★15</a>
-* <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate: ★15</a>
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★14</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★14</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★13</a>
@@ -66,6 +66,7 @@ Repos:
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
 * <a href="https://github.com/eryajf/smart-api">eryajf/smart-api: ★2</a>
 * <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★2</a>
+* <a href="https://github.com/eryajf/zenops-web">eryajf/zenops-web: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>

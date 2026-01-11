@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★4</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★4</a>
@@ -27,6 +26,7 @@ Repos:
 * <a href="https://github.com/eryajf/domain-helper">eryajf/domain-helper: ★2</a>
 * <a href="https://github.com/eryajf/smart-api">eryajf/smart-api: ★2</a>
 * <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh: ★2</a>
+* <a href="https://github.com/eryajf/zenops-web">eryajf/zenops-web: ★2</a>
 * <a href="https://github.com/eryajf/halo">eryajf/halo: ★1</a>
 * <a href="https://github.com/eryajf/elk-docker">eryajf/elk-docker: ★1</a>
 * <a href="https://github.com/eryajf/follow-me-install-kubernetes-cluster">eryajf/follow-me-install-kubernetes-cluster: ★1</a>
