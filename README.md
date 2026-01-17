@@ -133,17 +133,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第246期-2026年第03周](https://wiki.eryajf.net/pages/d06784/) 
+- 🐻 [Nexus社区版权益阉割--一文告诉你有哪些版本可以选择](https://wiki.eryajf.net/pages/b6b711/) 
 
-- 🎃 [学习周刊-总第245期-2026年第02周](https://wiki.eryajf.net/pages/b8d1f9/) 
+- 🎃 [手把手教你构建企业级Debian/Ubuntu软件仓库：万字详解 Nexus3 APT代理配置实践](https://wiki.eryajf.net/pages/49c63f/) 
 
-- 🚀 [学习周刊-总第244期-2026年第01周](https://wiki.eryajf.net/pages/d70a85/) 
+- 🚀 [学习周刊-总第246期-2026年第03周](https://wiki.eryajf.net/pages/d06784/) 
 
-- 🌋 [学习周刊-总第243期-2025年第52周](https://wiki.eryajf.net/pages/211cb3/) 
+- 🌋 [学习周刊-总第245期-2026年第02周](https://wiki.eryajf.net/pages/b8d1f9/) 
 
-- 🌁 [学习周刊-总第242期-2025年第51周](https://wiki.eryajf.net/pages/131566/) 
+- 🌁 [学习周刊-总第244期-2026年第01周](https://wiki.eryajf.net/pages/d70a85/) 
 
-- 😺 [开源项目ZenOps：带你领略禅意运维](https://wiki.eryajf.net/pages/a908c5/) 
+- 😺 [学习周刊-总第243期-2025年第52周](https://wiki.eryajf.net/pages/211cb3/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
