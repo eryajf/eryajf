@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★170</a>
-* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★137</a>
+* <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★174</a>
+* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★145</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★66</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★53</a>
