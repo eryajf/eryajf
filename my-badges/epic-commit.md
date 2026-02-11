@@ -13,6 +13,8 @@ Commits:
 - <a href="https://github.com/opsre/ZenOps/commit/9ba045c2e79657e8759488928e4f798d5478c33e">9ba045c</a>
 - <a href="https://github.com/opsre/ZenOps/commit/d3b76c57e86eb25ff84acdff5afe14331bc2eb5b">d3b76c5</a>
 - <a href="https://github.com/opsre/cloud_dns_exporter/commit/a4451afab5cfc120ae4cc4c6cebf967a3802b3b1">a4451af</a>
+- <a href="https://github.com/opsre/go-ldap-admin-ui/commit/1e64daffe8e369a309f39fbb900fb34b31888a68">1e64daf</a>
+- <a href="https://github.com/opsre/go-ldap-admin/commit/3e937e31a58b2933dca27374fc2585aeddebbe5b">3e937e3</a>
 - <a href="https://github.com/opsre/go-ldap-admin/commit/223e64c500051e506bd3793b9a8901818afaad5b">223e64c</a>
 
 

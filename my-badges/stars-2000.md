@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★292</a>
-* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★239</a>
+* <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★291</a>
+* <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★238</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★206</a>
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★191</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★189</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★174</a>
-* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★146</a>
+* <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★151</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★66</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★56</a>
 * <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★53</a>
@@ -42,6 +42,7 @@ Repos:
 * <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★6</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★5</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
+* <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
 * <a href="https://github.com/eryajf/t">eryajf/t: ★4</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>
