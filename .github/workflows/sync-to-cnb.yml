@@ -1,6 +1,10 @@
 name: Sync to CNB
 
-on: [push]
+on:
+  push:     # 推送代码时触发
+  workflow_dispatch: # 支持手动点击按钮触发（调试神器）
+  schedule:
+    - cron: '0 6 * * *' # 可选：每 6 小时自动同步一次，防止漏掉某些边缘情况
 
 jobs:
   sync:
