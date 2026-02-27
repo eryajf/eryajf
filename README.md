@@ -134,17 +134,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第251期-2026年第08周](https://wiki.eryajf.net/pages/f80a48/) 
+- 🐻 [学习周刊-总第252期-2026年第09周](https://wiki.eryajf.net/pages/5d3e72/) 
 
-- 🎃 [学习周刊-总第250期-2026年第07周](https://wiki.eryajf.net/pages/c8b5cc/) 
+- 🎃 [学习周刊-总第251期-2026年第08周](https://wiki.eryajf.net/pages/f80a48/) 
 
-- 🚀 [学习周刊-总第249期-2026年第06周](https://wiki.eryajf.net/pages/ddc309/) 
+- 🚀 [学习周刊-总第250期-2026年第07周](https://wiki.eryajf.net/pages/c8b5cc/) 
 
-- 🌋 [诚邀评论，聊聊你所知欲知的我](https://wiki.eryajf.net/pages/8097c2/) 
+- 🌋 [学习周刊-总第249期-2026年第06周](https://wiki.eryajf.net/pages/ddc309/) 
 
-- 🌁 [学习周刊-总第248期-2026年第05周](https://wiki.eryajf.net/pages/ccedb7/) 
+- 🌁 [诚邀评论，聊聊你所知欲知的我](https://wiki.eryajf.net/pages/8097c2/) 
 
-- 😺 [我的QQ动态之2015年](https://wiki.eryajf.net/pages/f1497b/) 
+- 😺 [学习周刊-总第248期-2026年第05周](https://wiki.eryajf.net/pages/ccedb7/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
