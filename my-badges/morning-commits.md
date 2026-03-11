@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader/commit/4b4c0442de148991c3ea153f7c534f34123835f2">4b4c044</a>
+- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader/commit/9264f7d0658da34113c3e57735cae363c315edc6">9264f7d</a>
+- <a href="https://github.com/eryajf/obsidian-clipper/commit/fd2b8fa1f9351f7a3b7bebd77dbe51398d7993ab">fd2b8fa</a>
+- <a href="https://github.com/eryajf/obsidian-clipper/commit/edf6f0df2408b5ffd1d488a69ea49e9c56b7b22e">edf6f0d</a>
+- <a href="https://github.com/eryajf/obsidian-clipper/commit/b1d2d6e0df86da51bd4f5fd5c1a9b9b53c5f22be">b1d2d6e</a>
 - <a href="https://github.com/opsre/ZenOps/commit/374fa7941bd58ac66f0a38673028ec5698d54ba3">374fa79</a>
-- <a href="https://github.com/opsre/cloud_dns_exporter/commit/e377918745d75269e1760bf800be15a40af8d241">e377918</a>
-- <a href="https://github.com/opsre/cloud_dns_exporter/commit/49a069e60a1e145777770681b308ab4b41e2787b">49a069e</a>
-- <a href="https://github.com/opsre/cloud_dns_exporter/commit/b922bbaca10e0a22927a4edd9d16ddb14ba376ea">b922bba</a>
-- <a href="https://github.com/eryajf/zenops-web/commit/0b85c5ba84ed80777558ec065eabdd67be45f54e">0b85c5b</a>
-- <a href="https://github.com/eryajf/zenops-web/commit/f7a5d520d885f77dc52e91576bb042751e65684e">f7a5d52</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
