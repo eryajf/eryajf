@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. update (used 840 times)
 2. updated (used 833 times)
-3. powered (used 716 times)
-4. https://github.com/gee1k/upic (used 716 times)
+3. powered (used 732 times)
+4. https://github.com/gee1k/upic (used 732 times)
 5. github (used 662 times)
 
 

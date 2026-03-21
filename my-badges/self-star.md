@@ -34,7 +34,6 @@
 - <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template</a>
 - <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt</a>
 - <a href="https://github.com/eryajf/read-list">eryajf/read-list</a>
-- <a href="https://github.com/eryajf/rfyiamcool">eryajf/rfyiamcool</a>
 - <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress</a>
 - <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles</a>
 - <a href="https://github.com/eryajf/emotion_generate">eryajf/emotion_generate</a>
@@ -59,6 +58,7 @@
 - <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh</a>
 - <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins</a>
 - <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills</a>
+- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

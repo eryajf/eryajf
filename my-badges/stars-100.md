@@ -4,19 +4,18 @@
 
 Repos:
 
+* <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★4</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★4</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★4</a>
 * <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★4</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★4</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★3</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
 * <a href="https://github.com/eryajf/Artalk">eryajf/Artalk: ★3</a>
 * <a href="https://github.com/eryajf/learning_notes">eryajf/learning_notes: ★2</a>
 * <a href="https://github.com/eryajf/video">eryajf/video: ★2</a>
-* <a href="https://github.com/eryajf/rfyiamcool">eryajf/rfyiamcool: ★2</a>
 * <a href="https://github.com/eryajf/reference">eryajf/reference: ★2</a>
 * <a href="https://github.com/eryajf/FreeSql.Wiki.VuePress">eryajf/FreeSql.Wiki.VuePress: ★2</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-1">eryajf/awesome-chatgpt-1: ★2</a>
@@ -66,6 +65,8 @@ Repos:
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
+* <a href="https://github.com/eryajf/openocta">eryajf/openocta: ★1</a>
+* <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
