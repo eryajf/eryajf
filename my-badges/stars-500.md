@@ -19,9 +19,9 @@ Repos:
 * <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★14</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★14</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★13</a>
+* <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★13</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★11</a>
-* <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
@@ -29,9 +29,9 @@ Repos:
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★8</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
 * <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★6</a>
+* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★6</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★5</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★5</a>
 * <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
 * <a href="https://github.com/eryajf/t">eryajf/t: ★4</a>
@@ -44,6 +44,7 @@ Repos:
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★4</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★4</a>
 * <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★4</a>
+* <a href="https://github.com/eryajf/openocta">eryajf/openocta: ★4</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★3</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
@@ -99,7 +100,6 @@ Repos:
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
-* <a href="https://github.com/eryajf/openocta">eryajf/openocta: ★1</a>
 * <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>

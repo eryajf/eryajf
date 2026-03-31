@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/go-awesome">eryajf/go-awesome: ★4</a>
 * <a href="https://github.com/eryajf/deploy-playbook">eryajf/deploy-playbook: ★4</a>
 * <a href="https://github.com/eryajf/Jenkinsfile">eryajf/Jenkinsfile: ★4</a>
 * <a href="https://github.com/eryajf/promwrite">eryajf/promwrite: ★4</a>
 * <a href="https://github.com/eryajf/glactl">eryajf/glactl: ★4</a>
 * <a href="https://github.com/eryajf/smart-ui">eryajf/smart-ui: ★4</a>
+* <a href="https://github.com/eryajf/openocta">eryajf/openocta: ★4</a>
 * <a href="https://github.com/eryajf/chinese-independent-blogs">eryajf/chinese-independent-blogs: ★3</a>
 * <a href="https://github.com/eryajf/tu">eryajf/tu: ★3</a>
 * <a href="https://github.com/eryajf/chatgpt">eryajf/chatgpt: ★3</a>
@@ -65,7 +65,6 @@ Repos:
 * <a href="https://github.com/eryajf/kom">eryajf/kom: ★1</a>
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
-* <a href="https://github.com/eryajf/openocta">eryajf/openocta: ★1</a>
 * <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
