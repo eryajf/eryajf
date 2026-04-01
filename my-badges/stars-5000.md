@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★293</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★239</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★205</a>
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★192</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★194</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★175</a>
 * <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★159</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★65</a>
