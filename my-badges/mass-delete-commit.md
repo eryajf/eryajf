@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/huntly/commit/6638383c650ce2a0e9c73b8c757815f060edc833">6638383</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/43459d3360e1c93529e7fac4be98d4b35d083315">43459d3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
