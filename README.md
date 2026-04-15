@@ -122,6 +122,7 @@ width="100%"  height="2">
 | [awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) | ![](https://img.shields.io/github/stars/eryajf/awesome-utools-plugins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-utools-plugins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦄 汇集优秀的uTools开源插件 |
 | [ZenOps](https://github.com/eryajf/ZenOps) | ![](https://img.shields.io/github/stars/eryajf/ZenOps?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/ZenOps?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧘 通过钉钉、飞书、企微智能机器人用自然语言查询运维资源的工具 |
 | [learn-skills](https://github.com/eryajf/learn-skills) | ![](https://img.shields.io/github/stars/eryajf/learn-skills?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/learn-skills?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙇 与其 awesome skills，不如 learn a skill |
+| [kite-desktop](https://github.com/eryajf/kite-desktop) | ![](https://img.shields.io/github/stars/eryajf/kite-desktop?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/kite-desktop?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🪁 一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 |
 
 </details>
 
