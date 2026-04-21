@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/kite-desktop/commit/7fd3b7c3b228098b91c569b87a2a79d434bcad16">7fd3b7c</a>
 - <a href="https://github.com/eryajf/zenops-web/commit/c29c6ce0880c233c987e46dc3e29b6b896c01f23">c29c6ce</a>
 - <a href="https://github.com/eryajf/zenops-web/commit/1b510bbe81203336db69e78dd632df242e87ade8">1b510bb</a>
 - <a href="https://github.com/eryajf/zenops-web/commit/a36a687079593eec0b218317aed18501a94310c7">a36a687</a>

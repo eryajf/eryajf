@@ -6,6 +6,7 @@
 - <a href="https://github.com/awesome-ops/awesome-ops.github.io/issues/42">#42</a>
 - <a href="https://github.com/opsre/go-ldap-admin/issues/42">#42</a>
 - <a href="https://github.com/opsre/go-ldap-admin-ui/issues/42">#42</a>
+- <a href="https://github.com/eryajf/kite-desktop/issues/42">#42</a>
 - <a href="https://github.com/weibaohui/k8m/issues/42">#42</a>
 
 

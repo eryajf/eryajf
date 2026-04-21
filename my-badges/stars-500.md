@@ -4,7 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★26</a>
+* <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>
+* <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★27</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★23</a>
@@ -32,7 +33,6 @@ Repos:
 * <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills: ★6</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★5</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
-* <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
 * <a href="https://github.com/eryajf/t">eryajf/t: ★4</a>
 * <a href="https://github.com/eryajf/wiki-eryajf">eryajf/wiki-eryajf: ★4</a>

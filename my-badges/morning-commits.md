@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/kite-desktop/commit/bb286ef6ccb0300555850b1de2f1c585f6c4852c">bb286ef</a>
-- <a href="https://github.com/eryajf/go-ldap-admin-doc/commit/f461c1607155111c99036231b984b647d6598c4c">f461c16</a>
-- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader/commit/4b4c0442de148991c3ea153f7c534f34123835f2">4b4c044</a>
-- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader/commit/9264f7d0658da34113c3e57735cae363c315edc6">9264f7d</a>
-- <a href="https://github.com/eryajf/obsidian-clipper/commit/fd2b8fa1f9351f7a3b7bebd77dbe51398d7993ab">fd2b8fa</a>
-- <a href="https://github.com/eryajf/obsidian-clipper/commit/edf6f0df2408b5ffd1d488a69ea49e9c56b7b22e">edf6f0d</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/b065d00b461ca2b7c01aee7b357c4c14dcc38352">b065d00</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/a946a49204ade84b951ba09801a6126d6509f8cd">a946a49</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/031fd40ecadd4a4b78cc83e6bd6b319d7c591376">031fd40</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/3c3e18cf56d31e6b3b67b640d34aa9a6b92eec77">3c3e18c</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/49cb3e597adf72aff3f54a2c3ab02ba26f9cf7e6">49cb3e5</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/35e24d32551ab9c04841e7df68b84c354fc3a914">35e24d3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
