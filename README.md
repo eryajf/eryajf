@@ -36,15 +36,17 @@ width="100%"  height="2">
 
 ### 🧰 语言工具
 
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" /></td>
+  </tr>
+</table>
 
 [![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws)](https://github.com/eryajf)
 
