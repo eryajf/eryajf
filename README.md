@@ -145,17 +145,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [告别 kubectl 黑框，开源一个基于 Wails 打造 K8S 多集群管理工具](https://wiki.eryajf.net/pages/f91541/) 
+- 🐻 [学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/) 
 
-- 🎃 [学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/) 
+- 🎃 [告别 kubectl 黑框，开源一个基于 Wails 打造 K8S 多集群管理工具](https://wiki.eryajf.net/pages/f91541/) 
 
-- 🚀 [标毅毕业--上山用力，下山随势](https://wiki.eryajf.net/pages/60cc18/) 
+- 🚀 [学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/) 
 
-- 🌋 [学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/) 
+- 🌋 [标毅毕业--上山用力，下山随势](https://wiki.eryajf.net/pages/60cc18/) 
 
-- 🌁 [学习周刊-总第257期-2026年第14周](https://wiki.eryajf.net/pages/22ef3d/) 
+- 🌁 [学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/) 
 
-- 😺 [学习周刊-总第256期-2026年第13周](https://wiki.eryajf.net/pages/f71cfa/) 
+- 😺 [学习周刊-总第257期-2026年第14周](https://wiki.eryajf.net/pages/22ef3d/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
