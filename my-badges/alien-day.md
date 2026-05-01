@@ -4,10 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/kite-desktop/commit/cbe45dfa4f0bfb5332a3bc0708f561d255e2992c">cbe45df</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/3f06f18ebf95660c9f96159e5a6eef799f5ca835">3f06f18</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/90b63f76ed217d8b546b2ffd205f92b18fff6382">90b63f7</a>
 - <a href="https://github.com/eryajf/eryajf/commit/fbb7a0be0495e34f04b4dba13ffe913a0dd495d5">fbb7a0b</a>
 - <a href="https://github.com/eryajf/eryajf/commit/cfc423c19d8f410361845298d3a2c1f9fe3d5b81">cfc423c</a>
 - <a href="https://github.com/eryajf/awesome-stars-eryajf/commit/5994b9f6b7bb6d0ced4453f73c4ecab380e2e04c">5994b9f</a>
-- <a href="https://github.com/eryajf/eryajf/commit/ecfe7f54389a2a62f2f7edeb8a81307ea7c87119">ecfe7f5</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

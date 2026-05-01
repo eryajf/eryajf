@@ -19,6 +19,11 @@ Pull requests:
 - <a href="https://github.com/eryajf/kite-desktop/pull/47">#47</a>: feat(favorites): 新增当前集群收藏页并接入侧边栏导航
 - <a href="https://github.com/eryajf/kite-desktop/pull/48">#48</a>: Improve pod table scrolling and delete flow
 - <a href="https://github.com/eryajf/kite-desktop/pull/49">#49</a>: docs(analytics): 补充桌面端数据分析隐私文档并完成脱敏埋点改造
+- <a href="https://github.com/eryajf/kite-desktop/pull/63">#63</a>: feat(release): 添加去重和管理部分剥离功能到发布草稿
+- <a href="https://github.com/eryajf/kite-desktop/pull/64">#64</a>: feat(docs): 添加中文 README 文件并删除英文版本
+- <a href="https://github.com/eryajf/kite-desktop/pull/70">#70</a>: 📝 docs(PULL_REQUEST_TEMPLATE): Add contribution license and DCO checkboxes.
+- <a href="https://github.com/eryajf/kite-desktop/pull/71">#71</a>: feat(release): add sync release to CNB job in workflow
+- <a href="https://github.com/eryajf/kite-desktop/pull/75">#75</a>: Add navigation routes and update application menu for settings and about sections
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

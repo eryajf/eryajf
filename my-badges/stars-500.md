@@ -28,9 +28,9 @@ Repos:
 * <a href="https://github.com/eryajf/vue-learn-code">eryajf/vue-learn-code: ★8</a>
 * <a href="https://github.com/eryajf/wechatbot">eryajf/wechatbot: ★8</a>
 * <a href="https://github.com/eryajf/chatgpt-vercel">eryajf/chatgpt-vercel: ★7</a>
+* <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills: ★7</a>
 * <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk: ★6</a>
 * <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★6</a>
-* <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills: ★6</a>
 * <a href="https://github.com/eryajf/gojenkins">eryajf/gojenkins: ★5</a>
 * <a href="https://github.com/eryajf/share-library">eryajf/share-library: ★5</a>
 * <a href="https://github.com/eryajf/studyFiles">eryajf/studyFiles: ★4</a>
