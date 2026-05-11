@@ -24,6 +24,7 @@ Pull requests:
 - <a href="https://github.com/eryajf/kite-desktop/pull/70">#70</a>: 📝 docs(PULL_REQUEST_TEMPLATE): Add contribution license and DCO checkboxes.
 - <a href="https://github.com/eryajf/kite-desktop/pull/71">#71</a>: feat(release): add sync release to CNB job in workflow
 - <a href="https://github.com/eryajf/kite-desktop/pull/75">#75</a>: Add navigation routes and update application menu for settings and about sections
+- <a href="https://github.com/eryajf/kite-desktop/pull/88">#88</a>: feat(preferences): 添加用户界面和外观偏好设置的加载与保存功能
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

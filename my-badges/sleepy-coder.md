@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/kite-desktop/commit/7c46260223a768e023ee36450d166c5d815e26f1">7c46260</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/fbfc41d25f1385b2111b775014779abb8a1f7deb">fbfc41d</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/6ff07d30b15e001dc1bbc559e0fb983f6954d973">6ff07d3</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/c4536a6fc704d0d57adbbe73719f436825e2b1b7">c4536a6</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/9d7c573268ae2965448a68c5524a3e89c79042c1">9d7c573</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/e331ab1ab18188875edbffe9de7135fdaae5c176">e331ab1</a>
-- <a href="https://github.com/eryajf/kite-desktop/commit/6474b35b0d8f1cac7e2ac21b14f7b8d6e0698c55">6474b35</a>
-- <a href="https://github.com/eryajf/kite-desktop/commit/6dad3602bb536121dd7698d42472ceb8babc91d0">6dad360</a>
-- <a href="https://github.com/eryajf/kite-desktop/commit/b6a527b15652bc930c69b3155a0e707fb3897f62">b6a527b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

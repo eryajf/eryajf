@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/kite-desktop/commit/7b01b0b64e99a3f628c8a976fe59787c6782b94f">7b01b0b</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/137319375b854dfe87d8b952c952b0db18d8d29c">1373193</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/4ee074a269af475a7d307615020bc9920922f122">4ee074a</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/14474204f18376225ccdc9d308de68902f394a6c">1447420</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/3b5cf5c1975dfd012d0bbc4502ea4df4ac5c7a76">3b5cf5c</a>
