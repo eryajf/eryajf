@@ -66,6 +66,7 @@ Repos:
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
 * <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
+* <a href="https://github.com/eryajf/agents-hub">eryajf/agents-hub: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop: ★281</a>
+* <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop: ★288</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★241</a>
-* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★206</a>
+* <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★207</a>
 * <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★196</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★178</a>
 * <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★158</a>
@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★28</a>
 * <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
-* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★23</a>
+* <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★20</a>
 * <a href="https://github.com/eryajf/recommend-actions">eryajf/recommend-actions: ★19</a>
 * <a href="https://github.com/eryajf/magic-of-kubernetes-scripts">eryajf/magic-of-kubernetes-scripts: ★17</a>
@@ -27,8 +27,8 @@ Repos:
 * <a href="https://github.com/eryajf/xirang-ui">eryajf/xirang-ui: ★16</a>
 * <a href="https://github.com/eryajf/shellabout">eryajf/shellabout: ★15</a>
 * <a href="https://github.com/eryajf/docker_learn">eryajf/docker_learn: ★15</a>
+* <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★15</a>
 * <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins: ★15</a>
-* <a href="https://github.com/eryajf/ldapctl">eryajf/ldapctl: ★14</a>
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★14</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★13</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
@@ -112,6 +112,7 @@ Repos:
 * <a href="https://github.com/eryajf/busuanzi">eryajf/busuanzi: ★1</a>
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
 * <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
+* <a href="https://github.com/eryajf/agents-hub">eryajf/agents-hub: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

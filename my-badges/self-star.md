@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 49 my own repositories." title="I&apos;ve starred 49 my own repositories." width="128">
-<strong>I&apos;ve starred 49 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 59 my own repositories." title="I&apos;ve starred 59 my own repositories." width="128">
+<strong>I&apos;ve starred 59 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/eryajf/shellabout">eryajf/shellabout</a>
@@ -51,6 +51,16 @@
 - <a href="https://github.com/eryajf/share-library">eryajf/share-library</a>
 - <a href="https://github.com/eryajf/yaml-readme">eryajf/yaml-readme</a>
 - <a href="https://github.com/eryajf/luban">eryajf/luban</a>
+- <a href="https://github.com/eryajf/promwrite">eryajf/promwrite</a>
+- <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag</a>
+- <a href="https://github.com/eryajf/glactl">eryajf/glactl</a>
+- <a href="https://github.com/eryajf/go-enterprise-email-sdk">eryajf/go-enterprise-email-sdk</a>
+- <a href="https://github.com/eryajf/cdn-refresh">eryajf/cdn-refresh</a>
+- <a href="https://github.com/eryajf/awesome-utools-plugins">eryajf/awesome-utools-plugins</a>
+- <a href="https://github.com/eryajf/learn-skills">eryajf/learn-skills</a>
+- <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader</a>
+- <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop</a>
+- <a href="https://github.com/eryajf/agents-hub">eryajf/agents-hub</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

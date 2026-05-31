@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/eryajf/agents-hub/commit/52338b3d00d5bbe4b70de963a49c92055bb84e7a">52338b3</a>
+- <a href="https://github.com/eryajf/kite-desktop/commit/9548b274aa2d9709c3f926e35639e3f12d9555f7">9548b27</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/893a4b13564dacfc1f771febf66afd50bcab0bd3">893a4b1</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/e811b82574de5652561bbc60c3a1da5576472f75">e811b82</a>
 - <a href="https://github.com/eryajf/kite-desktop/commit/ee6b2a6f8d00d0fbe2e9f8fdab6a6a13ad3b1fc6">ee6b2a6</a>
