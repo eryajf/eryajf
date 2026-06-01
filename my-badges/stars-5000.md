@@ -6,11 +6,11 @@ Repos:
 
 * <a href="https://github.com/weibaohui/k8m">weibaohui/k8m: ★826</a>
 * <a href="https://github.com/eryajf/awesome-navigation">eryajf/awesome-navigation: ★653</a>
-* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★594</a>
+* <a href="https://github.com/eryajf/learning-weekly">eryajf/learning-weekly: ★595</a>
 * <a href="https://github.com/opsre/cloud_dns_exporter">opsre/cloud_dns_exporter: ★368</a>
 * <a href="https://github.com/eryajf/awesome-github-profile-readme-chinese">eryajf/awesome-github-profile-readme-chinese: ★294</a>
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★293</a>
-* <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop: ★288</a>
+* <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop: ★289</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★241</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★207</a>
 * <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★196</a>
