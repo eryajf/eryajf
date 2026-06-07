@@ -145,7 +145,7 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) 
+- 🐻 [学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) 
 
 - 🎃 [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) 
 
