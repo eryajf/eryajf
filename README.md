@@ -145,17 +145,17 @@ width="100%"  height="2">
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) 
+- 🐻 [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) 
 
-- 🎃 [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) 
+- 🎃 [学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) 
 
-- 🚀 [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) 
+- 🚀 [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) 
 
-- 🌋 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) 
+- 🌋 [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) 
 
-- 🌁 [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) 
+- 🌁 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) 
 
-- 😺 [学习周刊-总第261期-2026年第18周](https://wiki.eryajf.net/pages/71aed3/) 
+- 😺 [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
