@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★160</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★65</a>
 * <a href="https://github.com/eryajf/xirang">eryajf/xirang: ★57</a>
-* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★52</a>
+* <a href="https://github.com/eryajf/care-screenshot">eryajf/care-screenshot: ★51</a>
 * <a href="https://github.com/eryajf/langchaingo-ollama-rag">eryajf/langchaingo-ollama-rag: ★46</a>
 * <a href="https://github.com/eryajf/Obsidian-Plugin-Weekly">eryajf/Obsidian-Plugin-Weekly: ★30</a>
 * <a href="https://github.com/eryajf/go-ldap-admin-doc">eryajf/go-ldap-admin-doc: ★29</a>

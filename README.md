@@ -204,7 +204,6 @@ width="100%"  height="2">
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 59 my own repositories." title="I&apos;ve starred 59 my own repositories." width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
 <a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
@@ -214,4 +213,5 @@ width="100%"  height="2">
 <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
+<a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <!-- my-badges end -->
