@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 59 my own repositories." title="I&apos;ve starred 59 my own repositories." width="128">
-<strong>I&apos;ve starred 59 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 60 my own repositories." title="I&apos;ve starred 60 my own repositories." width="128">
+<strong>I&apos;ve starred 60 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/eryajf/shellabout">eryajf/shellabout</a>
@@ -61,6 +61,7 @@
 - <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader</a>
 - <a href="https://github.com/eryajf/kite-desktop">eryajf/kite-desktop</a>
 - <a href="https://github.com/eryajf/agents-hub">eryajf/agents-hub</a>
+- <a href="https://github.com/eryajf/open-connector-image">eryajf/open-connector-image</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

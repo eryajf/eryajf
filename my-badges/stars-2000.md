@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/eryajf/magic-of-sysuse-scripts">eryajf/magic-of-sysuse-scripts: ★293</a>
 * <a href="https://github.com/eryajf/vdoing-template">eryajf/vdoing-template: ★240</a>
 * <a href="https://github.com/eryajf/read-list">eryajf/read-list: ★204</a>
-* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★195</a>
+* <a href="https://github.com/opsre/go-ldap-admin-ui">opsre/go-ldap-admin-ui: ★196</a>
 * <a href="https://github.com/eryajf/awesome-stars-eryajf">eryajf/awesome-stars-eryajf: ★178</a>
 * <a href="https://github.com/opsre/ZenOps">opsre/ZenOps: ★160</a>
 * <a href="https://github.com/eryajf/chatgpt-wecom">eryajf/chatgpt-wecom: ★65</a>
@@ -33,7 +33,7 @@ Repos:
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★13</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★11</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★10</a>
+* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
@@ -113,6 +113,8 @@ Repos:
 * <a href="https://github.com/eryajf/dufs-material-assets">eryajf/dufs-material-assets: ★1</a>
 * <a href="https://github.com/eryajf/obsidian-custom-image-auto-uploader">eryajf/obsidian-custom-image-auto-uploader: ★1</a>
 * <a href="https://github.com/eryajf/agents-hub">eryajf/agents-hub: ★1</a>
+* <a href="https://github.com/eryajf/open-connector-image">eryajf/open-connector-image: ★1</a>
+* <a href="https://github.com/eryajf/ExpertTeam-Codex">eryajf/ExpertTeam-Codex: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
