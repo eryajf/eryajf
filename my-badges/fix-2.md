@@ -4,15 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/eryajf/dbx/commit/de7f2fe6b6ffc2faf55e4e2235e0182099879255">de7f2fe</a>: fix(editor): 修复SQL快捷执行导致执行全量SQL的问题 (#2384)
-
-- 将执行SQL语句的逻辑从直接请求改为通过事件发射
-- 增强了代码的可扩展性和可维护性
-- <a href="https://github.com/eryajf/dbx/commit/c2cc9f22cfe996ee1349b1d04f42ac2e45c3546e">c2cc9f2</a>: fix(connection): 复制连接时保持在同一组内
-
-- 修改 `addConnection` 方法以支持指定目标组 ID
-- 更新 `duplicateConnection` 函数以传递目标组 ID
-- 添加测试用例以验证复制连接的功能
+- <a href="https://github.com/eryajf/dbx/commit/8e87ab2e39c33ca937724a5007070a5bdf8849ef">8e87ab2</a>: fix(export): preserve CSV null semantics
+- <a href="https://github.com/eryajf/dbx/commit/e51004d79c74a737cb921c83d8ecff7ee3ec2366">e51004d</a>: fix(sidebar): keep partition pagination at schema root
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

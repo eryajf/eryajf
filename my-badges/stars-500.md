@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/eryajf/gitlabCodeSearch">eryajf/gitlabCodeSearch: ★28</a>
-* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★26</a>
+* <a href="https://github.com/eryajf/eryajf">eryajf/eryajf: ★25</a>
 * <a href="https://github.com/eryajf/awesome-chatgpt-answer">eryajf/awesome-chatgpt-answer: ★25</a>
 * <a href="https://github.com/eryajf/third-tools">eryajf/third-tools: ★22</a>
 * <a href="https://github.com/eryajf/eryajfctl">eryajf/eryajfctl: ★20</a>
@@ -20,8 +20,8 @@ Repos:
 * <a href="https://github.com/eryajf/learn-github">eryajf/learn-github: ★15</a>
 * <a href="https://github.com/eryajf/rpmbuild">eryajf/rpmbuild: ★13</a>
 * <a href="https://github.com/eryajf/cloudctl">eryajf/cloudctl: ★12</a>
+* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★12</a>
 * <a href="https://github.com/eryajf/ldapool">eryajf/ldapool: ★11</a>
-* <a href="https://github.com/awesome-ops/awesome-ops.github.io">awesome-ops/awesome-ops.github.io: ★11</a>
 * <a href="https://github.com/eryajf/GitHub-Chinese-Top-Charts">eryajf/GitHub-Chinese-Top-Charts: ★9</a>
 * <a href="https://github.com/eryajf/luban">eryajf/luban: ★9</a>
 * <a href="https://github.com/eryajf/eryajf-dockerfile">eryajf/eryajf-dockerfile: ★9</a>
