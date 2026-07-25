@@ -23,7 +23,9 @@ width="100%"  height="2">
 - 2，人的痛苦很大部分来源于`迷`（愚痴），而真心谛听的往往阅经猛醒，以致破迷开悟，离苦得乐。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
 - 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都"恭而有礼"，也希望借此能够结交更多的朋友。
 
+
 ### 🤗 欢迎来访
+
 
 >[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github.com/eryajf)[![](https://img.shields.io/github/stars/opsre?color=fefb7b&logo=Undertale)](https://github.com/opsre)
 [![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
@@ -163,6 +165,8 @@ width="100%"  height="2">
 </details>
 
 ### 🥇 Badges
+
+<img align='right' src="https://kodama-sigma.vercel.app/eryajf.svg?theme=shore&tint=lang&species=sakura" width="750" />
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
