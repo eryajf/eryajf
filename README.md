@@ -166,7 +166,7 @@ width="100%"  height="2">
 
 ### 🥇 Badges
 
-<img align='right' src="https://kodama-sigma.vercel.app/eryajf.svg?theme=shore&tint=lang&species=sakura" width="650" />
+<img align='right' src="https://kodama-sigma.vercel.app/eryajf.svg?theme=shore&tint=lang&species=sakura" width="600" />
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
