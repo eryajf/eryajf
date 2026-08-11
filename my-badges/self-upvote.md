@@ -24,6 +24,7 @@
 * <a href="https://github.com/jaywcjlove/reference/issues/102#issuecomment-1368158419">🎉</a>
 * <a href="https://github.com/yingDev/WGestures2-bugs/issues/191#issuecomment-1524390326">👍</a>
 * <a href="https://github.com/RSSNext/Folo/issues/639#issuecomment-2375591419">👍</a>
+* <a href="https://github.com/t8y2/dbx/issues/941#issuecomment-4665806196">❤️</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
