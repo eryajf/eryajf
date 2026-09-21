@@ -75,5 +75,26 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/eryajf/dbx/pull/2\">#2</a>: Refresh database connectivity, automation, and release workflows",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "pr-collaboration-20",
+    "tier": 4,
+    "desc": "I have participated in pull requests with 20 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/eryajf/dbx/pull/2\">#2</a>: Refresh database connectivity, automation, and release workflows",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "pr-collaboration-25",
+    "tier": 5,
+    "desc": "I have participated in pull requests with 25 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/eryajf/dbx/pull/2\">#2</a>: Refresh database connectivity, automation, and release workflows",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
   }
 ]

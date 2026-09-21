@@ -180,4 +180,7 @@ width="100%"  height="2">
 <a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
+<a href="my-badges/pr-collaboration-15.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-15.png" alt="I have participated in pull requests with 15 or more people" title="I have participated in pull requests with 15 or more people" width="64"></a>
+<a href="my-badges/pr-collaboration-20.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-20.png" alt="I have participated in pull requests with 20 or more people" title="I have participated in pull requests with 20 or more people" width="64"></a>
+<a href="my-badges/pr-collaboration-25.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-25.png" alt="I have participated in pull requests with 25 or more people" title="I have participated in pull requests with 25 or more people" width="64"></a>
 <!-- my-badges end -->
