@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/eryajf/dbx/pull/2">#2</a>: Refresh database connectivity, automation, and release workflows
+- <a href="https://github.com/t8y2/dbx/pull/12711">#12711</a>: feat(editor): support dialect-aware SQL region folding
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
